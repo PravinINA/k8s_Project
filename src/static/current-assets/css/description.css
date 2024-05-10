@@ -1,0 +1,885 @@
+.b-description_readmore_button {
+  cursor: pointer;
+  display: inline-block;
+  font-size: 0.838em;
+  text-decoration: underline;
+  text-transform: capitalize;
+  font-family: "Verdana";
+}
+.stars-list li {
+  background: url("https://www.oberoihotels.com/images/oberoihotels/common/star.jpg")
+    no-repeat center center;
+  display: inline-block;
+  width: 16px;
+  height: 17px;
+  margin-right: 2px;
+}
+.descriptionSec {
+  padding: 30px 0 35px 0;
+  max-width: 1270px;
+  margin: 0 auto;
+}
+.descriptionSec.map-section {
+  max-width: 100%;
+  padding-bottom: 0px;
+}
+.descriptionSec .descriptionImageSlide {
+  position: relative;
+}
+.descriptionSec .descriptionImageSlide .banner-layer {
+  background: url(https://www.oberoihotels.com/images/oberoihotels/overview/black-tint.png?v=5)
+    bottom center repeat-x;
+  width: 100%;
+  position: absolute;
+  z-index: 0;
+  bottom: 0px;
+  height: 100%;
+}
+.descriptionSec .descriptionImageSlide .destn-hotel-name {
+  bottom: 20px;
+  color: #ffffff;
+  font-family: "Verdana";
+  font-size: 0.941em;
+  left: 0;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
+.descriptionSec
+  .slick-slide[data-slick-index="0"]
+  .descriptionImageSlide
+  .destn-hotel-name {
+  display: block;
+}
+.descriptionSec .contact-details {
+  padding: 10px 0px 0px;
+  text-align: center;
+}
+.descriptionSec .contact-details #mapArea {
+  display: none;
+}
+.descriptionSec .contact-details .map-area {
+  margin-bottom: 25px;
+}
+.descriptionSec .contact-details .map-area .map-colm {
+  margin-right: 3.4%;
+  width: 45%;
+}
+.descriptionSec .contact-details .map-area .map-colm .map-destination {
+  margin: 0;
+  max-width: 100%;
+  width: 100%;
+}
+.descriptionSec
+  .contact-details
+  .map-area
+  .map-colm
+  .map-destination
+  .map-destination-wrap
+  .map-detail
+  #dmap {
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+.descriptionSec .contact-details .map-area .map-colm img {
+  max-width: 100%;
+  width: 100%;
+  height: 100%;
+}
+.descriptionSec .contact-details .map-area .map-detail-colm {
+  padding-top: 0;
+  width: 50%;
+  text-align: left;
+}
+.descriptionSec .contact-details .map-area .map-detail-colm a {
+  margin-right: 50px;
+}
+.descriptionSec .contact-details .map-area .map-detail-colm .map-hdng {
+  font-size: 2.25em;
+  font-family: "optimanormal", serif;
+  margin-bottom: 10px;
+}
+.descriptionSec .contact-details .map-area .map-detail-colm .map-hdng h1 {
+  font-size: inherit;
+  font-weight: 400;
+  font-family: "optimanormal", serif;
+}
+.descriptionSec .contact-details .map-area .map-detail-colm .map-hdng h1 em {
+  font-style: italic;
+}
+.descriptionSec .contact-details .map-area .map-detail-colm .map-hdng h2 {
+  font-size: inherit;
+  font-weight: 400;
+  font-family: "optimanormal", serif;
+}
+.descriptionSec .contact-details .map-area .map-detail-colm .map-hdng h2 em {
+  font-style: italic;
+}
+.descriptionSec .contact-details .map-area .map-detail-colm p {
+  margin-bottom: 19px;
+}
+.descriptionSec .contact-details .map-area .map-detail-colm .info-list {
+  margin-top: 5px;
+  clear: both;
+}
+.descriptionSec .contact-details .map-area .map-detail-colm .travel-notes {
+  margin-top: 0px;
+}
+.descriptionSec
+  .contact-details
+  .map-area
+  .map-detail-colm
+  .travel-notes
+  ul.travelcity
+  li {
+  font-family: "verdanaN";
+  float: none;
+  list-style-type: none;
+  margin-right: 15px;
+  cursor: pointer;
+  font-size: 19px;
+  display: inline-block;
+  color:#606161;
+}
+.descriptionSec
+  .contact-details
+  .map-area
+  .map-detail-colm
+  .travel-notes
+  ul.travelcity
+  li.active {
+  color: #d8741b;
+}
+.descriptionSec .contact-details .map-area .map-detail-colm .map-txt1 {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 2px;
+  text-transform: uppercase;
+}
+.descriptionSec .contact-details .map-area .map-detail-colm .map-txt2 {
+  font-size: 13px;
+  margin-top: -5px;
+}
+.descriptionSec .contact-details .map-area .map-detail-colm .map-txt3 {
+  font-size: 19px;
+  font-weight: 400;
+  margin-bottom: 0px;
+}
+.descriptionSec .contact-details .map-area .map-detail-colm .map-bullets-list {
+  padding-left: 15px;
+}
+.descriptionSec
+  .contact-details
+  .map-area
+  .map-detail-colm
+  .map-bullets-list
+  li {
+  font-family: "Verdana";
+  font-size: 0.938em;
+  font-weight: 300;
+  list-style: disc outside none;
+  margin-bottom: 5px;
+}
+.descriptionSec
+  .contact-details
+  .map-area
+  .map-detail-colm
+  .map-bullets-list:last-child {
+  margin-bottom: 0;
+}
+.descriptionSec .contact-details .map-area .map-colm,
+.descriptionSec .contact-details .map-area .map-detail-colm {
+  display: inline-block;
+  vertical-align: top;
+}
+.descriptionSec .contact-details p {
+  font-family: "verdanaN";
+  font-size: 19px;
+}
+.descriptionSec .contact-details .cta-box {
+  margin: 15px auto 0px;
+}
+.descriptionSec .contact-details .cta-box a {
+  color: #d8741b;
+  font-family: "Verdana";
+  font-size: 0.938em;
+  text-decoration: none;
+  padding-bottom: 3px;
+  padding-right: 15px;
+  position: relative;
+  margin-right: 20px;
+  line-height: 100%;
+  font-weight: 500;
+}
+.descriptionSec .contact-details .cta-box a.style3 {
+  color: #6ab8d9;
+}
+.descriptionSec .contact-details .cta-box a.style3:after {
+  border-bottom: 2px solid #6ab8d9;
+  border-right: 2px solid #6ab8d9;
+}
+.descriptionSec .contact-details .cta-box a.style4 {
+  color: #da7b26;
+}
+.descriptionSec .contact-details .cta-box a:after {
+  content: " ";
+  -moz-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  border-bottom: 2px solid #d8741b;
+  border-right: 2px solid #d8741b;
+  top: 50%;
+  margin-top: -6px;
+  height: 7px;
+  right: 0px;
+  position: absolute;
+  -moz-transform: rotate(-44deg);
+  -webkit-transform: rotate(-44deg);
+  -ms-transform: rotate(-44deg);
+  -o-transform: rotate(-44deg);
+  transform: rotate(-44deg);
+  width: 7px;
+  z-index: 2;
+}
+.descriptionSec .contact-details .cta-box a.map-opened:after {
+  margin-top: -8px;
+  -moz-transform: rotate(44deg);
+  -webkit-transform: rotate(44deg);
+  -ms-transform: rotate(44deg);
+  -o-transform: rotate(44deg);
+  transform: rotate(44deg);
+}
+.descriptionSec .contact-details .phone-email {
+  max-width: 800px;
+  margin: 0 auto;
+  border-top: 1px solid #ebebeb;
+  padding: 15px;
+}
+.descriptionSec .contact-details .phone-email ul {
+  list-style-type: none;
+}
+.descriptionSec .contact-details .phone-email ul li {
+  font-family: "Verdana";
+  font-weight: 500;
+  display: inline-block;
+  margin-bottom: 12px;
+  width: 48%;
+}
+.descriptionSec .contact-details .phone-email ul li .mb-none {
+  margin-bottom: 0 !important;
+}
+.descriptionSec .contact-details .phone-email ul li span {
+  font-weight: 300;
+}
+.descriptionSec .contact-details .phone-email ul li a {
+  font-weight: 300;
+  text-decoration: none;
+  color: #000;
+  display: block;
+}
+.descriptionSec .descriptionSecContentSec {
+  max-width: 1366px;
+  margin: 0 auto;
+  padding: 20px 4%;
+}
+.descriptionSec .descriptionSec-wraper {
+  align-items: center;
+}
+.descriptionSec .descriptionSec-wraper .img-box {
+  width: 56%;
+  float: left;
+}
+.descriptionSec .descriptionSec-wraper .title {
+  font-family: "optimanormal", serif;
+  color: #000;
+  float: left;
+  font-size: 2.188em;
+  line-height: 100%;
+  margin-bottom: 15px;
+}
+.descriptionSec .descriptionSec-wraper .title i {
+  font-style: italic;
+}
+.descriptionSec .descriptionSec-wraper .title span {
+  font-size: 53%;
+  font-style: italic;
+  display: block;
+}
+.descriptionSec .descriptionSec-wraper .text-container {
+  width: 44%;
+  float: left;
+  padding: 0 25px;
+}
+.descriptionSec .descriptionSec-wraper .text-container p {
+  font-family: "Verdana";
+  margin-bottom: 8px;
+  font-size: 19px;
+  color: #000;
+  line-height: 150%;
+}
+.descriptionSec .descriptionSec-wraper .text-container .social-icon {
+  float: right;
+}
+.descriptionSec .descriptionSec-wraper .text-container .social-icon ul {
+  list-style-type: none;
+}
+.descriptionSec .descriptionSec-wraper .text-container .social-icon ul li {
+  display: inline-block;
+  margin-right: 5px;
+  margin-top: 5px;
+}
+.descriptionSec .descriptionSec-wraper .text-container .social-icon ul li a {
+  text-decoration: none;
+  height: 26px;
+  width: 26px;
+  display: block;
+  background: url(https://www.oberoihotels.com/images/oberoihotels/common/grey-cocial-logo.png?v=4)
+    no-repeat;
+}
+.descriptionSec
+  .descriptionSec-wraper
+  .text-container
+  .social-icon
+  ul
+  li
+  a.facebook {
+  background-position: 0px 0px;
+}
+.descriptionSec
+  .descriptionSec-wraper
+  .text-container
+  .social-icon
+  ul
+  li
+  a.facebook:hover {
+  background-position: 0px -26px;
+}
+.descriptionSec
+  .descriptionSec-wraper
+  .text-container
+  .social-icon
+  ul
+  li
+  a.twitter {
+  background-position: -103px 0;
+}
+.descriptionSec
+  .descriptionSec-wraper
+  .text-container
+  .social-icon
+  ul
+  li
+  a.twitter:hover {
+  background-position: -103px -26px;
+}
+.descriptionSec
+  .descriptionSec-wraper
+  .text-container
+  .social-icon
+  ul
+  li
+  a.instagram {
+  background-position: -149px 0;
+}
+.descriptionSec
+  .descriptionSec-wraper
+  .text-container
+  .social-icon
+  ul
+  li
+  a.instagram:hover {
+  background-position: -149px -26px;
+}
+.descriptionSec .slick-prev {
+  width: 45px;
+  height: 45px;
+  left: 0px;
+  background: url(https://www.oberoihotels.com/images/oberoihotels/slider-arrow.jpg)
+    no-repeat left center;
+  z-index: 9;
+}
+.descriptionSec .slick-prev:before {
+  display: none;
+}
+.descriptionSec .slick-prev:hover {
+  background: url(https://www.oberoihotels.com/images/oberoihotels/slider-arrow-hover.jpg)
+    no-repeat left center;
+  background-position: 0px 1px;
+}
+.descriptionSec .slick-next {
+  width: 45px;
+  height: 45px;
+  right: 0px;
+  z-index: 9;
+  background: url(https://www.oberoihotels.com/images/oberoihotels/slider-arrow.jpg)
+    no-repeat right center;
+}
+.descriptionSec .slick-next:before {
+  display: none;
+}
+.descriptionSec .slick-next:hover {
+  background: url(https://www.oberoihotels.com/images/oberoihotels/slider-arrow-hover.jpg)
+    no-repeat right center;
+  background-position: -46px 1px;
+}
+.descriptionSec .currentTime {
+  margin-top: 30px;
+}
+.descriptionSec .currentTime .time {
+  float: left;
+  margin-right: 20px;
+  color: #000;
+  font-size: 15px;
+  width: auto;
+}
+.descriptionSec .descriptionTxt {
+  margin: 0 0px;
+  float: left;
+  width: 100%;
+}
+.descriptionSec .readContent {
+  padding-bottom: 1px;
+  font-weight: 500;
+  cursor: pointer;
+  border-bottom: 1px solid #000;
+}
+.descriptionSec .socialShare {
+  width: auto;
+  float: left;
+}
+.descriptionSec .socialShare .shareTxt {
+  font-size: 15px;
+  color: #000;
+  font-size: 0.9375em;
+  float: left;
+  width: auto;
+  padding-right: 20px;
+}
+.descriptionSec .socialShare .socialIcon {
+  width: auto;
+  float: left;
+}
+.descriptionSec .socialShare ul {
+  list-style: none;
+}
+.descriptionSec .socialShare ul li {
+  float: left;
+  margin-right: 20px;
+}
+.descriptionSec .socialShare ul li a {
+  background: url(https://www.oberoihotels.com/images/oberoihotels/social-sprite2.png)
+    no-repeat;
+  width: 22px;
+  height: 20px;
+  display: block;
+}
+.descriptionSec .socialShare ul li a.facebook {
+  background-position: 7px 0px;
+}
+.descriptionSec .socialShare ul li a.facebook:hover {
+  background-position: 7px -32px;
+}
+.descriptionSec .socialShare ul li a.twitter {
+  background-position: -42px 0px;
+}
+.descriptionSec .socialShare ul li a.twitter:hover {
+  background-position: -42px -32px;
+}
+.descriptionSec .socialShare ul li a.insta {
+  background-position: -88px 0px;
+}
+.descriptionSec .socialShare ul li a.insta:hover {
+  background-position: -88px -32px;
+}
+.descriptionSec .socialShare ul li a.youtube {
+  background-position: -137px 0px;
+}
+.descriptionSec .socialShare ul li a.youtube:hover {
+  background-position: -137px -32px;
+}
+.descriptionSec .socialShare ul li a span {
+  display: block;
+  text-indent: -9999px;
+}
+.descriptionSec.descriptionSecWrap .slick-list {
+  padding-right: 0px;
+}
+.moreContent {
+  width: 0px;
+  height: 0px;
+  display: inline-block;
+  overflow: hidden;
+  transition: overflow 0.5s, overflow 0.5s 0.5s;
+}
+.showContent .moreContent {
+  overflow: auto;
+  width: auto;
+  height: auto;
+  display: inline;
+  transition: overflow 0.5s, overflow 0.5s 0.5s;
+}
+.desVisbleContent {
+  position: relative;
+}
+.desVisbleContent:after {
+  content: "...";
+}
+.showContent .desVisbleContent:after {
+  content: " ";
+}
+.aq-overlay {
+  background: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  visibility: hidden;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  transition: all 0.3s ease;
+  z-index: 9999;
+}
+.aq-overlay.active {
+  opacity: 1;
+  visibility: visible;
+}
+.air-txt {
+  color: #0673e2;
+  cursor: pointer;
+  position: relative;
+}
+.air-txt.active .air-quality {
+  opacity: 1;
+  visibility: visible;
+}
+.air-txt .air-quality {
+  background-color: #ffffff;
+  color: #000000;
+  cursor: auto;
+  max-width: none;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: -288px;
+  transition: all 0.3s ease 0s;
+  visibility: hidden;
+  width: 520px;
+  z-index: 99990;
+}
+.air-txt .air-quality .air-wrap > p {
+  margin: 0 !important;
+}
+.air-txt .air-quality:before {
+  border-bottom: 15px solid #ffffff;
+  border-right: 15px solid #ffffff;
+  bottom: -7px;
+  content: "";
+  left: 50%;
+  position: absolute;
+  transform: rotate(-45deg);
+}
+.air-quality {
+  border: 1px solid #e8e8e8;
+  font-size: 12px;
+  margin: 20px auto 0;
+  max-width: 560px;
+}
+.air-quality .air-quality-header {
+  background-color: #f7f7f7;
+  font-weight: 500;
+  padding: 5px 0;
+}
+.air-quality .air-wrap {
+  padding: 20px 20px 10px;
+  text-align: left;
+}
+.air-quality .air-wrap > p {
+  margin-bottom: 5px;
+}
+.air-quality .air-colm1,
+.air-quality .air-colm2 {
+  float: left;
+}
+.air-quality .air-data {
+  margin-bottom: 20px;
+}
+.air-quality .air-colm1 {
+  border-right: 1px solid #eaeaea;
+  margin-right: 2%;
+  padding-right: 2%;
+  width: 48%;
+}
+.air-quality .air-colm2 {
+  float: left;
+  width: 50%;
+}
+.air-quality .air-qaulity-img {
+  display: block;
+  margin-top: 15px;
+}
+.air-quality .air-list li {
+  background-color: #e9e9e8;
+  border-radius: 15px;
+  list-style: outside none none;
+  margin-bottom: 12px;
+  padding: 4px 15px;
+  position: relative;
+}
+.air-quality .air-list li span {
+  position: relative;
+  z-index: 2;
+}
+.air-quality .air-list li .air-numbr {
+  float: left;
+  font-size: 15px;
+  font-weight: 300;
+}
+.air-quality .air-list li .air-location {
+  color: #7c7c7c;
+  float: right;
+  font-weight: 300;
+  line-height: 19px;
+}
+.air-quality .air-list li .start-point {
+  bottom: -16px;
+  font-size: 10px;
+  left: 5px;
+  position: absolute;
+}
+.air-quality .air-list li .end-point {
+  bottom: -16px;
+  font-size: 10px;
+  position: absolute;
+  right: 0;
+}
+.air-quality .air-list li .air-bg {
+  background: #a39f34;
+  background: -moz-linear-gradient(90deg, #37b44c 40%, #a39f34 100%);
+  background: -webkit-linear-gradient(90deg, #37b44c 40%, #a39f34 100%);
+  background: linear-gradient(90deg, #37b44c 40%, #a39f34 100%);
+  position: absolute;
+  border-radius: 15px;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+}
+.travelcity {
+  padding: 2px 0;
+}
+.travelcity li {
+  display: inline-block;
+  background-color: none;
+  padding: 5px 0px;
+}
+
+.info-list li {
+  background-repeat: no-repeat;
+  background-position: left 3px;
+  font-family: "verdanaN";
+  font-size: 19px;
+  font-weight: 300;
+  line-height: 20px;
+  list-style: outside none none;
+  margin: 0px 0px 22px;
+  padding-left: 28px;
+  padding-right: 28px;
+  display: inline-block;
+  color:#606161;
+}
+.info-list .dstnc {
+  background: url(../../dist/images/location-icon.svg)
+    no-repeat;
+  /* background-position: -252px -129px; */
+}
+.info-list .tme {
+  background: url(../../dist/images/drive-icon.svg)
+    no-repeat;
+  /* background-position: -252px -151px; */
+}
+.mapAreaWrapRev {
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+}
+@media only screen and (max-width: 1366px) {
+  .descriptionSec.descriptionSecWrap .descriptionSec-wraper .text-container {
+    padding-right: 5%;
+  }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1440px) {
+  .descriptionSec .contact-details .map-area .map-colm {
+    width: 55%;
+  }
+}
+@media only screen and (max-width: 1199px) {
+  .descriptionSec .contact-details .map-area .map-colm {
+    margin-right: 0;
+    width: 100%;
+  }
+  .descriptionSec .contact-details .map-area .map-detail-colm {
+    width: 100%;
+  }
+  .descriptionSec .right-section {
+    margin-right: 8%;
+  }
+  .descriptionSec .descriptionSec-wraper .title {
+    font-size: 2em;
+  }
+  .descriptionSec .descriptionSec-wraper .text-container {
+    padding-right: 5%;
+  }
+  .descriptionSec
+    .descriptionSec
+    .descriptionSec-slider
+    .exploreWrap
+    .text-container {
+    padding: 20px 2% 0 8%;
+  }
+  .descriptionSecWrap {
+    padding: 20px 0px;
+  }
+  .descriptionSec .descriptionSec-wraper .text-container .title {
+    display: none;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .descriptionSec
+    .contact-details
+    .map-area
+    .map-colm
+    .map-destination
+    .map-destination-wrap
+    .map-detail {
+    height: 388px;
+  }
+  .descriptionSec {
+    width: 100%;
+    float: left;
+    padding: 20px 15px 0;
+  }
+  .descriptionSec.map-section {
+    padding: 0 0px;
+  }
+  .descriptionSec .contact-details .map-area .map-detail-colm a{
+    margin-right:10px;
+    margin-bottom:15px;
+    display:inline-flex;
+  }
+  .descriptionSec .descriptionImageSlide .destn-hotel-name {
+    bottom: 34px;
+  }
+  .descriptionSec .right-section {
+    margin-right: 0px;
+  }
+  .descriptionSec .descriptionSec-wraper {
+    padding: 0px;
+  }
+  .descriptionSec .descriptionSec-wraper .text-container {
+    padding: 15px 0px 0;
+    width: 100%;
+  }
+  .descriptionSec .descriptionSec-wraper .img-box {
+    width: 100%;
+  }
+  .air-txt .air-quality {
+    right: 0;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .descriptionSec
+    .contact-details
+    .map-area
+    .map-colm
+    .map-destination
+    .map-destination-wrap
+    .map-detail {
+    height: auto;
+  }
+  .descriptionSec .contact-details {
+    padding: 0;
+  }
+  .descriptionSec .contact-details .map-area {
+    margin-bottom: 15px;
+  }
+  .descriptionSec .contact-details .map-area .map-colm {
+    margin-right: 0;
+  }
+  .descriptionSec .contact-details .map-area .map-detail-colm {
+    padding-top: 20px;
+  }
+  .descriptionSec .contact-details .map-area .map-detail-colm .map-hdng {
+    font-size: 1.35em;
+    margin-bottom: 10px;
+  }
+  .descriptionSec
+    .contact-details
+    .map-area
+    .map-detail-colm
+    .map-bullets-list
+    li {
+    font-size: 0.838em;
+    margin-bottom: 2px;
+  }
+  .descriptionSec .contact-details .cta-box {
+    margin: 15px auto;
+  }
+  .descriptionSec .contact-details .phone-email {
+    padding: 10px 0px;
+  }
+  .descriptionSec .contact-details .phone-email ul li {
+    margin-bottom: 5px;
+    font-size: 0.8em;
+    width: 100%;
+  }
+  .descriptionSec .descriptionSec-wraper {
+    display: block;
+  }
+  .descriptionSec .descriptionSec-wraper .title {
+    float: none;
+    font-size: 1.5em;
+    margin-bottom: 15px;
+  }
+  .descriptionSec .slick-prev {
+    left: -20px;
+    top: 40%;
+  }
+  .descriptionSec .slick-next {
+    right: -20px;
+    top: 40%;
+  }
+  .descriptionSec .descriptionSecContentSec {
+    padding: 20px 0px;
+  }
+  .descriptionSec .slick-list {
+    padding: 0;
+  }
+  .descriptionSec .descriptionSec-slider .exploreWrap .text-container {
+    padding: 20px 0px 0px 0px;
+  }
+  .descriptionSec .currentTime {
+    margin-top: 15px;
+  }
+  .descriptionSec .descriptionSec-wraper {
+    padding: 0px;
+  }
+  .air-txt .air-quality {
+    max-width: 320px;
+    width: 320px;
+    top: -388px;
+  }
+  .air-quality .air-colm1 {
+    border-right: 0 none;
+    margin: 0 0 15px;
+    padding: 0;
+    width: 100%;
+  }
+  .air-quality .air-colm2 {
+    width: 100%;
+  }
+  .air-quality .air-qaulity-img {
+    text-align: center;
+  }
+}
+/*# sourceMappingURL=description.css.map */

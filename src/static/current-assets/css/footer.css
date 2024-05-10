@@ -1,0 +1,189 @@
+.social li {
+    float: left;
+    margin-right: 10px;
+  }
+  .social li a {
+    background: url(https://www.oberoihotels.com/images/oberoihotels/sprites-icons-new.png?v=11) no-repeat;
+    width: 22px;
+    height: 20px;
+    display: block;
+  }
+  .social li a.facebook {
+    background-position: -3px -10px;
+  }
+  .social li a.facebook:hover {
+    background-position: -3px -42px;
+  }
+  .social li a.twitter {
+    background-position: -51px -10px;
+  }
+  .social li a.twitter:hover {
+    background-position: -51px -42px;
+  }
+  .social li a.insta {
+    background-position: -98px -10px;
+  }
+  .social li a.insta:hover {
+    background-position: -98px -42px;
+  }
+  .social li a.youtube {
+    background-position: -148px -11px;
+  }
+  .social li a.youtube:hover {
+    background-position: -148px -43px;
+  }
+  .social li a span {
+    display: block;
+    text-indent: -9999px;
+  }
+  footer {
+    /* background: url(https://www.oberoihotels.com/images/oberoihotels/footer-bg.jpg); */
+    background:#080339;
+    overflow: hidden;
+    float: left;
+    width: 100%;
+  }
+  footer .footer-container {
+    padding: 50px 11.4%;
+    /* max-width: 1366px; */
+    margin: 0 auto;
+  }
+  footer .footer-container .column {
+    width: 25%;
+    float: left;
+  }
+  footer .footer-container .column ul {
+    list-style-type: none;
+  }
+  footer .footer-container .column ul li {
+    font-family: "optimanormal", serif;
+    margin-bottom: 15px;
+    font-size: 1.054em;
+    color: #e4bf5c;
+  }
+  footer .footer-container .column ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.813em;
+  }
+  footer .footer-container .column ul li a:hover {
+    color: #e4bf5c;
+  }
+  footer .footer-container .column .newsletter .title {
+    font-family: "optimanormal", serif;
+    margin-bottom: 15px;
+    font-size: 1.054em;
+    color: #e4bf5c;
+  }
+  footer .footer-container .column .newsletter p {
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.938em;
+    font-style: italic;
+  }
+  footer .footer-container .column .newsletter .errorMsg {
+    font-family: "Roboto", sans-serif;
+  }
+  footer .footer-container .column .newsletter input[type="text"] {
+    font-family: "Roboto", sans-serif;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #fff;
+    padding: 10px 0px;
+    margin: 10px 0;
+    color: #fff;
+  }
+  footer .footer-container .column .newsletter input[type="text"]::placeholder {
+    color: #fff;
+  }
+  footer .footer-container .column .newsletter a.button {
+    font-family: "Roboto", sans-serif;
+    font-size: 0.938em;
+    background: transparent;
+    padding: 0px 15px 0px 0px;
+    color: #fff;
+    margin-top: 15px;
+    position: relative;
+    text-decoration:none;
+  }
+  footer .footer-container .column .newsletter a.button:after {
+    content: " ";
+    border-bottom: 2px solid #fff;
+    border-right: 2px solid #fff;
+    top: 5px;
+    height: 8px;
+    right: 0px;
+    position: absolute;
+    -moz-transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    width: 8px;
+    z-index: 2;
+  }
+  footer .footer-container .footerBottom {
+    margin-top: 30px;
+    font-size: 0.813em;
+    font-family: "Roboto", sans-serif;
+  }
+  footer .footer-container .footerBottom .footerLeft {
+    float: left;
+    color: #fff;
+  }
+  footer .footer-container .footerBottom .footerRight {
+    float: right;
+  }
+  footer .footer-container .footerBottom .footerRight ul {
+    list-style-type: none;
+  }
+  footer .footer-container .footerBottom .footerRight ul li {
+    float: left;
+  }
+  footer .footer-container .footerBottom .footerRight ul li a {
+    padding: 0 4px;
+    line-height: 100%;
+    color: #fff;
+    text-decoration: none;
+    border-right: 1px solid #fff;
+  }
+  footer .footer-container .footerBottom .footerRight ul li a:hover {
+    text-decoration: none;
+  }
+  footer .footer-container .footerBottom .footerRight ul li:last-child a {
+    border-right: none;
+  }
+  @media only screen and (max-width: 767px) {
+    footer .footer-container .column {
+      width: 50%;
+      min-height: 350px;
+    }
+    footer .footer-container .column-full-mob {
+      width: 100%;
+      margin: 20px 0;
+    }
+    footer .footer-container .footerBottom {
+      text-align: center;
+    }
+    footer .footer-container .footerBottom .footerLeft {
+      width: 100%;
+      float: none;
+    }
+    footer .footer-container .footerBottom .footerRight {
+      width: 100%;
+      float: none;
+    }
+    footer .footer-container .footerBottom .footerRight ul li {
+      display: inline-block;
+      float: none;
+    }
+    footer .footer-container{
+      padding: 50px 2.5%;
+    }
+    footer .footer-container .column ul li{
+      padding-right:5px;
+    }
+  }
+  /*# sourceMappingURL=footer.css.map */
+  

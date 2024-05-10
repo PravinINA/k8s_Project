@@ -1,0 +1,42 @@
+/* Scss Document */
+/**/
+/* screen resolutio*/
+/* mixin start*/
+.search-result-wrap {
+  margin: 40px 0px 90px; }
+
+.search-result-text-rendering {
+  font-family: "Roboto", sans-serif;
+  width: 76%;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #ebebeb;
+  margin-top: 30px;
+  padding-left: 0; }
+  .search-result-text-rendering p {
+    font-size: 0.9375em;
+    margin-bottom: 7px; }
+  .search-result-text-rendering h3 {
+    font-family: "EB Garamond",serif;
+    font-size: 1.75em;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 100%;
+    margin-bottom: 30px; }
+    .search-result-text-rendering h3 span {
+      font-style: normal; }
+  .search-result-text-rendering .btn-style2 {
+    display: inline-block;
+    margin-top: 15px; }
+
+@media only screen and (max-width: 1199px) {
+  .search-result-text-rendering {
+    width: 100%; } }
+@media only screen and (max-width: 767px) {
+  .search-result-text-rendering {
+    padding: 0px 0px 30px 3%; }
+    .search-result-text-rendering h3 {
+      margin-top: 0px;
+      margin-bottom: 15px;
+      font-size: 1.45em; } }
+
+/*# sourceMappingURL=search-result-text-rendering.css.map */

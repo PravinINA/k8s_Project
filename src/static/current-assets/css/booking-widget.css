@@ -1,0 +1,263 @@
+/* Scss Document */
+/**/
+/* screen resolutio*/
+/* mixin start*/
+.booking-widget {
+  width: 75%;
+  margin: 0 auto;
+  position: absolute;
+  background: #fff;
+  bottom: -55px;
+  z-index: 11;
+  left: 50%;
+  max-width: 1366px;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  transform: translateX(-50%); }
+  .booking-widget .hotels {
+    background: #fff;
+    box-shadow: 0px 6px 6px #ccc;
+    padding: 15px 0 15px 10px; }
+  .booking-widget .autocomplete {
+    width: 26%;
+    float: left;
+    /*the container must be positioned relative:*/
+    position: relative;
+    display: inline-block;
+    font-family: "EB Garamond", serif;
+    padding: 5px 0; }
+    .booking-widget .autocomplete:before {
+      content: '\2039';
+      -webkit-transform: rotate(-90deg);
+      -ms-transform: rotate(-90deg);
+      -o-transform: rotate(-90deg);
+      transform: rotate(-90deg);
+      position: absolute;
+      z-index: 1;
+      font-size: 44px;
+      right: 24px;
+      font-family: "Roboto", sans-serif; }
+  .booking-widget input {
+    border: 1px solid transparent;
+    padding: 0 10px;
+    font-family: "EB Garamond", serif;
+    font-size: 1.054em;
+    color: #000; }
+    .booking-widget input::placeholder {
+      color: #000;
+      font-family: "EB Garamond", serif; }
+  .booking-widget input[type=text] {
+    width: 100%;
+    font-family: "EB Garamond", serif; }
+  .booking-widget input[type=submit] {
+    background-color: DodgerBlue;
+    color: #fff;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif; }
+  .booking-widget .autocomplete-items {
+    position: absolute;
+    border-bottom: none;
+    border-top: none;
+    z-index: 99;
+    /*position the autocomplete items to be the same width as the container:*/
+    top: 100%;
+    left: 0;
+    right: 0; }
+  .booking-widget .autocomplete-items div {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #fff;
+    border-bottom: 1px solid #d4d4d4; }
+  .booking-widget .autocomplete-items div:hover {
+    /*when hovering an item:*/
+    background-color: #e9e9e9; }
+  .booking-widget .autocomplete-active {
+    /*when navigating through the items using the arrow keys:*/
+    background-color: DodgerBlue !important;
+    color: #ffffff; }
+  .booking-widget .selecthotel {
+    float: left;
+    width: 20%; }
+    .booking-widget .selecthotel .selectbox {
+      color: #000;
+      padding: 8px 20px 8px 10px;
+      position: relative; }
+      .booking-widget .selecthotel .selectbox:after {
+        content: '\2039';
+        -webkit-transform: rotate(-90deg);
+        -ms-transform: rotate(-90deg);
+        -o-transform: rotate(-90deg);
+        transform: rotate(-90deg);
+        position: absolute;
+        z-index: 1;
+        font-size: 2.250em;
+        right: 20px;
+        top: -3px;
+        color: #000;
+        font-family: "Roboto", sans-serif; }
+  .booking-widget .room {
+    float: left;
+    width: 13%;
+    border-right: 1px solid #d8741b;
+    margin-right: 1%; }
+    .booking-widget .room .selectbox {
+      color: #000;
+      padding: 8px 20px 8px 18px;
+      position: relative; }
+      .booking-widget .room .selectbox:after {
+        content: '\2039';
+        -webkit-transform: rotate(-90deg);
+        -ms-transform: rotate(-90deg);
+        -o-transform: rotate(-90deg);
+        transform: rotate(-90deg);
+        position: absolute;
+        z-index: 1;
+        font-size: 2.250em;
+        right: 20px;
+        top: -3px;
+        color: #000;
+        font-family: "Roboto", sans-serif; }
+  .booking-widget .guests {
+    float: left;
+    width: 11%;
+    margin-right: 1%; }
+    .booking-widget .guests .selectbox {
+      color: #000;
+      padding: 8px 20px 10px 8px;
+      position: relative; }
+      .booking-widget .guests .selectbox:after {
+        content: '\2039';
+        -webkit-transform: rotate(-90deg);
+        -ms-transform: rotate(-90deg);
+        -o-transform: rotate(-90deg);
+        transform: rotate(-90deg);
+        position: absolute;
+        z-index: 1;
+        font-size: 2.250em;
+        right: 20px;
+        top: -3px;
+        color: #000;
+        font-family: "Roboto", sans-serif; }
+  .booking-widget .checkIn {
+    width: 19%;
+    float: left;
+    border-left: 1px solid #d8741b;
+    padding: 5px 0 5px 15px; }
+    .booking-widget .checkIn label {
+      margin-right: 10px;
+      color: #000; }
+    .booking-widget .checkIn input[type="text"] {
+      width: 56%;
+      display: inline-block;
+      background: url(../images/calander-icon.png) no-repeat left center;
+      padding-left: 20px; }
+  .booking-widget .checkOut {
+    width: 17%;
+    float: left;
+    border-right: 1px solid #d8741b;
+    padding: 5px 0; }
+    .booking-widget .checkOut label {
+      margin-right: 10px;
+      color: #000; }
+    .booking-widget .checkOut input[type="text"] {
+      width: 50%;
+      display: inline-block;
+      background: url(../images/calander-icon.png) no-repeat left center;
+      padding-left: 20px; }
+  .booking-widget .bookedRoom {
+    width: 20%;
+    float: left;
+    border-left: 1px solid #d8741b;
+    padding: 5px 0; }
+    .booking-widget .bookedRoom .room {
+      padding: 10px;
+      background: #fff; }
+  .booking-widget .cta-box {
+    padding-top: 8px;
+    float: left;
+    position: relative;
+    font-family: "EB Garamond", serif; }
+    .booking-widget .cta-box a {
+      padding: 8px 20px;
+      margin-right: 20px;
+      text-decoration: none;
+      font-family: "EB Garamond", serif;
+      -webkit-transition: 0.5s all ease-in-out;
+      -ms-transition: 0.5s all ease-in-out;
+      -o-transition: 0.5s all ease-in-out;
+      transition: 0.5s all ease-in-out; }
+      .booking-widget .cta-box a.style1 {
+        background: #fff;
+        border: 1px solid #828282;
+        color: #828282; }
+        .booking-widget .cta-box a.style1:hover {
+          background: #d8741b;
+          border: 1px solid #d8741b;
+          color: #fff; }
+      .booking-widget .cta-box a.style2 {
+        background: #d8741b;
+        border: 1px solid #d8741b;
+        color: #fff; }
+        .booking-widget .cta-box a.style2:hover {
+          background: #fff;
+          border: 1px solid #828282;
+          color: #828282; }
+  .booking-widget .lastSearchHotel {
+    font-family: "Roboto", sans-serif;
+    padding: 10px; }
+    .booking-widget .lastSearchHotel ul {
+      list-style-type: none; }
+      .booking-widget .lastSearchHotel ul li {
+        float: left;
+        margin: 0 10px;
+        font-weight: 300;
+        letter-spacing: 2px;
+        font-size: .735em; }
+        .booking-widget .lastSearchHotel ul li strong {
+          font-weight: 700; }
+        .booking-widget .lastSearchHotel ul li:last-child {
+          float: right;
+          padding-right: 34px; }
+        .booking-widget .lastSearchHotel ul li a.allDesti {
+          color: #d8741b;
+          font-family: "Roboto", sans-serif;
+          text-decoration: none;
+          padding-bottom: 3px;
+          position: relative;
+          line-height: 100%;
+          font-weight: 500; }
+          .booking-widget .lastSearchHotel ul li a.allDesti:after {
+            content: " ";
+            border-bottom: 2px solid #d8741b;
+            border-right: 2px solid #d8741b;
+            top: 50%;
+            margin-top: -7px;
+            height: 8px;
+            right: -13px;
+            position: absolute;
+            -moz-transform: rotate(-45deg);
+            -webkit-transform: rotate(-45deg);
+            -ms-transform: rotate(-45deg);
+            -o-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+            width: 8px;
+            z-index: 2; }
+
+.innerpage .hotels {
+  box-shadow: none; }
+
+.banner-and-booking-widget {
+  position: relative; top: 0px; }
+
+.innerpage .booking-widget {
+  bottom: -30px; }
+
+@media only screen and (max-width: 1280px) {
+  .booking-widget .checkIn input[type="text"] {
+    width: 55%; } }
+@media only screen and (max-width: 1199px) {
+  .booking-widget {
+    display: none; } }
+
+/*# sourceMappingURL=booking-widget.css.map */

@@ -1,0 +1,69 @@
+/* Scss Document */
+/**/
+/* screen resolutio*/
+/* mixin start*/
+.search-bar {
+  border-top: 0px;
+  padding: 60px 0% 22px 0%;
+  -webkit-box-shadow: 0px 5px 9px 0px #ebebeb;
+  -moz-box-shadow: 0px 5px 9px 0px #ebebeb;
+  box-shadow: 0px 5px 9px 0px #ebebeb;
+  margin-top: 30px; }
+  .search-bar .search-field {
+    margin: 0 auto;
+    max-width: 490px;
+    padding: 10px 5px 10px 30px;
+    display: block;
+    position: relative; }
+    .search-bar .search-field input[type="text"] {
+      border: none;
+      /*background: url(../images/search-bar/search-icon.png) no-repeat 98% center;*/
+      padding: 5px 25px 5px 10px;
+      width: 100%;
+      font-size: 15px;
+      color: #000;
+      border-bottom: 2px solid #ebebeb;
+      font-weight: 300;
+      font-family: "Roboto", sans-serif; }
+      .search-bar .search-field input[type="text"]::-webkit-input-placeholder {
+        opacity: 1; }
+      .search-bar .search-field input[type="text"]::-moz-placeholder {
+        opacity: 1; }
+      .search-bar .search-field input[type="text"]:-ms-input-placeholder {
+        opacity: 1; }
+      .search-bar .search-field input[type="text"]:-moz-placeholder {
+        opacity: 1; }
+    .search-bar .search-field .search-button {
+      position: absolute;
+      right: 10px;
+      top: 15px;
+      background: transparent;
+      cursor: pointer; }
+  .search-bar .search-nav {
+    margin: 34px 0px 0px; }
+    .search-bar .search-nav ul {
+      list-style: none; }
+      .search-bar .search-nav ul li {
+        font-family: "Roboto", sans-serif;
+        font-size: 15px;
+        display: inline-block;
+        margin-right: 35px; }
+        .search-bar .search-nav ul li a {
+          color: #000;
+          text-decoration: none; }
+          .search-bar .search-nav ul li a.active {
+            color: #d8741b; }
+
+@media only screen and (max-width: 767px) {
+  .search-bar {
+    padding-top: 30px; }
+    .search-bar .search-field {
+      padding: 0px; }
+      .search-bar .search-field input[type="text"] {
+        padding: 5px 30px 5px 10px; }
+      .search-bar .search-field .search-button {
+        top: 6px; }
+    .search-bar .search-nav ul li {
+      margin-right: 30px; } }
+
+/*# sourceMappingURL=search-bar.css.map */

@@ -1,0 +1,163 @@
+.map-destination {
+    max-width: 500px;
+    font-family: "Verdana";
+    margin-top: 20px;
+    position: relative;
+    overflow: hidden;
+  }
+  .map-destination #directionMsg {
+    color: #fc4646;
+    font-size: 11px;
+    margin-top: -10px;
+  }
+  .map-destination .map-destination-wrap {
+    position: relative;
+  }
+  .map-destination .map-destination-wrap .map-detail {
+    /* height: 445px; */
+  }
+  .map-destination .map-destination-wrap .map-detail img {
+    height: 100%;
+    height: auto;
+  }
+  .map-destination .map-destination-wrap .map-detail iframe {
+    width: 100%;
+    height: 100%;
+  }
+  .map-destination .map-destination-wrap .destination-field {
+    background: #fff;
+    padding: 10px 10px;
+    width: 250px;
+    position: absolute;
+    right: 5px;
+    top: 0px;
+  }
+  .map-destination .map-destination-wrap .destination-field .address-field {
+    width: 80%;
+    float: left;
+  }
+  .map-destination .map-destination-wrap .destination-field .add-swipe-button {
+    width: 31px;
+    float: right;
+    margin-top: 23px;
+  }
+  .map-destination
+    .map-destination-wrap
+    .destination-field
+    .add-swipe-button
+    button {
+    border: none;
+    background: url(https://www.oberoihotels.com/images/oberoihotels/sprites-icons.png) no-repeat;
+    background-position: -143px -175px;
+    height: 31px;
+    width: 31px;
+  }
+  .map-destination .map-destination-wrap .destination-field input {
+    width: 100%;
+    float: left;
+    padding: 5px 10px;
+    font-size: 14px;
+    font-family: "Verdana";
+    border: 1px solid #ebebeb;
+    margin-bottom: 15px;
+  }
+  .map-destination .map-destination-wrap .destination-field .btn-style2 {
+    white-space: nowrap;
+  }
+  @media only screen and (max-width: 991px) {
+    .map-destination {
+      max-width: 100%;
+    }
+    .map-destination .map-destination-wrap .map-detail {
+      height: auto;
+    }
+  }
+  @media only screen and (max-width: 480px) {
+    .map-destination .queries-btn label {
+      margin-right: 15px;
+    }
+    .map-destination .queries-btn label span {
+      margin-left: 10px;
+    }
+    .map-destination .map-destination-wrap .form-field-container {
+      margin-bottom: 15px;
+    }
+    .map-destination .map-destination-wrap .form-field-container .field-col1 {
+      width: 100%;
+      padding-right: 0px;
+    }
+    .map-destination
+      .map-destination-wrap
+      .form-field-container
+      .field-col1
+      .label-content {
+      width: 33%;
+    }
+    .map-destination
+      .map-destination-wrap
+      .form-field-container
+      .field-col1
+      .form-field {
+      width: 67%;
+    }
+    .map-destination .map-destination-wrap .form-field-container .field-col2 {
+      width: 100%;
+      margin-top: 15px;
+    }
+    .map-destination
+      .map-destination-wrap
+      .form-field-container.captcha-container
+      .label-content {
+      width: 44%;
+    }
+    .map-destination
+      .map-destination-wrap
+      .form-field-container.captcha-container
+      .form-field {
+      width: 45%;
+    }
+    .map-destination .map-destination-wrap .label-content {
+      width: 33%;
+    }
+    .map-destination .map-destination-wrap .form-field {
+      width: 67%;
+    }
+    .map-destination
+      .map-destination-wrap
+      .form-field
+      .form-field-col.title-filed {
+      width: 30%;
+    }
+    .map-destination
+      .map-destination-wrap
+      .form-field
+      .form-field-col.name-field1 {
+      width: 68%;
+    }
+    .map-destination
+      .map-destination-wrap
+      .form-field
+      .form-field-col.name-field2 {
+      width: 100%;
+      margin: 15px 0px 0px 0px;
+    }
+    .map-destination .map-destination-wrap .form-field .captcha-image img {
+      margin-top: 0px;
+    }
+    .map-destination .map-destination-wrap .form-field .captcha-image,
+    .map-destination .map-destination-wrap .form-field .captcha-field,
+    .map-destination .map-destination-wrap .form-field .reload-captcha {
+      margin-bottom: 15px;
+      width: 100%;
+      text-align: center;
+      padding-left: 0px;
+    }
+    .map-destination .map-destination-wrap .form-field .select-box {
+      padding-right: 14%;
+    }
+    .map-destination .form-button {
+      width: 43%;
+    }
+  }
+  /*# sourceMappingURL=map-destination.css.map */
+  

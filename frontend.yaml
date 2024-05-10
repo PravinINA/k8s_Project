@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: webapp:2.0
+  name: webapp:2.0
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: webapp:2.0
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: webapp:2.0
+    spec:
+      containers:
+      - image: pravindevopsch/webapp:2.0
+        name: webapp
+        resources: {}
+status: {}

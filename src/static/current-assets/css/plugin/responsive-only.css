@@ -1,0 +1,844 @@
+@media only screen and (max-width:991px){
+    
+       .bodyWrapMobile p {
+        font-size: 15px !important;
+        line-height: 180% !important;
+    }
+    .bodyWrapMobile .cta-box a.style1, .bodyWrapMobile .cta-box a.style2, .bodyWrapMobile .cta-box a.style3, .bodyWrapMobile .image-text-block-style1 .text-block .btn-style1, .bodyWrapMobile .btns-list a.btn-style1, .bodyWrapMobile .btns-list a.btn-style2, .bodyWrapMobile .two-image-gallery-with-text .slick-slider .slick-slide .text-block .btn-style3{
+        font-size: 1em !important;
+    }
+    .contact-us-form .contact-us-form-wrap .form-field input[type="text"], .contact-us-form .contact-us-form-wrap .form-field select, .contact-us-form .contact-us-form-wrap .form-field textarea{
+        padding: 5px 5px 5px 15px !important;
+    }
+    .contact-us-form .contact-us-form-wrap .form-field-container .field-col2,.contact-us-form .contact-us-form-wrap .form-field-container .field-col1,.contact-us-form .contact-us-form-wrap .form-field-container .field-col1 .form-field,.contact-us-form .contact-us-form-wrap .form-field {
+     width: 100% !important;
+    }
+    .captcha-image {
+     width: 45% !important;
+     float: left !important;
+    }
+    .captcha-field {
+     width: 45% !important;
+        margin-left: 3%;
+        border:1px solid #000 !important;
+    
+    }
+    .contact-us-form .contact-us-form-wrap .form-field input[type="text"], .contact-us-form .contact-us-form-wrap .form-field select, .contact-us-form .contact-us-form-wrap .form-field textarea{
+        padding-bottom: 10px !important;
+    }
+    .bodyWrapMobile .cta-box a.style1, .bodyWrapMobile .cta-box a.style3, .bodyWrapMobile .cta-box a.style2,  .bodyWrapMobile .cta-box a.style4, .bodyWrapMobile .image-text-block-style1 .text-block .btn-style1, .bodyWrapMobile .btns-list a.btn-style1, .bodyWrapMobile .btns-list a.btn-style2{
+        padding: 12px 25px;
+    
+    }
+   
+    .bodyWrapMobile .leftsection .title, .bodyWrapMobile .left-section .title, .bodyWrapMobile .instagramStudio .textcont .title,.bodyWrapMobile .awards .title,
+    .bodyWrapMobile .amenities .section-sub-heading, .bodyWrapMobile .two-image-gallery h2, .bodyWrapMobile .three-image-gallery h2, .bodyWrapMobile .heading-component h1, .bodyWrapMobile .offers .offersContentSec .leftsection .title,.bodyWrapMobile .descriptionSec .descriptionSec-wraper .title
+    { font-size: 2em; }
+    .bodyWrapMobile .experiences .experiences-wraper .text-container .title, .bodyWrapMobile .image-text-component-style1 h2,
+	 .bodyWrapMobile .image-text-block-style1 .text-block .text-block-hdng-style1
+	{ font-size:27px; line-height: 35px; }
+    .bodyWrapMobile .e-magazine .e-magazine-slide .text-container .title,.bodyWrapMobile .e-magazine .left-section .title span{ font-size: 18px; }
+	.bodyWrapMobile .descriptionSec .contact-details .cta-box a.style3 {
+			color: #fff;
+			display: block;
+			margin-bottom: 22px;
+			width: 60%;
+		}
+	.bodyWrapMobile .descriptionSec .contact-details .cta-box a.style4 {
+    		color: #fff;
+	  }
+	.bodyWrapMobile .descriptionSec .contact-details .cta-box a.style3:after {
+    border-bottom: 2px solid #fff;
+    border-right: 2px solid #fff;
+    right: 25%;
+    }
+	
+	
+	.bodyWrapMobile .descriptionSec .contact-details .map-area .map-detail-colm .travel-notes ul.travelcity li{ margin: 5px;}
+    .bodyWrapMobile .offers .offers-slider .offers-slide .slide-text-box{}
+    .bodyWrapMobile .offers .offers-slider .offers-slide .slide-text-box .offerTitle{ font-size: 22px; }
+    .bodyWrapMobile  .destination .destination-slider .slidesBtn{ margin-bottom: 6px; }
+    .bodyWrapMobile .offers .offers-slider .offers-slide .slide-text-box .offerName, .bodyWrapMobile .e-magazine .e-magazine-slide .text-container .catogeory, .bodyWrapMobile .ev-booking-section .book-itineraries-email .ftrans, .bodyWrapMobile.two-image-gallery-with-text .btn-style3,
+    .bodyWrapMobile #suggesteditineraries .full-image-gallery-with-text .btn-style2, .bodyWrapMobile .btns-list a.btn-style1, .bodyWrapMobile .btns-list a.btn-style2
+    { font-size: 1em; }
+    .bodyWrapMobile .experiences .left-section .title span{line-height: 20%;}
+    .bodyWrapMobile .e-magazine .left-section .title{ line-height: 100%; }
+    .bodyWrapMobile .ev-btn-box-row span{ margin-bottom: 15px; }
+    .bodyWrapMobile  .date-box-heading select{ font-size: 13px; }
+    .bodyWrapMobile  .date-box-heading{ margin-top: 8px; }
+    .bodyWrapMobile .exotic-vacation-top .grey-box-with-dropdown-with-slide-down,
+    .bodyWrapMobile .exotic-vacation-top .grey-box-with-dropdown-with-slide-down.offerInclusions .grey-box-info-dtls ul li,
+    .bodyWrapMobile  .booking-engine-ev.exotic-vacation, .bodyWrapMobile .image-and-description-with-legend-attributes-option-2 .d-details-wrap li, .bodyWrapMobile  .descriptionSec .contact-details .phone-email ul li,.bodyWrapMobile .phn-time li,
+	.bodyWrapMobile .tnc-details-box .tnc-details-content ul li
+    { font-size: 15px !important; }
+    .bodyWrapMobile  .heading-component h2,.bodyWrapMobile .featured-component .featured-col2 .text-block,
+	.bodyWrapMobile .slick-active.image-text-block-style1 .text-block, .slick-active.image-text-block-style1 .image-block{ margin-bottom: 20px; }
+	.bodyWrapMobile .btn-style1, .btn-style2{ font-size: 1em; margin-bottom: 10px;}
+    .bodyWrapMobile  .destination .selectedCountry{background: url(/images/oberoihotels/destination/drop-down-arrow.png) 92% center no-repeat !important;}
+    .bodyWrapMobile  .three-image-gallery h2{ font-size: 32px !important; }
+    .bodyWrapMobile  .image-and-description-with-legend-attributes-option-2 .d-details-wrap li span.d-heading{ margin-bottom: 8px; }
+    .bodyWrapMobile  .rooms-and-suits-page .two-image-gallery{ margin-bottom: 10px; }
+    .bodyWrapMobile  .contact-details-box .contact-heading{ font-size: 15px; }
+	.bodyWrapMobile .filter-component .offer-featured-hdng{ font-size: 16px;}
+	.bodyWrapMobile .image-text-block-style1 .text-block p{ margin-bottom: 20px;}
+
+    .bodyWrapMobile .cta-box   a.style1, .bodyWrapMobile .cta-box  a.style3, .bodyWrapMobile .cta-box  a.style4,  .bodyWrapMobile .image-text-block-style1 .text-block .btn-style1, .bodyWrapMobile .btns-list a.btn-style1{
+        background: #d57600;
+        box-shadow: 0px 5px 5px #ccc;
+        border-radius: 5px;
+        color:#fff;
+        border: 1px solid #d57600;
+    }
+    .bodyWrapMobile .cta-box  a.style2, .bodyWrapMobile .btns-list a.btn-style2,.bodyWrapMobile .cta-box a.style2{
+        border: 1px solid #d57600;
+        box-shadow: 0px 5px 5px #ccc;
+        border-radius: 5px ;
+        }
+	.bodyWrapMobile .mobile-number.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn {
+    margin-top: 45px;
+}
+	.bodyWrapMobile a.style4.noMarginRight {
+    background: #fff !important;
+    color: #d57600 !important;
+}
+    .bodyWrapMobile .cta-box  a.style2:after, .bodyWrapMobile .btns-list a.btn-style2:after,.bodyWrapMobile .cta-box a.style2:after{
+        right:15px;
+        margin-top:-5px;
+    }
+    .bodyWrapMobile .btns-list a.btn-style1, .bodyWrapMobile .btns-list a.btn-style2{
+        min-width:110px;
+        display:inline-block;
+        text-align:center;
+        position: relative;
+        background-image:none;
+    }
+    .bodyWrapMobile .image-text-block-style1 .text-block .btn-style1{
+        position: relative;
+        margin-top:15px;
+    }
+    .bodyWrapMobile .cta-box   a.style1, .bodyWrapMobile .cta-box  a.style3, .bodyWrapMobile .cta-box  a.style4,  .bodyWrapMobile .image-text-block-style1 .text-block .btn-style1, .bodyWrapMobile .btns-list a.btn-style1{
+
+    }
+
+    .bodyWrapMobile .btns-list a.btn-style1:after, .bodyWrapMobile .btns-list a.btn-style2:after, .bodyWrapMobile .image-text-block-style1 .text-block .btn-style1:after, .bodyWrapMobile .image-text-block-style1 .text-block .btn-style2:after {
+        content: " ";
+        border-bottom: 2px solid #d57600;
+        border-right: 2px solid #d57600;
+        top: 50%;
+        margin-top: -4px;
+        height: 7px;
+        right: 15px;
+        position: absolute;
+        -webkit-transform: rotate(-45deg);
+        -ms-transform: rotate(-45deg);
+        -o-transform: rotate(-45deg);
+        transform: rotate(-45deg);
+        width: 7px;
+        z-index: 2;
+    }
+    .bodyWrapMobile .btns-list a.btn-style1:after, .bodyWrapMobile .image-text-block-style1 .text-block .btn-style1:after {
+        border-color:#fff;
+    }
+    .bodyWrapMobile  .cta-box a.style1:after, .cta-box a.style3:after, .bodyWrapMobile .cta-box  a.style4:after, .bodyWrapMobile .image-text-block-style1 .text-block .btn-style1:after, .bodyWrapMobile .btns-list a.btn-style1:after{
+        right:15px;
+        border-color:#fff;
+        margin-top:-5px;
+    }
+    .bodyWrapMobile .image-text-block-style1 .text-block .btn-style1{
+        margin-top:15px;
+    }
+    .bodyWrapMobile  .right-section a, .bodyWrapMobile .ev-exp-section .ev-view-all-exp-btn a, .bodyWrapMobile .offers .viewOffer a{
+        font-size: 1em;
+    }
+    .bodyWrapMobile  .destination .destinationTab ul li{
+        padding: 10px 10px 10px 0px;
+    }
+    .bodyWrapMobile  .date-box-heading select{
+        font-size:13px;
+    }
+    .bodyWrapMobile .heading-component h2{
+        margin-bottom:20px;
+    }
+   
+  
+    .bodyWrapMobile .destination .destination-slider .slidesBtn, .oberoiRooms .oberoiRooms-slider .slidesBtn {
+        width: 100%;
+        float: left;
+        margin-top: 15px;
+        top:0px;
+    }
+    .bodyWrapMobile  .cta-box, .bodyWrapMobile  .btns-list{
+        margin-top:15px; 
+    }
+    .bodyWrapMobile .mo-destination-component{
+      padding-bottom:40px;
+    }
+    .bodyWrapMobile .destination .destination-slider .slidesBtn{
+        margin-top:0px;
+    }
+
+    .bodyWrapMobile .mo-destination-component .mo-destination-slide-banner-content-wrap .mo-destination-slide-banner-content p{
+        font-size:13px !important;
+        line-height:18px !important;
+    }
+    .bodyWrapMobile .mo-destination-component .mo-destination-slide-banner-content .cta-box a.style1, .bodyWrapMobile .mo-destination-component .mo-destination-slide-banner-content .cta-box a.style2{
+        padding: 0px 15px 0px 0px;
+        border:none;
+        box-shadow:none;
+    }
+    .bodyWrapMobile a.style1, .bodyWrapMobile  a.style2, .bodyWrapMobile  a.style3, .bodyWrapMobile  a.style4{
+        font-size:1em;
+    }
+    .bodyWrapMobile .mo-destination-component .mo-destination-slide-banner-content .cta-box a.style1:after, .bodyWrapMobile .mo-destination-component .mo-destination-slide-banner-content .cta-box a.style2:after{
+        right:0px !important;
+    }
+    .bodyWrapMobile .marketing-asset-offer-section .explore-btn a, .bodyWrapMobile .booking-engine .viewAvailabilityButton, .bodyWrapMobile .ev-btns-wrap a, .bodyWrapMobile .ev-main-tab ul li, .bodyWrapMobile .viewAvailabilityButtonEV{
+        border-radius: 5px;
+    }
+ 
+    .bodyWrapMobile .oberoiRooms .oberoiRooms-slider .text-container{
+      width:100%;
+      float:left;
+      margin-bottom:20px;
+    }
+    .bodyWrapMobile .mobile-number, .bodyWrapMobile .experiences .cta-box{
+     margin-top:30px;
+    }
+    .bodyWrapMobile.hotel-pages .destination{
+      margin-top:0px;
+    }
+    .bodyWrapMobile .awards{
+     width:100%;
+     float: left;
+    }
+
+    .bodyWrapMobile .explore-secn.experiences .experiences-slider .exploreWrap .text-container{
+     width:100%;
+     float:left;
+     margin-bottom:20px;
+    }
+
+    }
+
+
+@media only screen and (max-width: 768px) {
+	.magazine-page .filter-component .filter-results-list>li{
+		min-height: 480px;
+	}
+	 
+}
+
+
+ 
+    @media only screen and (max-width: 320px) {
+        .bodyWrapMobile  .offers .cta-box a.style1, .bodyWrapMobile  .destination .cta-box a.style1,.bodyWrapMobile  .experiences .cta-box a.style3{
+        padding: 12px 25px;
+        font-size: 12px;
+    }
+    .bodyWrapMobile  .offers .cta-box a.style2, .bodyWrapMobile  .destination .cta-box a.style2{
+    padding: 10px 25px !important;
+    font-size: 12px;}
+    .bodyWrapMobile  .date-box-heading select{ font-size: 11px; }
+	.bodyWrapMobile .descriptionSec .contact-details .cta-box a.style3:after{right: 20px}
+	.booking-engine .checkInCheckOut .t-mobile-heading .calender-dynamic-text-mobile, .booking-engine.layout2 .checkInCheckOut .t-mobile-heading .calender-dynamic-text-mobile, .booking-engine.reverse .checkInCheckOut .t-mobile-heading .calender-dynamic-text-mobile{
+		padding: 10px 6px 2px 25px;
+		font-size: 13px !important;
+		}
+/*
+		.covid-band{
+			bottom: 41% !important;
+		}
+		
+		.covid-update-info-wrapper{
+			bottom: 10% !important;
+			
+		}
+*/
+   }
+
+
+
+ 
+
+@media only screen and (max-width: 359px) {
+	.mobile-cta .chat-btn, .booking{
+		font-size: 13px;
+		font-weight: 300;
+	}
+	
+
+.bodyWrapMobile .cta-box a.style1, .bodyWrapMobile .cta-box a.style3, .bodyWrapMobile .cta-box a.style2, .bodyWrapMobile .cta-box a.style4, .bodyWrapMobile .image-text-block-style1 .text-block .btn-style1, .bodyWrapMobile .btns-list a.btn-style1, .bodyWrapMobile .btns-list a.btn-style2{
+	font-size: 12px !important;
+	}
+	.offers .slick-slide{
+		margin: 0;
+	}
+
+}
+/*
+@media only screen and (min-width:400px) and (max-width:450px) {
+	.covid-band{bottom: 43.7% !important;}
+	.covid-update-info-wrapper{bottom: 25% !important;}
+}
+*/
+ 
+
+
+@media only screen and (max-width: 767px) {
+	
+	body, html{
+		overflow-x: hidden;
+		position: relative;
+		
+	}
+	.tab-with-content .founder .content-box .cta-box{
+		float: left;
+	}
+	.tab-with-content .founder .content-box .content-expand{
+		height: 355px;
+	}
+	.destination .slick-list, .offers .slick-list, .oberoiRooms .slick-list{
+		padding-right:0;
+	}
+	.about-us-page {
+		padding-top: 20px;
+	}
+	.heading-component{
+		margin-bottom: 5px;
+	}
+	.tab-with-content p img{
+		height: auto;
+	}
+	.down-arrow-button .cta-box .style4, .down-arrow-button .cta-box .style3{
+		display: block;
+		margin: 0 auto;
+		width: 140px;
+	}
+	.dashboard .my-profile .profile-form-fields .user-detail-box .save-details input[type=submit]{
+		margin-top: 15px;
+	}
+	.sitemap-page .sitemap-heading-container .sitemap-box{
+		min-height: 360px;
+	}
+	.bodyWrapMobile .offers .cta-box a.style1, .bodyWrapMobile .destination .cta-box a.style1, .bodyWrapMobile .experiences .cta-box a.style3, .bodyWrapMobile .cta-box a.style1, .bodyWrapMobile .cta-box a.style3, .bodyWrapMobile .cta-box a.style4, .bodyWrapMobile .image-text-block-style1 .text-block .btn-style1, .bodyWrapMobile .btns-list a.btn-style1{
+		padding: 12px 24px 12px 20px;
+	}
+	.bodyWrapMobile .cta-box a.style1:after, .cta-box a.style3:after, .bodyWrapMobile .cta-box a.style4:after, .bodyWrapMobile .image-text-block-style1 .text-block .btn-style1:after, .bodyWrapMobile .btns-list a.btn-style1:after{
+		right: 10px;
+	}
+	.captcha-field{
+		border: none !important;
+	}
+	.nWidth100{
+		display: block!important;
+	}
+	.nWidth60, .nWidth35{
+		width: 100% !important;
+	}
+	.nWidth35 a,  .nWidth35 a img{
+		float: left;
+		width: 100%;
+	}
+	.newspa-wraper .text-container p{
+		padding: 0 30px;
+	}
+	.newspa-slide .text-container .title{
+		padding-left: 30px;
+	}
+	.accordion-component .col-1-content .itnary-list-style{
+		padding-left: 20px;
+	}
+	.contact-us-form .contact-us-form-wrap .label-content{
+		width: 35%;
+		margin-bottom: 5px;
+	}
+	.filter-component, .pb-20{
+		padding-bottom: 0!important;
+	}
+	.c-main-wrap .c-date{
+		width: 18px;
+		font-size: 10px;
+	}
+	.heading-component h1{
+		padding-right: 60px;
+	}
+	.booking-engine .checkInCheckOut .t-mobile-heading .calender-dynamic-text-mobile, .booking-engine.layout2 .checkInCheckOut .t-mobile-heading .calender-dynamic-text-mobile, .booking-engine.reverse .checkInCheckOut .t-mobile-heading .calender-dynamic-text-mobile{padding-right:20px;}
+	.newspa-slide .text-container .title{
+		line-height: 100% !important;
+	}
+	
+	
+	
+	.bodyWrapMobile.body-fr-fr .slidesBtn .cta-box{
+		width: 100%;
+		float: left;
+	}
+	.bodyWrapMobile.body-fr-fr .cta-box .style1, .bodyWrapMobile.body-fr-fr .slidesBtn .cta-box .style3{
+		width: 35%;
+    	padding: 12px 10px 12px 0 !important;
+    	text-align: center;
+		margin-right: 5px;
+		float: left;
+		font-size: 12px !important;
+		font-weight: 300;
+	}
+	.bodyWrapMobile.body-fr-fr .offers .cta-box a.style2, .bodyWrapMobile.body-fr-fr  .destination .cta-box a.style2, .bodyWrapMobile.body-fr-fr .slidesBtn .cta-box .style4{
+		padding: 12px 20px 12px 0 !important;
+		width: 60%;
+		float: right;
+		text-align: center;
+		font-size: 12px !important;
+		font-weight: 300;
+	}
+	
+	.bodyWrapMobile.body-fr-fr .slidesBtn .cta-box .style4:after{
+		border-color:#da7b26;
+	}
+	
+	.global-offers .image-text-block-style1 .text-block .text-block-duration{
+		margin-bottom: 40px;
+	}
+	.offers{
+		padding: 10px 15px 45px;
+	}
+	
+	.experiences-wraper .text-container .cta-box .style4{
+		color: #da7b26;
+		background: #fff;
+		border-color: #da7b26;
+	}
+	.experiences-wraper .text-container .cta-box .style4:after{
+		border-color: #da7b26;
+	}
+	.oberoiRooms .oberoiRooms-slide .slidesText p{
+		margin-bottom: 10px;
+	}
+	.tab-with-content .mission-content-box li, .tab-with-content .tab-bullet-list li{
+		font-size: 15px; 
+		line-height: 180%;
+	}
+	.bodyWrapMobile .mo-destination-component{
+		padding-bottom: 0px;
+	}
+	.bodyWrapMobile .descriptionSec .contact-details .cta-box a.style3{
+		width: 59%;
+		
+	}
+	.bodyWrapMobile .descriptionSec .contact-details .cta-box a.style3:after{
+		right: 25%;
+	}
+	.bodyWrapMobile .descriptionSec .contact-details .cta-box a.style4{
+		background: #fff;
+		color: #da7b26;
+		border-color: #da7b26;
+		
+	}
+	.bodyWrapMobile .descriptionSec .contact-details .cta-box a.style4:after{
+		border-color: #da7b26;
+		 
+	}
+	.experiences{
+		margin-top: 20px;
+		
+		
+	}
+	.filter-component .filter-results-list>li .text-block .btn-style1{
+		float: left;
+	}
+	.filter-toggle.actv:before{
+		display: none;
+	}
+	.policy-box .itiner-maintab-content .table-wrap{
+		width: 100% !important;
+	}
+	.policy-box .itiner-maintab-content .table-wrap table td, .policy-box .itiner-maintab-content .table-wrap table td ul li {
+		font-size: 15px; 
+		font-family: Roboto, sans-serif;
+		line-height: 150%;
+	}
+	
+	.c-policy .itiner-maintab-content table th, .itiner-maintab-content table td{
+		padding: 15px !important;
+	}
+	.travel-info ul li{
+		font-size: 15px; 
+		line-height: 180%;
+	}
+	.bodyWrapMobile .right-section a, .bodyWrapMobile .ev-exp-section .ev-view-all-exp-btn a, .bodyWrapMobile .offers .viewOffer a{
+		text-transform: uppercase;
+	}
+	.ohr-immunity-building-page .main-box .dish-name{
+		font-size: 18px !important;
+	}
+	.ohr-immunity-building-page .main-box.main-box ul li{
+		font-size: 15px;
+		font-family: Roboto, sans-serif;
+		margin-bottom: 0;
+		margin-left: 5%;
+		width: 95%;
+	}
+	.ev-booking-section .submitYourRequest{
+		display: inline-block;
+		float: left;
+		background: #d8751b;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		margin-top: 20px !important;
+		box-shadow: 0px 5px 5px #ccc;
+		padding: 12px 24px 12px 20px;
+	}
+	
+	.request-a-proposal-form .sectionFormWrap .footerButtonsWrap .button{
+		box-shadow: 0px 5px 5px #ccc;
+		padding: 12px 24px 12px 20px;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+	}
+	.ohr-immunity-building-page .main-box .desc-col{
+		line-height: 180% !important;
+		font-size: 15px !important;
+	}
+	.search-result-wrap .search-result-box .search-result-text-rendering .btn-style2{
+		background: #d57600;
+		box-shadow: 0px 5px 5px #ccc;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		color: #fff;
+		border: 1px solid #d57600;
+		padding: 12px 24px 12px 20px;
+		position: relative;
+	}
+	.search-result-wrap .search-result-box .search-result-text-rendering .btn-style2:after{
+		content: " ";
+		border-bottom: 2px solid #fff;
+		border-right: 2px solid #fff;
+		top: 50%;
+		margin-top: -5px;
+		height: 7px;
+		position: absolute;
+		-moz-transform: rotate(-45deg);
+		-webkit-transform: rotate(-45deg);
+		-ms-transform: rotate(-45deg);
+		-o-transform: rotate(-45deg);
+		transform: rotate(-45deg);
+		width: 7px;
+		z-index: 2;
+		right:10px;
+	}
+	#loadMoreRecords{
+		margin-bottom: 20px;
+	}
+	.share-component .share-toggle{
+		margin-right: 0;
+	}
+	.contact-us-form .form-button{
+		width: 100% !important;
+	}
+	.contact-us-form .form-tnc{
+		margin-top: 10px;
+	}
+	
+	.oberoiRooms .oberoiRooms-slider .slidesText{
+		float: left;
+	}
+	.slidesText .mob-hide{
+		float: left;
+	}
+	
+	
+	.bodyWrapMobile .oberoiRooms .oberoiRooms-slider .slick-list {
+       min-height:360px !important;
+	}
+	
+	
+	.covid-band {
+    top: 90px;
+    padding: 13px 0;
+    width: 110px;
+    font-size: 13px;
+    letter-spacing: 1px;
+    -webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	z-index: 999;
+		
+}
+
+	.covid-update-info-wrapper {
+    width: 80%;
+    top: 153px;
+    padding: 8px;
+	transform: translateX(108%); 
+		z-index: 999;
+		
+}
+	.covid-update-info-wrapper .close-info-btn{
+		top: -1px;
+		right: -3px;
+	}
+	/* .covid-update-info-wrapper.activeInfo{
+		transform:translateX(108%);
+	} */
+.covid-update-info-wrapper .covid-update-info {
+    font-size: 13px;
+    line-height: 160%;
+    padding: 4px;
+    font-weight: 300;
+}
+	
+	
+.covid-update-info-wrapper .covid-update-info .know-more-abt-covid {
+    margin: 5px auto;
+}
+
+.covid-update-info-wrapper .covid-update-info .know-more-abt-covid a {
+    font-size: 12px;
+    font-weight: 300;
+    padding: 4px 0;
+    text-align: center;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	box-shadow: 0px 5px 5px #ccc;
+}
+	.dashboard .contact-us-form-wrap .captcha-container .captcha-field{
+		margin-top: 0;
+	}
+	.dashboard .contact-us-form-wrap .captcha-container .captcha-image {
+		height: 34px;
+	}
+	.dashboard .contact-us-form-wrap .captcha-container .captcha-image img{
+		width: 50%;
+	}
+	.dashboard .upcoming-stays .no-value .offer-book-now-btn a, .dashboard .past-stays-dtls-wrap .past-stays-box .past-stays-dtls-box-wrap .no-value .offer-book-now-btn a{
+		float: none !important;
+		margin-bottom: 0px !important;
+	}
+
+.alliance-partners-section-component .omo-alliance-details .desc .btn-style2, .bodyWrapMobile .btn-style2, .alliance-partners-section-component .image-and-description-with-legend-attributes-option-3 .omo-width50Per.omo-space-side .btn-style1, .dashboard .member-offer .offer-book-now-btn a, .dashboard .upcoming-stays .no-value .offer-book-now-btn a, .dashboard .past-stays-dtls-wrap .past-stays-box .past-stays-dtls-box-wrap .no-value .offer-book-now-btn a, .dashboard .contact-us-form-wrap .contact-form-button-wrap .contact-form-btn, .oberoi-one-omo-alliance-offer-content-sec .omo-oberoi-one-book-now-sec a, .contact-us-form .form-button .btn-style1, .contact-us-form .form-button .btn-style2, .dashboard .upcoming-stays .ineligible-box .content-box .addFlightDetails .form .submit, .dashboard .past-stays-dtls-wrap .past-stays-dtls-box .stay-book-btn .submit, .upcoming-stg-btn, .add-upcoming-stays-wrapper .upcoming-stays-slider .stays-details .submit-btn{
+	background: #d57600;
+    box-shadow: 0px 5px 5px #ccc;
+    border-radius: 5px;
+    color: #fff !important;
+    border: 1px solid #d57600;
+	position: relative;
+	background-image: none;
+	padding: 8px 20px 8px 20px;
+	margin: 10px 0px 30px 0;
+	float: left;
+	min-width: 90px;
+	font-size: 15px !important;
+	font-weight: 400;
+}
+	.add-upcoming-stays-wrapper .upcoming-stays-slider .stays-details .submit-btn{
+		margin-bottom: 0;
+	}
+	.btn-style2.submit-btn.btn-contact-us{
+		margin-left: 10px;
+		background: #fff; 
+		border-color:#d57600;
+		color: #d57600;
+	}
+	.btn-style2.submit-btn.btn-contact-us:after{
+		border-color: #d57600 !important;
+	}
+	.contact-us-form .form-tnc{
+		float: left;
+	}
+	a.btn-style2.wht-btn, .dashboard .contact-us-form-wrap .contact-form-button-wrap .contact-form-btn.submit-btn{
+		background: #fff;
+		color:#d57600;
+		border-color: #d57600;
+	}
+	.dashboard .contact-us-form-wrap .contact-form-button-wrap .contact-form-btn.submit-btn{
+		margin-left: 10px;
+	}
+	a.btn-style2.wht-btn:after{
+		border-color: #d57600;;
+	}
+	.alliance-partners-section-component .image-and-description-with-legend-attributes-option-3 .omo-width50Per.omo-space-side .btn-style1{
+		margin-right: 20px !important;
+	}
+	
+	.dashboard .upcoming-stays{
+		margin-bottom: 0;
+	}
+	.oberoi-one-omo-alliance-offer-content-sec .omo-oberoi-one-book-now-sec{
+		float: left;
+	}
+	.oberoi-one-omo-alliance-offer-content-sec .omo-oberoi-one-book-now-sec span{
+		margin-top: 10px;
+	}
+	
+	.alliance-partners-section-component .omo-alliance-details .desc .btn-style2:after, .bodyWrapMobile .btn-style2:after, .alliance-partners-section-component .image-and-description-with-legend-attributes-option-3 .omo-width50Per.omo-space-side .btn-style1:after, .dashboard .member-offer .offer-book-now-btn a:after, .dashboard .upcoming-stays .no-value .offer-book-now-btn a:after, .dashboard .past-stays-dtls-wrap .past-stays-box .past-stays-dtls-box-wrap .no-value .offer-book-now-btn a:after, .dashboard .past-stays-dtls-wrap .past-stays-box .past-stays-dtls-box-wrap .no-value .offer-book-now-btn a:after, .oberoi-one-omo-alliance-offer-content-sec .omo-oberoi-one-book-now-sec a:after, .contact-us-form .form-button .btn-style1:after, .contact-us-form .form-button .btn-style2:after, .add-upcoming-stays-wrapper .upcoming-stays-slider .stays-details .submit-btn:after{
+		content: " ";
+		border-bottom: 2px solid #fff;
+		border-right: 2px solid #fff;
+		top: 50%;
+		margin-top: -5px;
+		height: 7px;
+		right: 8px;
+		position: absolute;
+		-webkit-transform: rotate(-45deg);
+		-ms-transform: rotate(-45deg);
+		-o-transform: rotate(-45deg);
+		transform: rotate(-45deg);
+		width: 7px;
+		z-index: 2;
+		 
+	}
+	.oberoi-one-omo-alliance-offer-content-sec .omo-oberoi-one-book-now-sec a:after{
+		right: 5px;
+	}
+	
+	
+	
+	
+	.dashboard .upcoming-stays .no-value .offer-book-now-btn a:after, .dashboard .past-stays-dtls-wrap .past-stays-box .past-stays-dtls-box-wrap .no-value .offer-book-now-btn a:after{
+		width: auto;
+		height: auto;
+	}
+	
+	
+	
+	.dashboard .member-offer .offer-book-now-btn:after{
+		display: none;
+	}
+	
+	.dashboard .members-benefits-form-wrapper .form-container .form-wrapper-box .form-fields .sbmt-btn, .dashboard .my-profile .profile-form-fields .user-detail-box .save-details input[type=submit]{
+		background: #d57600;
+		box-shadow: 0px 5px 5px #ccc;
+		border-radius: 5px;
+		color: #fff;
+		border: 1px solid #d57600;
+		position: relative;
+		background-image: none;
+		padding: 8px 20px 8px 20px;
+		margin: 10px 0px 30px 0;
+		float: left;
+	}
+	
+	.dashboard .contact-us-form-wrap .contact-form-button-wrap .contact-form-btn{
+		background: url("/images/oberoihotels/white-arrow.png") center right 35px no-repeat #d8741b;
+	}
+	.dashboard .contact-us-form-wrap .contact-form-button-wrap .contact-form-btn.submit-btn{
+		background: url("/images/oberoihotels/orange-arrow.png") center right 30px no-repeat #fff;
+	}
+	
+	.dashboard .members-benefits-form-wrapper .form-container .form-wrapper-box .form-fields .sbmt-btn, .dashboard .my-profile .profile-form-fields .user-detail-box .save-details input[type=submit], .dashboard .upcoming-stays .ineligible-box .content-box .addFlightDetails .form .submit, .dashboard .past-stays-dtls-wrap .past-stays-dtls-box .stay-book-btn .submit{
+		background: url("/images/oberoihotels/white-arrow.png") center right 8px no-repeat #d8741b;
+	}
+	
+	.e-magazine{
+		padding: 10px 15px 30px;
+	}
+	
+	.bodyWrapMobile .mo-destination-slider .mo-destination-slide-banner-content .cta-box .style2{
+		padding-left: 0 !important;
+	}
+
+	.oberoi-one-omo-alliance-offer-content-sec .omo-oberoi-one-book-now-sec a{
+		font-family: Roboto, sans-serif !important;
+		width: 87px;
+		text-align: center;
+		font-size: 14px !important;
+		padding-left: 0 !important;
+		font-weight: 400 !important;
+		 
+	}
+	.dining-page .heading-component h1{
+		font-size: 1.7em !important;
+		line-height: 135%;
+	}
+	.staticPage ol li, .staticPage ul li{
+		font-size: 15px !important;
+	}
+	
+	
+	
+	.search-result-text-rendering h3, .search-result-text-rendering{
+		float: left;
+		width: 100%;
+	}
+	.search-result-text-rendering{
+		padding-bottom: 10px;
+	}
+	
+	.mo-black-overlay .mo-pop-up-box{
+		width: 90%;
+		padding: 10px;
+	}
+	.mo-black-overlay .mo-pop-up-box .mo-pop-up-desc{
+		padding: 10px;
+	}
+	.mo-black-overlay .mo-pop-up-box h3{
+		font-size: 1.25em;
+	}
+	.mo-black-overlay .mo-pop-up-box h2{
+		font-size: 1.5em;
+	}
+	.mo-black-overlay .mo-pop-up-box .mo-pop-up-desc .mo-hotels-button a{
+		width:100px;
+		box-shadow: 0px 5px 5px #ccc;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+	}
+	.dashboard .dashboard-right .upcoming-stays .stay-box .content-box .addFlightDetails .form .submit, .dashboard .past-stays-dtls-wrap .past-stays-dtls-box .stay-book-btn .submit{
+		font-size: 15px !important;
+	}
+	.dashboard .faqs-questions-wrapper .quizBox{
+		padding: 5px 5px 10px 5px;
+	}
+	.dashboard .faqs-questions-wrapper .faq-questions span, .dashboard .faqs-questions-wrapper .faq-answers{
+		font-size: 15px !important;
+		 
+	}
+	.dashboard .past-stays-dtls-wrap .past-stays-dtls-box{
+		float: left;
+	}
+	.dashboard .milestone-accordion-wrapper .milestone-acc-box .milestone-acc-content .room-detailBox .room-and-guest-details .milestone-upcoming-stays a:after{
+		content: " ";
+		border-bottom: 2px solid #fff;
+		border-right: 2px solid #fff;
+		top: 50%;
+		margin-top: -5px;
+		height: 7px;
+		right: 8px;
+		position: absolute;
+		-webkit-transform: rotate(-45deg);
+		-ms-transform: rotate(-45deg);
+		-o-transform: rotate(-45deg);
+		transform: rotate(-45deg);
+		width: 7px;
+		z-index: 2;
+		border-top: none;
+	}
+	.dashboard .milestone-accordion-wrapper .view-more-items, .dashboard .milestone-accordion-wrapper .milestone-acc-box .certificateDetails{
+		float: left;
+		width: 100%;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+   

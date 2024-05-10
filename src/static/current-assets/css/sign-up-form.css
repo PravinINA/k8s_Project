@@ -1,0 +1,317 @@
+/* Scss Document */
+/**/
+/* screen resolutio*/
+/* mixin start*/
+.sign-up-form {
+  max-width: 450px;
+  font-family: "Roboto", sans-serif;
+  margin-top: 20px; }
+  .sign-up-form .queries-btn label {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    margin-right: 35px;
+    position: relative; }
+    .sign-up-form .queries-btn label:after {
+      position: absolute;
+      content: " ";
+      height: 10px;
+      width: 10px;
+      border-radius: 50%;
+      border: 1px solid #000;
+      top: 2px;
+      left: 0px; }
+    .sign-up-form .queries-btn label input[type="radio"] {
+      opacity: 0; }
+    .sign-up-form .queries-btn label span {
+      display: inline-block;
+      margin-left: 15px; }
+    .sign-up-form .queries-btn label.active:after {
+      border: 5px solid #d8751d;
+      height: 6px;
+      width: 6px;
+      top: 0px; }
+  .sign-up-form .sign-up-form-wrap {
+    margin-top: 0px; }
+    .sign-up-form .sign-up-form-wrap .form-field-container {
+      margin-bottom: 8px;
+      width: 100%;
+      float: left; }
+      .sign-up-form .sign-up-form-wrap .form-field-container .field-col1 {
+        width: 58%;
+        float: left;
+        padding-right: 2%; }
+        .sign-up-form .sign-up-form-wrap .form-field-container .field-col1 .label-content {
+          width: 44.6%; }
+        .sign-up-form .sign-up-form-wrap .form-field-container .field-col1 .form-field {
+          width: 100%; }
+      .sign-up-form .sign-up-form-wrap .form-field-container .field-col2 {
+        width: 42%;
+        float: left; }
+    .sign-up-form .sign-up-form-wrap .form-tnc-box label {
+      width: 100%;
+      float: left;
+      margin-bottom: 10px;
+      margin-top: 5px;
+      font-size: 11px;
+      font-family: "Roboto", sans-serif; }
+      .sign-up-form .sign-up-form-wrap .form-tnc-box label span {
+        float: left;
+        width: auto; }
+        .sign-up-form .sign-up-form-wrap .form-tnc-box label span a {
+          color: #40c3e5;
+          text-decoration: none; }
+      .sign-up-form .sign-up-form-wrap .form-tnc-box label .form-tnc-txt {
+        margin-left: 10px; }
+    .sign-up-form .sign-up-form-wrap .form-button-section {
+      width: 100%;
+      float: left;
+      margin-bottom: 12px; }
+      .sign-up-form .sign-up-form-wrap .form-button-section.submit-btn-section {
+        text-align: center;
+        position: relative; }
+      .sign-up-form .sign-up-form-wrap .form-button-section.login-btn-section {
+        text-align: right;
+        font-size: 13px;
+        font-weight: 300; }
+      .sign-up-form .sign-up-form-wrap .form-button-section .submit-btn {
+        min-width: 84px;
+        font-size: 13px;
+        text-transform: uppercase;
+        background: #d8751b;
+        font-family: "Roboto", sans-serif;
+        font-weight: 300;
+        padding: 5px;
+        color: #fff;
+        text-align: center;
+        display: inline-block;
+        cursor: pointer; }
+      .sign-up-form .sign-up-form-wrap .form-button-section .submit-btn:focus, .sign-up-form .sign-up-form-wrap .form-button-section .submit-btn:active {
+        outline: none; }
+      .sign-up-form .sign-up-form-wrap .form-button-section .login-btn {
+        width: 76px;
+        font-size: 13px;
+        text-transform: uppercase;
+        font-family: "Roboto", sans-serif;
+        font-weight: 600;
+        padding: 5px 0px;
+        color: #000;
+        text-align: center;
+        display: inline-block;
+        border: 1px solid #a0a0a0;
+        text-decoration: none;
+        margin-left: 20px; }
+    .sign-up-form .sign-up-form-wrap .label-content {
+      width: 25%;
+      font-size: 14px;
+      float: left;
+      font-family: "Roboto", sans-serif;
+      font-weight: 300;
+      margin-top: 5px; }
+    .sign-up-form .sign-up-form-wrap .form-field {
+      width: 100%;
+      float: left; }
+      .sign-up-form .sign-up-form-wrap .form-field input[type="text"], .sign-up-form .sign-up-form-wrap .form-field input[type="password"], .sign-up-form .sign-up-form-wrap .form-field select, .sign-up-form .sign-up-form-wrap .form-field textarea {
+        font-size: 14px;
+        font-weight: 300;
+        border: 1px solid #ebebeb;
+        padding: 5px 10px;
+        color: #000;
+        font-weight: 300;
+        font-family: "Roboto", sans-serif; }
+      .sign-up-form .sign-up-form-wrap .form-field .form-field-col {
+        width: auto;
+        float: left; }
+        .sign-up-form .sign-up-form-wrap .form-field .form-field-col.title-filed {
+          width: 15%;
+          float: left;
+          /* select{
+             padding:4px 10px;
+           }*/ }
+        .sign-up-form .sign-up-form-wrap .form-field .form-field-col.name-field1, .sign-up-form .sign-up-form-wrap .form-field .form-field-col.name-field2 {
+          width: 40.5%;
+          float: left;
+          margin-left: 2%; }
+      .sign-up-form .sign-up-form-wrap .form-field select {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        background: url(../images/contact-us-form/select-arrow.png) right 10px center no-repeat #fff;
+        border-radius: 0; }
+      .sign-up-form .sign-up-form-wrap .form-field textarea {
+        width: 100%;
+        resize: none;
+        height: 86px; }
+      .sign-up-form .sign-up-form-wrap .form-field .select-box {
+        width: 100%;
+        text-transform: capitalize; }
+        .sign-up-form .sign-up-form-wrap .form-field .select-box.select-title {
+          width: 15%; }
+      .sign-up-form .sign-up-form-wrap .form-field .input-filed {
+        width: 100%; }
+        .sign-up-form .sign-up-form-wrap .form-field .input-filed.field-style1 {
+          width: 39.6%;
+          margin-left: 2%; }
+      .sign-up-form .sign-up-form-wrap .form-field ::-webkit-input-placeholder {
+        color: #000;
+        opacity: 1 !important;
+        /* for older chrome versions. may no longer apply. */ }
+      .sign-up-form .sign-up-form-wrap .form-field :-moz-placeholder {
+        /* Firefox 18- */
+        color: #000;
+        opacity: 1 !important; }
+      .sign-up-form .sign-up-form-wrap .form-field ::-moz-placeholder {
+        /* Firefox 19+ */
+        color: #000;
+        opacity: 1 !important; }
+      .sign-up-form .sign-up-form-wrap .form-field :-ms-input-placeholder {
+        color: #000;
+        opacity: 1 !important; }
+      .sign-up-form .sign-up-form-wrap .form-field .captcha-image {
+        width: 30%;
+        float: left;
+        border: 1px solid #ebebeb;
+        min-height: 29px;
+        background: #fff; }
+        .sign-up-form .sign-up-form-wrap .form-field .captcha-image img {
+          width: 100%;
+          margin-top: 2px; }
+      .sign-up-form .sign-up-form-wrap .form-field .captcha-field {
+        width: 35%;
+        float: left;
+        padding-left: 4%; }
+      .sign-up-form .sign-up-form-wrap .form-field .reload-captcha {
+        width: 35%;
+        float: left;
+        padding-left: 4%;
+        font-family: "Roboto", sans-serif;
+        font-size: 14px;
+        font-weight: 300;
+        text-align: right;
+        margin-top: 5px; }
+        .sign-up-form .sign-up-form-wrap .form-field .reload-captcha a {
+          color: #000; }
+  .sign-up-form .form-tnc {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    text-align: right;
+    width: auto;
+    float: right; }
+  .sign-up-form .form-button {
+    width: 25%;
+    float: left; }
+    .sign-up-form .form-button .submit-btn {
+      float: right; }
+    .sign-up-form .form-button .btn-style1, .sign-up-form .form-button .btn-style2 {
+      text-transform: none; }
+  .sign-up-form .error-message {
+    font-size: 10px;
+    color: red;
+    margin-top: 4px;
+    float: left;
+    white-space: nowrap;
+    display: none; }
+  .sign-up-form .form-head-section {
+    text-align: center; }
+    .sign-up-form .form-head-section h3 {
+      font-size: 13px;
+      font-weight: 400;
+      margin-bottom: 12px; }
+      .sign-up-form .form-head-section h3 span {
+        font-weight: 300;
+        font-size: 17px; }
+    .sign-up-form .form-head-section ul {
+      list-style: none;
+      margin-bottom: 12px; }
+      .sign-up-form .form-head-section ul li {
+        display: inline-block;
+        /*font-weight:300;*/
+        padding: 0px 20px;
+        font-size: 13px;
+        border-right: 1px solid #999999; }
+        .sign-up-form .form-head-section ul li a {
+          color: #000;
+          text-decoration: none; }
+        .sign-up-form .form-head-section ul li span {
+          margin-right: 5px; }
+        .sign-up-form .form-head-section ul li:last-child {
+          border: none; }
+
+#bck-btn {
+  position: absolute;
+  left: 0; }
+
+#bck-btn a {
+  font-size: 15px;
+  font-weight: 500;
+  float: left;
+  color: #000;
+  width: auto;
+  margin-top: 5px;
+  position: relative;
+  text-decoration: none;
+  padding: 0 0 0 12px; }
+
+#bck-btn a:after {
+  content: " ";
+  border-bottom: 2px solid #000;
+  border-right: 2px solid #000;
+  top: 50%;
+  margin-top: -5px;
+  height: 7px;
+  left: 0px;
+  position: absolute;
+  -moz-transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+  -ms-transform: rotate(135deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(130deg);
+  width: 7px;
+  z-index: 2; }
+
+@media only screen and (max-width: 480px) {
+  .sign-up-form {
+    max-width: 100%; }
+    .sign-up-form .sign-up-form-wrap .form-field-container {
+      margin-bottom: 15px; }
+      .sign-up-form .sign-up-form-wrap .form-field-container .field-col1 {
+        width: 100%;
+        padding-right: 0px; }
+        .sign-up-form .sign-up-form-wrap .form-field-container .field-col1 .label-content {
+          width: 33%; }
+        .sign-up-form .sign-up-form-wrap .form-field-container .field-col1 .form-field {
+          width: 100%; }
+      .sign-up-form .sign-up-form-wrap .form-field-container .field-col2 {
+        width: 100%;
+        margin-top: 15px; }
+      .sign-up-form .sign-up-form-wrap .form-field-container.captcha-container .label-content {
+        width: 44%; }
+      .sign-up-form .sign-up-form-wrap .form-field-container.captcha-container .form-field {
+        width: 45%; }
+
+  .sign-up-form .sign-up-form-wrap .form-field .form-field-col.title-filed {
+    width: 19%; }
+
+  .sign-up-form .sign-up-form-wrap .form-tnc-box label .form-tnc-txt {
+    width: 92%; }
+
+  .sign-up-form .sign-up-form-wrap .form-field .form-field-col.name-field1 {
+    width: 79%; }
+
+  .sign-up-form .sign-up-form-wrap .form-field .form-field-col.name-field2 {
+    width: 100%; }
+
+  .sign-up-form .sign-up-form-wrap .form-field .form-field-col.name-field2 {
+    width: 100%;
+    margin-top: 15px;
+    margin-left: 0px; } }
+@media only screen and (max-width: 359px) {
+  .sign-up-form .sign-up-form-wrap .form-field .form-field-col.title-filed {
+    width: 22%; }
+
+  .sign-up-form .sign-up-form-wrap .form-field .form-field-col.name-field1 {
+    width: 76%; }
+
+  .sign-up-form .sign-up-form-wrap .form-field .form-field-col.name-field2 {
+    width: 100%; } }
+
+/*# sourceMappingURL=sign-up-form.css.map */

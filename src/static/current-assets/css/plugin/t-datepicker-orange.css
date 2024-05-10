@@ -1,0 +1,253 @@
+.t-check-in,
+.t-check-out {
+    border-color: #ededed
+}
+
+.t-check-in {
+    border-right-color: #e8e8e8
+}
+
+.t-date-title {
+    color: #d8741b
+}
+
+.t-special-day:before {
+    border-color: #d8741b #d8741b transparent transparent
+}
+
+.t-datepicker-day {
+    border-color: #ededed;
+    border: 0;
+    background: #fff
+}
+.t-table-condensed td,
+.t-day,
+.t-disabled,
+.t-end,
+.t-range,
+.t-start {
+       border-color: #e1e1e1
+}
+
+.t-disabled {
+    background: 0 0
+}
+
+.t-table-condensed td{
+    position:relative;
+}
+.t-table-condensed .date-price {
+    display: block;
+    color: #666;
+    text-align: center;
+    letter-spacing: 0.5px;
+    position: absolute;
+    left: 0;
+    text-align: center;
+    width: 100%;
+    font-size: 9px;
+    line-height: 8px;
+    bottom: 3px;
+}
+
+.t-highlighted {
+    /* color: #fea860 */
+}
+
+
+.t-highlighted.t-disabled {
+    background: #fafafa;
+    color: inherit;
+}
+
+
+.t-end,
+.t-end-limit,
+.t-start {
+    color: #fff;
+    background: #d8741b
+}
+
+.t-range,
+.t-range-limit {
+    color: #fea860
+}
+
+.t-range {
+    background: #fffbf8
+}
+
+.t-range-limit {
+    background: #ffedde
+}
+
+.t-range-limit.t-end,
+.t-range-limit.t-start {
+    color: #fff;
+    background: #fec392
+}
+
+.t-check-in .t-end,
+.t-check-out .t-start,
+.t-check-out tr~.t-end {
+    color: #fff;
+    background: #d8741b
+}
+
+.t-hover-day,
+.t-hover-day-content,
+.t-hover-day:hover {
+    color: #fff;
+    background: #fea860
+}
+
+.t-hover-day::after {
+    border-color: #fea860 transparent transparent
+}
+
+.t-today,
+.t-today .t-hover-day-content {
+    background: #aeaeae
+}
+
+.t-today::after {
+    border-top-color: #aeaeae
+}
+
+.t-today:hover,
+.t-today:hover .t-hover-day-content {
+    background: #fea860
+}
+
+.t-today:hover::after {
+    border-top-color: #fea860
+}
+
+.t-end.t-today,
+.t-start.t-today {
+    color: #fff
+}
+
+.t-end.t-today,
+.t-end.t-today .t-hover-day-content,
+.t-start.t-today,
+.t-start.t-today .t-hover-day-content {
+    background: #d8741b
+}
+
+.t-end.t-today::after,
+.t-start.t-today::after {
+    border-top-color: #d8741b
+}
+
+.soldOutDate
+{
+    background: #f3f3f3 !important;
+    color: #c7c7c7 !important;
+    position: relative;
+    cursor: not-allowed;
+    opacity: 1 !important;
+}
+.checkOutDate .soldOutDate{
+  cursor:pointer;
+}
+.soldOutDate span.t-hover-day-content
+{
+    display: none;
+}
+.soldOutDate::after
+{
+       content: 'Sold Out';
+    position: absolute;
+    z-index: 1;
+    bottom: 4px;
+    font-size: 8px;
+    line-height: 8px;
+    left: 50%;
+    transform: translate(-50%,0);
+    color: #999 !important;
+    white-space: nowrap;
+
+}
+.soldOutDate.t-hover-day::after
+{
+    border: none;
+    right: auto;
+    top: auto;
+}
+.marketingFlag
+{
+position: relative;
+}
+.marketingFlag::before
+{
+    position: absolute;
+    content: ' ';
+      border-bottom: 2px solid #e09049;
+          bottom: 5px;
+    left: 50%;
+    width: 13px;
+    transform: translateX(-50%);
+
+}
+.calender-dynamic-text-ma
+{
+    text-align: center;
+    padding: 0 10px;
+    font-size: 12px;
+    width: 100%;
+    position: absolute;
+    top:20px;
+    pointer-events: none;
+}
+.marketingAssetsMessage
+{
+    text-align: center;
+    padding: 0 10px;
+    font-size: 12px;
+    display: inline-block;
+
+}
+.calender-dynamic-text-ma span, .marketingAssetsMessage span
+{
+    position: relative;
+    padding-left: 20px;
+    margin: 0 15px;
+}
+.calender-dynamic-text-ma span::before, .marketingAssetsMessage span::before
+{
+    width: 13px;
+    height: 2px;
+    background: #e09049;
+    content: ' ';
+    position: absolute;
+    left: 0px;
+    top:6px;
+}
+.t-table-condensed .t-range-limit .date-price
+{
+    color: #fea860;
+}
+.t-table-condensed .t-start.t-today .date-price, .t-table-condensed .t-start .date-price, .t-table-condensed .t-end .date-price, .t-table-condensed .t-hover-day .date-price
+{
+    color: #fff;
+}
+.calender-price-msg {
+    font-size: 10px;
+    padding: 5px;
+    line-height: 10px;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    right: 0px;
+    color: #787878;
+    font-weight: 400;
+    }
+
+ @media only screen and (max-width: 991px)
+ {
+.calender-price-msg {
+    display: none;
+}
+}

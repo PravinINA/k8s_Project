@@ -1,0 +1,20 @@
+<table class="table">
+    <thead>
+        <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Hotel Name</th>
+        <th scope="col">Year</th>
+        <th scope="col">Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for car in cars %}
+            <tr>
+                <td>{{ car.id }}</th>
+                <td>{{ car.dining }}</td>
+                <td>{{ car.year }}</td>
+                <td>{{ car.price }}</td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>

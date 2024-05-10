@@ -1,0 +1,3145 @@
+.checkOutDisable {
+	pointer-events: none
+}
+
+.notShowInDropDown {
+	display: none
+}
+
+.calender-dynamic-text {
+	text-align: center;
+	padding: 9px 15px 2px 15px;
+	white-space: initial
+}
+
+.calender-dynamic-text span {
+	color: #d8741b
+}
+
+.calanderBottomMessage {
+	z-index: 1;
+	bottom: 0;
+	font-size: 14px;
+	white-space: normal;
+	clear: both;
+	padding: 0px 20px;
+	text-align: center
+}
+
+.calanderBottomMessage span {
+	color: #d8741b
+}
+
+.layout2 .calanderBottomMessage {
+	padding: 5px 20px
+}
+
+.bookingEnginePopOverlay {
+	z-index: -1;
+	position: fixed;
+	top: 0px;
+	transition: all linear .4s;
+	left: 0px;
+	background: #000;
+	opacity: 0
+}
+
+.bookingEnginePopOverlay.active {
+	opacity: 0.7;
+	z-index: 99991;
+	width: 100%;
+	height: 100%
+}
+
+.bookingEnginePopOverlay .close {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin: -220px 0 0 229px;
+	font-size: 30px;
+	color: #fff
+}
+
+.availability-cta .boxColumn {
+	width: 450px
+}
+
+.availability-cta .boxColumn.bEnginepopUp {
+	position: fixed;
+	z-index: 99992;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -60%)
+}
+
+.availability-cta .booking-engine.layout2.left .hotelName .hotelListDropDown {
+	left: auto;
+	bottom: auto;
+	right: 0
+}
+
+.availability-cta .booking-engine.layout2.left .hotelName .arrowWrap {
+	margin: 10px 0 0 -35px
+}
+
+.availability-cta .booking-engine.layout2.left .hotelName.NoClick {
+	pointer-events: none
+}
+
+.availability-cta .booking-engine.layout2.left .hotelName.NoClick .arrowWrap {
+	display: none
+}
+
+.availability-cta .booking-engine.layout2.left .noOfRoomsWrap {
+	padding: 10px 12%
+}
+
+.availability-cta .booking-engine.layout2.left .noOfRoomsWrap .addRoomLabel .mobile span.value {
+	font-size: 30px
+}
+
+.availability-cta .booking-engine.layout2.left .noOfRoomsWrap .arrowWrap {
+	position: relative;
+	top: 6px
+}
+
+.availability-cta .booking-engine.layout2.left .noOfGuestWrap {
+	padding: 10px 12%
+}
+
+.availability-cta .booking-engine.layout2.left .noOfGuestWrap .addGuestDropDown {
+	left: auto;
+	right: 0
+}
+
+.availability-cta .booking-engine.layout2.left .noOfGuestWrap .arrowWrap {
+	position: relative;
+	top: 6px
+}
+
+.availability-cta .booking-engine.layout2.left .noOfGuestWrap .guestCount span.value {
+	font-size: 30px
+}
+
+.availability-cta .booking-engine.layout2.left .checkInCheckOut .datesWrap {
+	padding: 10px 12%
+}
+
+.availability-cta .booking-engine.layout2.left .checkInCheckOut .datesWrap .dateWrap .t-datepicker-day {
+	left: auto;
+	bottom: auto;
+	right: 0;
+	min-height: 335px;
+	padding-top: 25px
+}
+
+.availability-cta .booking-engine.layout2.left .checkInCheckOut .datesWrap .dateWrap .t-datepicker-day .cico-identification {
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	color: #d8741b;
+	font-weight: 600;
+	top: 10px;
+	display: none
+}
+
+.availability-cta .booking-engine.layout2.left .checkInCheckOut .datesWrap .dateWrap .t-datepicker-day .calender-dynamic-text {
+	text-align: center;
+	padding: 9px 15px 2px 15px
+}
+
+.availability-cta .booking-engine.layout2.left .checkInCheckOut .datesWrap .dateWrap .t-datepicker-day .calender-dynamic-text span {
+	color: #d8741b
+}
+
+.spa-detail-page .boxColumn {
+	max-width: 450px;
+	float: left
+}
+
+.spa-detail-page .boxColumn .booking-engine {
+	top: 50px
+}
+
+.banner-component-style1 .booking-engine {
+	top: -30px
+}
+
+.booking-engine {
+	width: 100%;
+	margin: 0 0;
+	background: #fff;
+	padding: 10px;
+	box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.15);
+	font-weight: 300;
+	font-family: "Verdana", sans-serif;
+	font-size: 0.9375em;
+	position: relative;
+	text-align: left
+}
+
+.booking-engine .nightsWrap {
+	position: relative;
+	clear: both;
+	border-top: 1px solid #f3f3f3
+}
+
+.booking-engine .nightsWrap .label {
+	text-align: center;
+	font-size: 10px;
+	padding: 10px 0 0 0;
+	color: #afafaf
+}
+
+.booking-engine .nightsWrap select.ddlHotelOfferNights {
+	width: 100%;
+	padding: 3px 5px 13px 5px;
+	text-align: center;
+	text-align-last: center;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	font-weight: 300;
+	font-family: "Verdana", sans-serif;
+	font-size: 15px
+}
+
+.booking-engine .nightsWrap .arrowWrap {
+	position: absolute;
+	right: 12px;
+	top: 13px;
+	font-size: 20px;
+	pointer-events: none
+}
+
+.booking-engine .nightsWrap.active .arrowWrap i {
+	transition: all linear .4s
+}
+
+.booking-engine .nightsWrap.active .arrowWrap i.fa {
+	transform: rotate(180deg)
+}
+
+.booking-engine.bkhOffset .cruiseSelectionWrap {
+	display: none !important
+}
+
+.booking-engine .cruiseSelectionWrap {
+	display: none
+}
+
+.booking-engine.overview-page {
+	top: -30px
+}
+
+.booking-engine.moveUp {
+	transform: translate(0, -50%)
+}
+
+.booking-engine.reverse .hotelName .hotelListDropDown {
+	top: auto;
+	bottom: 50px;
+	box-shadow: 0px -10px 15px 0px rgba(0, 0, 0, 0.05);
+	z-index: 99991
+}
+
+.booking-engine.reverse .checkInCheckOut .t-datepicker-day {
+	top: auto;
+	bottom: 50px;
+	box-shadow: 0px -10px 15px 0px rgba(0, 0, 0, 0.05);
+	z-index: 99999;
+	min-height: 335px;
+	padding-top: 25px
+}
+
+.booking-engine.reverse .checkInCheckOut .t-datepicker-day .cico-identification {
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	color: #d8741b;
+	font-weight: 600;
+	top: 10px;
+	display: none
+}
+
+.booking-engine.reverse .checkInCheckOut .t-arrow-top {
+	display: none !important
+}
+
+.booking-engine .bookYourStay {
+	float: left;
+	width: 100%;
+	font-weight: 400;
+	background: #ebebeb;
+	color: #000;
+	padding: 5px 10px;
+	font-size: 0.8em;
+	margin: 0 0 10px 0;
+	display: none
+}
+
+.booking-engine .hotelName {
+	float: left;
+	width: 25%;
+	padding: 10px;
+	height: 39px;
+	border-right: #d8741b solid 1px;
+	position: relative
+}
+
+.booking-engine .hotelName.NoClick {
+	pointer-events: none
+}
+
+.booking-engine .hotelName.NoClick .arrowWrap {
+	display: none
+}
+
+.booking-engine .hotelName .hotelLabel {
+	float: left;
+	width: 100%;
+	cursor: pointer
+}
+
+.booking-engine .hotelName .hotelLabel .name {
+	float: left;
+	width: 95%;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden
+}
+
+.booking-engine .hotelName .hotelLabel .name abbr {
+	font-weight: 400;
+	display: block
+}
+
+.booking-engine .hotelName .hotelLabel .name .desktopN {
+	display: inline
+}
+
+.booking-engine .hotelName .hotelLabel .name .mobileN {
+	display: none
+}
+
+.booking-engine .hotelName .hotelLabel .arrowWrap {
+	float: left;
+	width: 5%;
+	padding: 0;
+	font-size: 20px;
+	line-height: 10px
+}
+
+.booking-engine .hotelName .hotelLabel .arrowWrap i.fa {
+	transition: all 0.3s ease-in-out;
+	transform-origin: center center
+}
+
+.booking-engine .hotelName .hotelLabel.active i.fa {
+	transform: rotate(180deg)
+}
+
+.booking-engine .hotelName .hotelListDropDown {
+	position: absolute;
+	width: 911px;
+	background: #fff;
+	box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.05);
+	padding: 10px 0;
+	left: -10px;
+	top: 50px;
+	z-index: 10;
+	display: none
+}
+
+.booking-engine .hotelName .hotelListDropDown .mobileHeader {
+	display: none
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels {
+	float: left;
+	width: 100%;
+	background: #fff
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList {
+	float: left;
+	width: 38%;
+	padding: 10px 20px;
+	border-left: #ebebeb solid 1px
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList:first-child,
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList:last-child {
+	border: 0 !important
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList:nth-child(2) {
+	border-right: #ebebeb solid 1px
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList.hotelListCol3 {
+	width: 24%
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock {
+	float: left;
+	width: 100%;
+	margin: 0 0 10px 0
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock:last-child {
+	margin: 0
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .heading {
+	float: left;
+	width: 100%;
+	color: #d8741b;
+	font-weight: 400;
+	margin: 0 0 10px 0
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list {
+	float: left;
+	width: 100%
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul {
+	list-style: none
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li {
+	float: left;
+	width: auto;
+	margin: 0 0 10px 0;
+	cursor: pointer;
+	transition: all 0.3s ease-in-out;
+	white-space: normal;
+	position: relative;
+	clear: both
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li:hover,
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li.active {
+	color: #d8741b
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li .label {
+	float: left;
+	width: 100%
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li .subNav {
+	position: absolute;
+	width: 220px;
+	box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.05);
+	color: #000;
+	margin: 0px 0 0 0;
+	left: 0;
+	top: 100%;
+	z-index: 2;
+	background: #fff;
+	display: none
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li .subNav .head {
+	float: left;
+	width: 100%;
+	padding: 10px;
+	border-top: #e6e6e6 solid 1px
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li .subNav .head:hover {
+	color: #d8741b
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li .subNav .head:first-child {
+	border: 0
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li .subNav .head .arrowWrap {
+	float: right;
+	transition: all 0.3 ease-in-out
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li .subNav .head.active .arrowWrap {
+	transform: rotate(180deg)
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li .subNav .content {
+	float: left;
+	width: 100%;
+	padding: 0;
+	display: none
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li .subNav .content .values {
+	float: left;
+	width: 100%;
+	padding: 5px 10px;
+	margin: 0
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li .subNav .content .values:hover,
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li .subNav .content .values.active {
+	color: #d8741b
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li .subNav .content .values:first-child {
+	padding-top: 0
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li .subNav .content .actionWrap {
+	float: left;
+	width: 100%;
+	padding: 10px;
+	border-top: #e6e6e6 solid 1px
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li .subNav .content .actionWrap:hover,
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li .subNav .content .actionWrap.active {
+	color: #d8741b
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li .subNav .content .actionWrap .button {
+	float: left;
+	width: auto;
+	font-size: 0.95em
+}
+
+.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList .hotelBlock .list ul li:hover .subNav {
+	display: inline
+}
+
+.booking-engine .NumberOfNights {
+	float: left;
+	width: 100%;
+	padding: 8px;
+	clear: both;
+	margin-left: 0px;
+	border-top: #f3f3f3 solid 1px;
+	background: #fff;
+	position: relative;
+	text-align: center
+}
+
+.booking-engine .NumberOfNights .nightsWrap {
+	border-top: none
+}
+
+.booking-engine .NumberOfNights .label {
+	clear: both;
+	text-align: center;
+	font-size: 10px;
+	padding: 4px 0 4px 0;
+	color: #afafaf
+}
+
+.booking-engine .NumberOfNights.NoClick {
+	pointer-events: none
+}
+
+.booking-engine .NumberOfNights.NoClick .arrowWrap {
+	display: none
+}
+
+.booking-engine .NumberOfNights .NumberOfNightsLabel {
+	float: left;
+	width: 100%;
+	cursor: pointer
+}
+
+.booking-engine .NumberOfNights .NumberOfNightsLabel .name {
+	float: left;
+	width: 100%;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	color: #000000
+}
+
+.booking-engine .NumberOfNights .NumberOfNightsLabel .name abbr {
+	font-weight: 400;
+	display: block
+}
+
+.booking-engine .NumberOfNights .NumberOfNightsLabel .name .desktopN {
+	display: inline
+}
+
+.booking-engine .NumberOfNights .NumberOfNightsLabel .name .mobileN {
+	display: none
+}
+
+.booking-engine .NumberOfNights .NumberOfNightsLabel .arrowWrap {
+	float: right;
+	width: auto;
+	padding: 0 0 0 7px;
+	font-size: 20px;
+	line-height: 10px;
+	color: #000000;
+	top: -11px;
+	right: 34px
+}
+
+.booking-engine .NumberOfNights .NumberOfNightsLabel .arrowWrap i.fa {
+	transition: all 0.3s ease-in-out;
+	transform-origin: center center
+}
+
+.booking-engine .NumberOfNights .NumberOfNightsLabel.active i.fa {
+	transform: rotate(180deg)
+}
+
+.booking-engine .NumberOfNights .NumberOfNightsDropDown {
+	position: absolute;
+	width: 100%;
+	background: #fff;
+	box-shadow: 0px 15px 15px 0px rgba(0, 0, 0, 0.05);
+	padding: 10px 0;
+	left: 0px;
+	top: 50px;
+	z-index: 10;
+	display: none
+}
+
+.booking-engine .NumberOfNights .NumberOfNightsDropDown .list span {
+	padding: 5px 10px
+}
+
+.booking-engine .NumberOfNights .NumberOfNightsDropDown ul {
+	margin: 0px;
+	padding: 0px;
+	width: 100%
+}
+
+.booking-engine .NumberOfNights .NumberOfNightsDropDown ul li {
+	width: 100%;
+	list-style-type: none;
+	padding: 5px 10px;
+	cursor: pointer;
+	font-family: "Verdana", sans-serif
+}
+
+.booking-engine .NumberOfNights .NumberOfNightsDropDown ul li.active {
+	color: #d8741b;
+	background: #fff
+}
+
+.booking-engine .NumberOfNights .NumberOfNightsDropDown .mobileHeader {
+	display: none
+}
+
+.booking-engine .NumberOfNights .NumberOfNightsDropDown .NumberOfNights {
+	float: left;
+	width: 100%;
+	padding: 0;
+	border-left: #ebebeb solid 1px
+}
+
+.booking-engine .NumberOfNights .NumberOfNightsDropDown .NumberOfNights:first-child {
+	border: 0 !important
+}
+
+.booking-engine .checkInCheckOut {
+	display: flex;
+	float: left;
+	width: 38%;
+	height: 39px;
+	padding: 10px 0;
+	border-right: #d8741b solid 1px;
+	color: #242424;
+	flex-wrap: nowrap;
+	position: relative !important;
+	clear: none;
+	white-space: nowrap
+}
+
+.booking-engine .checkInCheckOut .t-mobile-heading {
+	display: none;
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	text-align: center;
+	font-weight: 600;
+	padding: 0 0;
+	z-index: 10000;
+	visibility: hidden;
+	padding: 0 0 20px 0;
+	box-shadow: 0px 2px 25px 0px rgba(0, 0, 0, 0.05)
+}
+
+.booking-engine .checkInCheckOut .t-mobile-heading .backWrap {
+	float: left;
+	width: 100%;
+	text-align: left;
+	padding: 5% 5% 10px 5%
+}
+
+.booking-engine .checkInCheckOut .t-mobile-heading .backWrap svg {
+	width: 15px;
+	fill: #000
+}
+
+.booking-engine .checkInCheckOut .t-mobile-heading .dateWrap {
+	float: left;
+	width: 100%
+}
+
+.booking-engine .checkInCheckOut .t-mobile-heading .dateWrap .mobCheckInCheckOut {
+	float: left;
+	width: 50%;
+	padding: 0 5%;
+	text-align: left;
+	position: relative
+}
+
+.booking-engine .checkInCheckOut .t-mobile-heading .dateWrap .mobCheckInCheckOut.active:before {
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 3px;
+	background: #d8741b;
+	left: 0;
+	bottom: -20px
+}
+
+.booking-engine .checkInCheckOut .t-mobile-heading .dateWrap .mobCheckInCheckOut .label {
+	color: #9b9b9b;
+	font-size: 10px;
+	float: left;
+	width: 100%;
+	font-weight: normal
+}
+
+.booking-engine .checkInCheckOut .t-mobile-heading .dateWrap .mobCheckInCheckOut .dates {
+	float: left;
+	width: 100%;
+	font-weight: 700;
+	border: 0;
+	height: 20px;
+	font-size: 1.4em
+}
+
+.booking-engine .checkInCheckOut .t-mobile-heading .dateWrap .mobCheckInCheckOut .dates .t-dates {
+	padding: 0;
+	height: auto
+}
+
+.booking-engine .checkInCheckOut .t-mobile-heading .dateWrap .mobCheckInCheckOut .dates .t-dates span {
+	font-weight: 400
+}
+
+.booking-engine .checkInCheckOut .t-mobile-heading .close {
+	float: right;
+	width: 60px;
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	background: #d8741b;
+	border-radius: 50%;
+	color: #fff;
+	right: 0;
+	font-size: 15px;
+	font-weight: 700;
+	position: fixed;
+	left: 50%;
+	bottom: 35px;
+	transform: translate(-50%, 0);
+	z-index: 10000;
+	box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.25)
+}
+
+.booking-engine .checkInCheckOut .calenderWrap {
+	position: absolute;
+	width: 700px;
+	left: 0px;
+	padding: 10px;
+	top: 49px;
+	background: #fff;
+	box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.05);
+	z-index: 1
+}
+
+.booking-engine .checkInCheckOut .t-datepicker-day {
+	top: 50px;
+	padding-top: 25px
+}
+
+.booking-engine .checkInCheckOut .t-datepicker-day .cico-identification {
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	color: #d8741b;
+	font-weight: 600;
+	top: 10px;
+	display: none
+}
+
+.booking-engine .checkInCheckOut .datesWrap {
+	width: 50%;
+	display: flex;
+	padding: 0 20px
+}
+
+.booking-engine .checkInCheckOut .datesWrap.disableCheckout:before {
+	content: "";
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: 2;
+	width: 50%;
+	height: 38px
+}
+
+.booking-engine .checkInCheckOut .datesWrap .label {
+	width: 75px;
+	white-space: nowrap;
+	padding: 0 10px 0 0
+}
+
+.booking-engine .checkInCheckOut .datesWrap.disabled .label {
+	opacity: 0.3
+}
+
+.booking-engine .checkInCheckOut .datesWrap .dateWrap {
+	float: left;
+	width: 100%;
+	background: url(https://oberoihotels.com/images/oberoihotels/booking-engine/calender-icon.jpg) left center no-repeat;
+	background-size: 13px;
+	border: 0
+}
+
+.booking-engine .checkInCheckOut .datesWrap .dateWrap.t-check-in,
+.booking-engine .checkInCheckOut .datesWrap .dateWrap.t-check-out {
+	position: static
+}
+
+.booking-engine .checkInCheckOut .datesWrap .dateWrap .t-datepicker-day {
+	left: 0px;
+	padding-top: 25px
+}
+
+.booking-engine .checkInCheckOut .datesWrap .dateWrap .t-datepicker-day .cico-identification {
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	color: #d8741b;
+	font-weight: 600;
+	top: 10px;
+	display: none
+}
+
+.booking-engine .checkInCheckOut .datesWrap .dateWrap .t-dates {
+	padding: 0 0 0 23px;
+	height: auto;
+	border: 0
+}
+
+.booking-engine .checkInCheckOut .datesWrap .dateWrap .t-dates span {
+	font-weight: 400
+}
+
+.booking-engine .checkInCheckOut .datesWrap .dateWrap .t-dates .t-date-info-title,
+.booking-engine .checkInCheckOut .datesWrap .dateWrap .t-dates .t-date-info-title {
+	top: 0;
+	left: 0;
+	opacity: 0;
+	position: relative
+}
+
+.booking-engine .checkInCheckOut .datesWrap .dateWrap .t-dates span {
+	font-weight: 400
+}
+
+.booking-engine .checkInCheckOut .datesWrap .dateWrap .t-dates .fa {
+	opacity: 0
+}
+
+.booking-engine .checkInCheckOut .datesWrap.disabled .dateWrap .t-dates {
+	opacity: 0.3
+}
+
+.booking-engine.reverse .noOfRoomsWrap .addRoomDropDown {
+	top: auto;
+	bottom: 50px;
+	box-shadow: 0px -10px 15px 0px rgba(0, 0, 0, 0.05)
+}
+
+.booking-engine .noOfRoomsWrap {
+	float: left;
+	width: 10%;
+	height: 39px;
+	padding: 10px 20px 10px 10px;
+	border-right: #d8741b solid 1px;
+	position: relative
+}
+
+.booking-engine .noOfRoomsWrap .addRoomLabel {
+	float: left;
+	width: 100%;
+	cursor: pointer
+}
+
+.booking-engine .noOfRoomsWrap .addRoomLabel .deskTop {
+	float: left;
+	width: 100%
+}
+
+.booking-engine .noOfRoomsWrap .addRoomLabel .deskTop .roomsCount {
+	float: left;
+	width: 95%
+}
+
+.booking-engine .noOfRoomsWrap .addRoomLabel .deskTop .arrowWrap {
+	float: left;
+	width: 5%;
+	font-size: 20px;
+	line-height: 10px
+}
+
+.booking-engine .noOfRoomsWrap .addRoomLabel .deskTop .arrowWrap i.fa {
+	transition: all 0.3s ease-in-out;
+	transform-origin: center center
+}
+
+.booking-engine .noOfRoomsWrap .addRoomLabel .mobile {
+	float: left;
+	width: 100%;
+	display: none
+}
+
+.booking-engine .noOfRoomsWrap .addRoomLabel.active i.fa {
+	transform: rotate(180deg)
+}
+
+.booking-engine .noOfRoomsWrap .addRoomDropDown {
+	position: absolute;
+	width: 200px;
+	background: #fff;
+	padding: 20px 20px 10px 20px;
+	box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.05);
+	z-index: 1;
+	top: 50px;
+	left: 0;
+	display: none
+}
+
+.booking-engine .noOfRoomsWrap .addRoomDropDown .mobileHeader {
+	display: none
+}
+
+.booking-engine .noOfRoomsWrap .addRoomDropDown .block {
+	float: left;
+	width: 100%;
+	padding: 0 0 10px 0;
+	position: relative
+}
+
+.booking-engine .noOfRoomsWrap .addRoomDropDown .block .roomSelectOption {
+	float: left;
+	width: 100%;
+	padding: 10px 10px;
+	border-bottom: #d7d7d7 solid 1px;
+	background: #fff;
+	cursor: pointer
+}
+
+.booking-engine .noOfRoomsWrap .addRoomDropDown .block .roomSelectOption:first-child {
+	padding-top: 0
+}
+
+.booking-engine .noOfRoomsWrap .addRoomDropDown .block .roomSelectOption:last-child {
+	border: 0;
+	padding-bottom: 0
+}
+
+.booking-engine .noOfRoomsWrap .addRoomDropDown .block .roomSelectOption.active,
+.booking-engine .noOfRoomsWrap .addRoomDropDown .block .roomSelectOption:hover {
+	color: #d8741b
+}
+
+.booking-engine .noOfRoomsWrap .addRoomDropDown .actionWrap {
+	float: left;
+	width: 100%;
+	border-top: #d7d7d7 solid 1px;
+	display: none
+}
+
+.booking-engine .noOfRoomsWrap .addRoomDropDown .actionWrap .addRoomButton {
+	float: left;
+	width: auto;
+	text-transform: uppercase;
+	cursor: pointer;
+	border: #a1a1a1 solid 1px;
+	padding: 8px 10px
+}
+
+.booking-engine .noOfRoomsWrap .addRoomDropDown .actionWrap .addRoomButton:hover {
+	background: #d8741b;
+	color: #fff;
+	border-color: #d8741b
+}
+
+.booking-engine .noOfRoomsWrap .addRoomDropDown .actionWrap .actionButton {
+	float: right;
+	width: auto;
+	padding: 8px 0px;
+	cursor: pointer
+}
+
+.booking-engine .noOfRoomsWrap .addRoomDropDown .actionWrap .actionButton:hover {
+	color: #d8741b
+}
+
+.booking-engine.bkhOffset.reverse .noOfGuestWrap .addGuestDropDown {
+	top: auto;
+	bottom: 50px;
+	box-shadow: 0px -10px 15px 0px rgba(0, 0, 0, 0.05)
+}
+
+.booking-engine .noOfGuestWrap {
+	float: left;
+	width: 10%;
+	height: 39px;
+	padding: 10px 20px 10px 10px;
+	position: relative
+}
+
+.booking-engine .noOfGuestWrap .addGuestLabel {
+	float: left;
+	width: 100%;
+	cursor: pointer
+}
+
+.booking-engine .noOfGuestWrap .addGuestLabel .guestCount {
+	float: left;
+	width: 95%
+}
+
+.booking-engine .noOfGuestWrap .addGuestLabel .arrowWrap {
+	float: left;
+	width: 5%;
+	font-size: 20px;
+	line-height: 10px
+}
+
+.booking-engine .noOfGuestWrap .addGuestLabel .arrowWrap i.fa {
+	transition: all 0.3s ease-in-out;
+	transform-origin: center center
+}
+
+.booking-engine .noOfGuestWrap .addGuestLabel.active i.fa {
+	transform: rotate(180deg)
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown {
+	position: absolute;
+	width: 280px;
+	background: #fff;
+	padding: 20px 20px 10px 20px;
+	box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.05);
+	z-index: 2;
+	top: 50px;
+	left: 0;
+	display: none
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .mobileHeader {
+	display: none
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper {
+	float: left;
+	width: 100%
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block {
+	float: left;
+	width: 100%;
+	padding: 0 0 10px 0;
+	margin: 10px 0 0 0;
+	border-bottom: #d7d7d7 solid 1px;
+	position: relative
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block:first-child {
+	margin-top: 0
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .editBlock {
+	position: absolute;
+	width: auto;
+	right: 0;
+	top: 0
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .editBlock .edit {
+	float: left;
+	color: #d8741b;
+	cursor: pointer;
+	font-size: 0.92em;
+	border-right: #b1b1b1 solid 1px;
+	padding: 0 5px 0 0
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .editBlock .closeIcn {
+	float: left;
+	width: 13px;
+	height: 13px;
+	border: #b1b1b1 solid 1px;
+	border-radius: 50%;
+	text-align: center;
+	color: #b1b1b1;
+	font-size: 9px;
+	font-family: "Verdana", sans-serif;
+	margin: 2px 0 0 5px;
+	cursor: pointer;
+	line-height: 10px
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .editBlock .closeIcn:hover {
+	background: #d8741b;
+	color: #fff;
+	border: #d8741b solid 1px
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomsIndividualCount {
+	float: left;
+	width: 100%;
+	font-weight: 700;
+	margin: 0 0 10px 0
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount {
+	float: left;
+	width: 100%;
+	white-space: nowrap
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .choose {
+	float: left;
+	width: 40%
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .choose .label {
+	float: left;
+	width: 100%;
+	margin: 0 0 5px 0
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .choose .number {
+	float: left;
+	width: auto
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .choose .number ul {
+	list-style-type: none
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .choose .number ul li {
+	float: left;
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	text-align: center;
+	font-size: 0.8em;
+	margin: 0 0 0 0;
+	cursor: pointer;
+	font-family: "Verdana", sans-serif
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .choose .number ul li.active,
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .choose .number ul li:hover {
+	background: #d8741b;
+	color: #fff
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .closeIcn {
+	float: left;
+	width: 15px;
+	height: 15px;
+	border: #b1b1b1 solid 1px;
+	border-radius: 50%;
+	text-align: center;
+	color: #b1b1b1;
+	font-size: 11px;
+	font-family: "Verdana", sans-serif;
+	margin: 2px 0 0 10px;
+	cursor: pointer;
+	display: none;
+	line-height: 11px
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .closeIcn:hover {
+	background: #d8741b;
+	color: #fff;
+	border: #d8741b solid 1px
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap {
+	float: left;
+	width: 100%;
+	margin: 15px 0 0 0;
+	display: none
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .label {
+	float: left;
+	width: 100%;
+	margin: 0 0 5px 0
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList {
+	float: left;
+	width: 100%
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList ul {
+	list-style-type: none
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList ul li {
+	float: left;
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	text-align: center;
+	font-size: 0.8em;
+	margin: 0 0px 0 0;
+	cursor: pointer;
+	font-family: "Verdana", sans-serif
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList ul li.active,
+.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList ul li:hover {
+	background: #d8741b;
+	color: #fff
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .actionWrap {
+	float: left;
+	width: 100%;
+	padding: 10px 0 0
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .actionWrap .addRoomButton {
+	float: left;
+	width: auto;
+	text-transform: uppercase;
+	cursor: pointer;
+	border: #a1a1a1 solid 1px;
+	padding: 8px 15px
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .actionWrap .addRoomButton:hover {
+	background: #d8741b;
+	color: #fff;
+	border-color: #d8741b
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .actionWrap .actionButton {
+	float: right;
+	width: auto;
+	padding: 8px 0px;
+	cursor: pointer
+}
+
+.booking-engine .noOfGuestWrap .addGuestDropDown .actionWrap .actionButton:hover {
+	color: #d8741b
+}
+
+.booking-engine .viewAvailabilityButton {
+	float: left;
+	width: auto;
+	height: 39px;
+	background: #d8741b;
+	color: #fff;
+	padding: 10px 15px;
+	cursor: pointer
+}
+
+.booking-engine .viewAvailabilityButton:hover {
+	background: #c36512
+}
+
+.booking-engine .plusIcon {
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 20px;
+	cursor: pointer;
+	margin: 10px 0 0 25px;
+	position: relative
+}
+
+.booking-engine .plusIcon .imgIconWrap {
+	float: left;
+	width: 20px;
+	height: 20px;
+	background: url(https://oberoihotels.com/images/oberoihotels/sprites-icons.png) left top no-repeat;
+	background-position: -119px -166px
+}
+
+.booking-engine .plusIcon.active .imgIconWrap {
+	background-position: -119px -186px
+}
+
+.booking-engine .plusIcon.activeAlways .imgIconWrap {
+	background-position: -119px -186px
+}
+
+.booking-engine .plusIcon .toolTipWrap {
+	position: absolute;
+	width: auto;
+	padding: 2px 5px;
+	background: #fff;
+	left: 33px;
+	top: 50%;
+	transform: translate(0, -50%);
+	box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.15);
+	white-space: nowrap;
+	font-size: 11px;
+	display: none
+}
+
+.booking-engine .plusIcon .toolTipWrap:before {
+	content: "";
+	width: 0;
+	height: 0;
+	border-top: 12px solid transparent;
+	border-bottom: 12px solid transparent;
+	border-right: 12px solid #fff;
+	position: absolute;
+	left: -10px;
+	top: 0px;
+	z-index: 2
+}
+
+.booking-engine .plusIcon .toolTipWrap:after {
+	content: "";
+	width: 0;
+	height: 0;
+	border-top: 13px solid transparent;
+	border-bottom: 13px solid transparent;
+	border-right: 13px solid rgba(0, 0, 0, 0.05);
+	position: absolute;
+	left: -12px;
+	top: -1px;
+	z-index: 1
+}
+
+.booking-engine .plusIcon:hover .toolTipWrap {
+	display: inline
+}
+
+.booking-engine .promocodeDropDown {
+	position: absolute;
+	width: 240px;
+	background: #fff;
+	padding: 20px;
+	box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.05);
+	z-index: 1;
+	top: 60px;
+	right: 0;
+	display: none
+}
+
+.booking-engine .promocodeDropDown .input {
+	float: left;
+	width: 160px;
+	height: 30px;
+	line-height: 30px;
+	border: #c8c9ce solid 1px;
+	padding: 0 10px;
+	font-size: .9375em
+}
+
+.booking-engine .promocodeDropDown .submit {
+	float: left;
+	width: 40px;
+	height: 30px;
+	line-height: 30px;
+	background: #d7d7d7;
+	padding: 0 10px;
+	font-size: .9375em;
+	cursor: pointer
+}
+
+.booking-engine .promocodeDropDown .submit:hover {
+	background: #d8741b;
+	color: #fff
+}
+
+.booking-engine .promocodeDropDown .errorMsg {
+	float: left;
+	width: 100%;
+	color: #f00;
+	font-size: 11px;
+	padding: 5px 0 0 0
+}
+
+.booking-engine .offerMsgWrap {
+	float: left;
+	width: 100%;
+	font-size: 0.8em;
+	text-align: center;
+	display: none;
+	color: #ff0000;
+	font-size: 12px
+}
+
+.booking-engine.layout2.left .hotelName .hotelListDropDown {
+	right: auto;
+	left: 0
+}
+
+.booking-engine.layout2.left .checkInCheckOut .datesWrap .dateWrap .t-datepicker-day {
+	right: auto;
+	left: 0px;
+	min-height: 335px;
+	padding-top: 25px
+}
+
+.booking-engine.layout2.left .checkInCheckOut .datesWrap .dateWrap .t-datepicker-day .cico-identification {
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	color: #d8741b;
+	font-weight: 600;
+	top: 10px;
+	display: none
+}
+
+.booking-engine.layout2.left .noOfGuestWrap .addGuestDropDown {
+	left: 0px;
+	right: auto
+}
+
+.booking-engine.layout2 {
+	width: 100%;
+	margin: 0;
+	box-shadow: none;
+	border: 1px solid #ebebeb;
+	padding: 0px
+}
+
+.booking-engine.layout2 .hotelName .arrowWrap {
+	margin: 10px 0 0 -30px
+}
+
+.booking-engine.layout2 .bookYourStay {
+	padding: 10px 15px;
+	font-family: "Verdana", sans-serif;
+	font-size: .938em
+}
+
+.booking-engine.layout2.moveUp {
+	transform: none
+}
+
+.booking-engine.layout2 .bookYourStay {
+	display: inline
+}
+
+.booking-engine.layout2 .hotelName {
+	width: 100%;
+	height: auto;
+	border: 0;
+	padding: 10px 0;
+	position: relative
+}
+
+.booking-engine.layout2 .hotelName .name {
+	text-align: center
+}
+
+.booking-engine.layout2 .hotelName .name abbr {
+	font-weight: 400;
+	display: block
+}
+
+.booking-engine.layout2 .hotelName .name .desktopN {
+	display: none
+}
+
+.booking-engine.layout2 .hotelName .name .mobileN {
+	display: inline
+}
+
+.booking-engine.layout2 .hotelName .hotelListDropDown {
+	position: absolute;
+	width: 911px;
+	background: #fff;
+	box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.05);
+	padding: 10px 0;
+	right: 0px;
+	left: auto;
+	top: 100%;
+	z-index: 2;
+	display: none
+}
+
+.booking-engine.layout2 .hotelName .hotelListDropDown.singleHotelList {
+	width: 100%
+}
+
+.booking-engine.layout2 .hotelName .hotelListDropDown.singleHotelList .hotelList {
+	width: 100%
+}
+
+.booking-engine.layout2 .hotelName .hotelListDropDown.singleHotelList .hotelList {
+	border: none
+}
+
+.booking-engine.layout2 .hotelName .hotelListDropDown .mobileHeader {
+	display: none
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap {
+	float: left;
+	width: 100%;
+	border-top: #f3f3f3 solid 1px;
+	display: none
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .embarkationWrap {
+	float: left;
+	width: 50%;
+	height: 70px;
+	border-right: #f3f3f3 solid 1px;
+	padding: 15px 12%;
+	cursor: pointer;
+	position: relative
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .embarkationWrap .arrowWrap {
+	font-size: 20px;
+	position: absolute;
+	right: -9px;
+	top: 22px
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .embarkationWrap .dropDownLabel {
+	float: left;
+	width: 100%;
+	position: relative
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .embarkationWrap .dropDownLabel .label {
+	width: 100%;
+	font-size: 10px;
+	padding: 0;
+	color: #afafaf
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .embarkationWrap .dropDownLabel .value {
+	float: left;
+	width: 100%;
+	font-size: 25px;
+	font-weight: 400
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .embarkationWrap .cruiseDropDown {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	top: 100%;
+	background: #fff;
+	padding: 0px 20px 20px 20px;
+	position: absolute;
+	box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.05);
+	z-index: 1;
+	display: none
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .embarkationWrap .cruiseDropDown .block {
+	float: left;
+	width: 100%
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .embarkationWrap .cruiseDropDown .block .optionWrap {
+	float: left;
+	width: 100%;
+	padding: 10px 0;
+	border-bottom: #d7d7d7 solid 1px;
+	cursor: pointer
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .embarkationWrap .cruiseDropDown .block .optionWrap:first-child {
+	padding-top: 0
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .embarkationWrap .cruiseDropDown .block .optionWrap:last-child {
+	border: 0;
+	padding-bottom: 0
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .embarkationWrap .cruiseDropDown .block .optionWrap.active,
+.booking-engine.layout2 .cruiseSelectionWrap .embarkationWrap .cruiseDropDown .block .optionWrap:hover {
+	color: #d8741b
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .noOfNightsWrap {
+	float: left;
+	width: 50%;
+	height: 70px;
+	padding: 15px 12%;
+	cursor: pointer;
+	position: relative
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .noOfNightsWrap .arrowWrap {
+	font-size: 20px;
+	position: absolute;
+	right: -9px;
+	top: 22px
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .noOfNightsWrap .dropDownLabel {
+	float: left;
+	width: 100%;
+	position: relative
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .noOfNightsWrap .dropDownLabel .label {
+	width: 100%;
+	font-size: 10px;
+	padding: 0;
+	color: #afafaf
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .noOfNightsWrap .dropDownLabel .value {
+	float: left;
+	width: 100%;
+	font-size: 30px;
+	font-weight: 400
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .noOfNightsWrap .dropDownLabel .value span {
+	font-size: 13px;
+	font-weight: 300
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .noOfNightsWrap .cruiseDropDown {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	top: 100%;
+	background: #fff;
+	padding: 0px 20px 20px 20px;
+	position: absolute;
+	box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.05);
+	z-index: 1;
+	display: none
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .noOfNightsWrap .cruiseDropDown .block {
+	float: left;
+	width: 100%
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .noOfNightsWrap .cruiseDropDown .block .optionWrap {
+	float: left;
+	width: 100%;
+	padding: 10px 0;
+	border-bottom: #d7d7d7 solid 1px;
+	cursor: pointer
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .noOfNightsWrap .cruiseDropDown .block .optionWrap:first-child {
+	padding-top: 0
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .noOfNightsWrap .cruiseDropDown .block .optionWrap:last-child {
+	border: 0;
+	padding-bottom: 0
+}
+
+.booking-engine.layout2 .cruiseSelectionWrap .noOfNightsWrap .cruiseDropDown .block .optionWrap.active,
+.booking-engine.layout2 .cruiseSelectionWrap .noOfNightsWrap .cruiseDropDown .block .optionWrap:hover {
+	color: #d8741b
+}
+
+.booking-engine.layout2 .checkInCheckOut {
+	width: 100%;
+	height: auto;
+	border: 0;
+	padding: 0;
+	max-width: 100%;
+	white-space: normal;
+	position: relative
+}
+
+.booking-engine.layout2 .checkInCheckOut .t-mobile-heading {
+	background: #fff;
+	visibility: visible;
+	padding-top: 30px;
+	z-index: 9999999
+}
+
+.booking-engine.layout2 .checkInCheckOut .datesWrap {
+	border: #f3f3f3 solid 1px;
+	border-bottom: 0;
+	border-left: 0;
+	padding: 10px 12%;
+	display: inline;
+	position: static
+}
+
+.booking-engine.layout2 .checkInCheckOut .datesWrap:last-child {
+	border-left: 0;
+	border-right: 0
+}
+
+.booking-engine.layout2 .checkInCheckOut .datesWrap.disableCheckout:before {
+	content: "";
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: 2;
+	width: 50%;
+	height: 100%
+}
+
+.booking-engine.layout2 .checkInCheckOut .datesWrap.active {
+	background-color: #ebebeb
+}
+
+.booking-engine.layout2 .checkInCheckOut .datesWrap .label {
+	width: 100%;
+	font-size: 10px;
+	padding: 0;
+	color: #afafaf
+}
+
+.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap {
+	background: none;
+	padding: 0
+}
+
+.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-datepicker-day {
+	left: auto;
+	right: 0px;
+	top: 71px;
+	min-height: 335px;
+	padding-top: 25px
+}
+
+.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-datepicker-day .cico-identification {
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	color: #d8741b;
+	font-weight: 600;
+	top: 10px;
+	display: none
+}
+
+.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-dates {
+	padding: 0;
+	position: relative
+}
+
+.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-dates span {
+	font-weight: 400
+}
+
+.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-dates .fa {
+	display: none
+}
+
+.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-dates .t-day-check-in,
+.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-dates .t-day-check-out {
+	font-size: 30px;
+	line-height: 30px;
+	font-weight: 400
+}
+
+.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-dates .t-month-check-in,
+.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-dates .t-month-check-out {
+	font-size: 13px;
+	padding: 0 0 0 5px
+}
+
+.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-dates .t-year-check-in,
+.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-dates .t-year-check-out {
+	font-size: 13px
+}
+
+.booking-engine.layout2 .noOfRoomsWrap {
+	width: 50%;
+	border: 0;
+	height: 70px;
+	padding: 10px 12%;
+	border: #f3f3f3 solid 1px;
+	border-left: 0
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .mobile {
+	display: none;
+	padding: 0 10%;
+	cursor: auto
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .mobile span.value {
+	font-size: 40px;
+	line-height: 50px;
+	font-weight: 400;
+	display: flex;
+	align-items: center
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .mobile span.value .counter {
+	text-align: center
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .mobile span.value .spinner {
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	line-height: 15px;
+	text-align: center;
+	border-radius: 50%;
+	margin: 0 5px;
+	font-size: 0.8em;
+	cursor: pointer;
+	user-select: none;
+	font-weight: 300;
+	font-size: 12px !important;
+	line-height: 15px;
+	margin: 0;
+	text-indent: -100px;
+	overflow: hidden
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .mobile span.value .spinner.minus {
+	margin-right: 3px;
+	background: url(https://oberoihotels.com/images/oberoihotels/booking-engine/mobile-minus.png) right 45% no-repeat;
+	background-size: 100%
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .mobile span.value .spinner.plus {
+	margin-right: 3px;
+	background: url(https://oberoihotels.com/images/oberoihotels/booking-engine/mobile-plus.png) left 45% no-repeat;
+	background-size: 100%
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .mobile span.lbl {
+	position: absolute;
+	left: 54%;
+	top: 50%;
+	transform: translate(0, -50%)
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .roomsCount {
+	text-align: left
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .roomsCount .lbl {
+	float: left;
+	width: 40%
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .roomsCount .value {
+	float: left;
+	width: 50%;
+	padding: 0px;
+	white-space: nowrap;
+	font-size: 30px;
+	line-height: 40px;
+	font-weight: 400;
+	display: flex;
+	align-items: center
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .roomsCount .value .counter {
+	text-align: center;
+	padding: 0 5px
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .roomsCount .value .spinner {
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	line-height: 15px;
+	text-align: center;
+	border-radius: 50%;
+	margin: 0 5px;
+	font-size: 0.8em;
+	cursor: pointer;
+	user-select: none;
+	font-weight: 300;
+	font-size: 12px !important;
+	line-height: 15px;
+	margin: 0;
+	text-indent: -100px;
+	overflow: hidden
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .roomsCount .value .spinner.minus {
+	margin-right: 3px;
+	background: url(https://oberoihotels.com/images/oberoihotels/booking-engine/mobile-minus.png) right 45% no-repeat;
+	background-size: 60%
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .roomsCount .value .spinner.plus {
+	margin-right: 3px;
+	background: url(https://oberoihotels.com/images/oberoihotels/booking-engine/mobile-plus.png) left 45% no-repeat;
+	background-size: 60%
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .roomsCount span.lbl {
+	position: absolute;
+	left: 42%;
+	top: 52%;
+	font-size: 13px;
+	transform: translate(0, -50%)
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .arrowWrap {
+	margin-top: 10px
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomDropDown {
+	width: 100%;
+	left: 0;
+	top: 100%;
+	padding: 0px 20px 20px 20px
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomDropDown .block .roomSelectOption {
+	padding: 10px
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomDropDown .block .roomSelectOption:first-child {
+	padding-top: 10px
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomDropDown .block .roomSelectOption:last-child {
+	padding-bottom: 10px
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomDropDown .mobileHeader {
+	display: block;
+	width: 100%;
+	text-align: center;
+	position: fixed;
+	left: 0;
+	top: 0;
+	padding: 0px;
+	font-weight: 1em;
+	font-weight: 700
+}
+
+.booking-engine.layout2 .noOfRoomsWrap .addRoomDropDown .mobileHeader .close {
+	float: right;
+	width: 38px;
+	height: 38px;
+	line-height: 38px;
+	text-align: center;
+	background: #d8741b;
+	color: #fff;
+	right: 0;
+	top: 0;
+	font-size: 20px;
+	font-weight: 300
+}
+
+.booking-engine.layout2 .noOfGuestWrap {
+	width: 50%;
+	border: 0;
+	height: 70px;
+	padding: 10px 12%;
+	border: #f3f3f3 solid 1px;
+	border-right: 0;
+	border-left: 0
+}
+
+.booking-engine.layout2 .noOfGuestWrap .guestCount {
+	text-align: left
+}
+
+.booking-engine.layout2 .noOfGuestWrap .guestCount span.value {
+	font-size: 30px;
+	line-height: 40px;
+	font-weight: 400
+}
+
+.booking-engine.layout2 .noOfGuestWrap .guestCount span.lbl {
+	position: absolute;
+	left: 42%;
+	top: 50%;
+	transform: translate(0, -50%);
+	font-size: 13px
+}
+
+.booking-engine.layout2 .noOfGuestWrap .arrowWrap {
+	margin-top: 10px
+}
+
+.booking-engine.layout2 .noOfGuestWrap .addGuestDropDown {
+	left: auto;
+	right: 0
+}
+
+.booking-engine.layout2 .t-arrow-top {
+	display: none !important
+}
+
+.booking-engine.layout2 .viewAvailabilityButton {
+	margin: 20px 0 20px 50%;
+	transform: translate(-50%, 0)
+}
+
+.booking-engine.layout2 .plusIcon {
+	width: auto;
+	text-align: center;
+	margin: 30px 0 0 -10%;
+	height: auto
+}
+
+.booking-engine.layout2 .plusIcon .toolTipWrap {
+	left: 50%;
+	top: auto;
+	bottom: 100%;
+	transform: translate(-50%, -50%)
+}
+
+.booking-engine.layout2 .plusIcon .toolTipWrap:before {
+	border-left: 12px solid transparent;
+	border-right: 12px solid transparent;
+	border-top: 12px solid #fff;
+	left: 50%;
+	top: 100%;
+	transform: translate(-50%, 0)
+}
+
+.booking-engine.layout2 .plusIcon .toolTipWrap:after {
+	border-left: 13px solid transparent;
+	border-right: 13px solid transparent;
+	border-top: 13px solid rgba(0, 0, 0, 0.05);
+	left: 50%;
+	top: 100%;
+	transform: translate(-50%, 0)
+}
+
+.booking-engine.layout2 .promocodeDropDown {
+	position: relative;
+	width: 300px;
+	float: left;
+	margin-left: 50%;
+	transform: translate(-50%, 0);
+	top: auto;
+	padding: 10px;
+	box-shadow: none;
+	z-index: 0
+}
+
+.booking-engine.layout2 .promocodeDropDown.activeAlways {
+	display: block !important
+}
+
+.booking-engine.layout2 .promocodeDropDown .input {
+	width: calc(100% - 50px);
+	padding: 0 10px;
+	height: 40px;
+	line-height: 40px;
+	text-transform: uppercase
+}
+
+.booking-engine.layout2 .promocodeDropDown .submit {
+	width: 50px;
+	padding: 0 10px;
+	height: 40px;
+	line-height: 40px
+}
+
+.booking-engine.layout2 .offerMsgWrap {
+	display: inline;
+	float: left;
+	width: 100%;
+	text-align: center;
+	padding: 10px 0
+}
+
+.boxColumn {
+	float: right
+}
+
+header .header-right-unit .right-side-menu .dynamicMsgWrap.calanderBottomMessage br {
+	display: none
+}
+
+.selectEmbarkationBox {
+	width: 100%;
+	height: auto;
+	border: 0;
+	padding: 10px 0;
+	position: relative;
+	float: left
+}
+
+.selectEmbarkationBox .name {
+	float: left;
+	width: 95%;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	text-align: center
+}
+
+.selectEmbarkationBox .hotelLabel {
+	float: left;
+	width: 100%;
+	cursor: pointer
+}
+
+.selectEmbarkationBox .hotelLabel .arrowWrap {
+	float: left;
+	width: 5%;
+	padding: 0;
+	font-size: 20px;
+	line-height: 10px;
+	margin: 10px 0 0 -35px
+}
+
+.selectEmbarkationBox .arrowWrap i.fa {
+	transition: all 0.3s ease-in-out;
+	transform-origin: center center
+}
+
+@media screen and (-ms-high-contrast: active),
+(-ms-high-contrast: none) {
+	.booking-engine .nightsWrap select.ddlHotelOfferNights {
+		padding-left: 36.5%
+	}
+}
+
+@media only screen and (min-width: 1100px) and (max-width: 1280px) {
+	.booking-engine {
+		width: 100%;
+		margin: 0
+	}
+}
+
+@media only screen and (min-width: 960px) and (max-width: 1024px) {
+	.availability-cta .booking-engine.layout2 .plusIcon {
+		margin: 30px 0 0 -4%
+	}
+
+	.booking-engine {
+		width: 100%;
+		margin: 0
+	}
+
+	.booking-engine.moveUp {
+		transform: translate(0, 0%)
+	}
+
+	.booking-engine .hotelName {
+		width: 21%
+	}
+
+	.booking-engine .checkInCheckOut {
+		width: 39%
+	}
+
+	.booking-engine .checkInCheckOut .datesWrap {
+		padding: 0 5px 0 10px
+	}
+
+	.booking-engine .checkInCheckOut .datesWrap:last-child {
+		padding: 0 0 0 5px
+	}
+
+	.booking-engine .noOfRoomsWrap {
+		width: 11%
+	}
+
+	.booking-engine .noOfGuestWrap {
+		width: 11%
+	}
+
+	.booking-engine.layout2.left .hotelName .hotelListDropDown {
+		left: auto;
+		right: 0
+	}
+
+	.booking-engine.layout2.left .checkInCheckOut .datesWrap .dateWrap .t-datepicker-day {
+		left: auto;
+		right: 0
+	}
+
+	.booking-engine.layout2.left .noOfGuestWrap .addGuestDropDown {
+		left: auto;
+		right: 0
+	}
+
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .mobile {
+		cursor: auto
+	}
+
+	.booking-engine .plusIcon {
+		margin-left: 10px
+	}
+
+	.booking-engine .plusIcon .toolTipWrap {
+		left: auto;
+		right: 33px
+	}
+
+	.booking-engine .plusIcon .toolTipWrap:before {
+		border-right: none;
+		border-left: 12px solid #fff;
+		left: auto;
+		right: -10px
+	}
+
+	.booking-engine .plusIcon .toolTipWrap:after {
+		border-right: 0;
+		border-left: 13px solid rgba(0, 0, 0, 0.05);
+		left: auto;
+		right: -12px
+	}
+
+	.booking-engine.layout2 .checkInCheckOut .datesWrap {
+		border: #f3f3f3 solid 1px;
+		border-bottom: 0;
+		padding: 10px 12%;
+		display: inline;
+		position: static
+	}
+
+	.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-datepicker-day {
+		right: 0;
+		left: auto
+	}
+
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .mobile span.lbl {
+		left: 60%
+	}
+}
+
+.t-check-in .t-datepicker-day .cico-identification.CheckIn {
+	display: block !important
+}
+
+.t-check-out .t-datepicker-day .cico-identification.CheckOut {
+	display: block !important
+}
+
+@media only screen and (max-width: 991px) {
+	.t-check-in .t-datepicker-day .cico-identification.CheckIn {
+		display: none !important
+	}
+
+	.t-check-out .t-datepicker-day .cico-identification.CheckOut {
+		display: none !important
+	}
+
+	.availability-cta .booking-engine.layout2.left .noOfGuestWrap,
+	.availability-cta .booking-engine.layout2.left .noOfRoomsWrap,
+	.availability-cta .booking-engine.layout2.left .checkInCheckOut .datesWrap,
+	.availability-cta .booking-engine.layout2.left .checkInCheckOut .datesWrap {
+		padding: 10px 8%
+	}
+
+	.availability-cta .booking-engine.layout2.left .hotelName .arrowWrap {
+		margin: 10px 0 0 -30px
+	}
+
+	.availability-cta .booking-engine.layout2.left .noOfRoomsWrap .arrowWrap,
+	.availability-cta .booking-engine.layout2.left .noOfGuestWrap .arrowWrap {
+		top: 12px
+	}
+
+	.availability-cta .booking-engine.layout2.left .hotelName .arrowWrap {
+		margin: 10px 0 0 -30px
+	}
+
+	.banner-component-style1 .booking-engine {
+		top: -30px;
+		display: none
+	}
+
+	.booking-engine,
+	.booking-engine.layout2,
+	.booking-engine.reverse {
+		width: 100%;
+		margin: 0 0 5% 0;
+		display: none;
+		position: static
+	}
+
+	.booking-engine.moveUp,
+	.booking-engine.layout2.moveUp,
+	.booking-engine.reverse.moveUp {
+		transform: none
+	}
+
+	.booking-engine .bookYourStay,
+	.booking-engine.layout2 .bookYourStay,
+	.booking-engine.reverse .bookYourStay {
+		display: inline
+	}
+
+	.booking-engine .hotelName,
+	.booking-engine.layout2 .hotelName,
+	.booking-engine.reverse .hotelName {
+		width: 100%;
+		height: auto;
+		border: 0;
+		padding: 10px 0;
+		position: static
+	}
+
+	.booking-engine .hotelName .hotelLabel .name,
+	.booking-engine.layout2 .hotelName .hotelLabel .name,
+	.booking-engine.reverse .hotelName .hotelLabel .name {
+		text-align: center
+	}
+
+	.booking-engine .hotelName .hotelLabel .name .desktopN,
+	.booking-engine.layout2 .hotelName .hotelLabel .name .desktopN,
+	.booking-engine.reverse .hotelName .hotelLabel .name .desktopN {
+		display: none
+	}
+
+	.booking-engine .hotelName .hotelLabel .name .mobileN,
+	.booking-engine.layout2 .hotelName .hotelLabel .name .mobileN,
+	.booking-engine.reverse .hotelName .hotelLabel .name .mobileN {
+		display: inline
+	}
+
+	.booking-engine .hotelName .hotelListDropDown,
+	.booking-engine.layout2 .hotelName .hotelListDropDown,
+	.booking-engine.reverse .hotelName .hotelListDropDown {
+		position: fixed;
+		width: 100%;
+		height: 100%;
+		left: 0;
+		top: 0;
+		padding: 50px 0 50px 0;
+		overflow: auto;
+		z-index: 999999
+	}
+
+	.booking-engine .hotelName .hotelListDropDown .mobileHeader,
+	.booking-engine.layout2 .hotelName .hotelListDropDown .mobileHeader,
+	.booking-engine.reverse .hotelName .hotelListDropDown .mobileHeader {
+		display: block;
+		width: 100%;
+		text-align: center;
+		position: fixed;
+		left: 0;
+		top: 0;
+		padding: 0px;
+		font-weight: 1em;
+		font-weight: 700;
+		background: #fff;
+		z-index: 2;
+		box-shadow: 0px 2px 25px 0px rgba(0, 0, 0, 0.05)
+	}
+
+	.booking-engine .hotelName .hotelListDropDown .mobileHeader .close,
+	.booking-engine.layout2 .hotelName .hotelListDropDown .mobileHeader .close,
+	.booking-engine.reverse .hotelName .hotelListDropDown .mobileHeader .close {
+		float: left;
+		width: auto;
+		line-height: 50px;
+		text-align: center;
+		color: #000;
+		right: 0;
+		top: 0;
+		font-size: 20px;
+		padding: 0 5%
+	}
+
+	.booking-engine .hotelName .hotelListDropDown .mobileHeader .close svg,
+	.booking-engine.layout2 .hotelName .hotelListDropDown .mobileHeader .close svg,
+	.booking-engine.reverse .hotelName .hotelListDropDown .mobileHeader .close svg {
+		width: 15px;
+		fill: #000
+	}
+
+	.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList,
+	.booking-engine.layout2 .hotelName .hotelListDropDown .allHotels .hotelList,
+	.booking-engine.reverse .hotelName .hotelListDropDown .allHotels .hotelList {
+		width: 100% !important;
+		border: 0;
+		padding: 12px 20px 0 20px
+	}
+
+	.booking-engine .hotelName .hotelListDropDown .allHotels .hotelList.hotelListCol3,
+	.booking-engine.layout2 .hotelName .hotelListDropDown .allHotels .hotelList.hotelListCol3,
+	.booking-engine.reverse .hotelName .hotelListDropDown .allHotels .hotelList.hotelListCol3 {
+		padding-top: 0px
+	}
+
+	.booking-engine .checkInCheckOut,
+	.booking-engine.layout2 .checkInCheckOut,
+	.booking-engine.reverse .checkInCheckOut {
+		width: 100%;
+		height: auto;
+		border: 0;
+		padding: 0;
+		max-width: 100%;
+		white-space: normal
+	}
+
+	.booking-engine .checkInCheckOut .t-mobile-heading,
+	.booking-engine.layout2 .checkInCheckOut .t-mobile-heading,
+	.booking-engine.reverse .checkInCheckOut .t-mobile-heading {
+		background: #fff;
+		visibility: visible;
+		z-index: 9999999;
+		padding-top: 30px
+	}
+
+	.booking-engine .checkInCheckOut .t-mobile-heading .calender-dynamic-text-mobile,
+	.booking-engine.layout2 .checkInCheckOut .t-mobile-heading .calender-dynamic-text-mobile,
+	.booking-engine.reverse .checkInCheckOut .t-mobile-heading .calender-dynamic-text-mobile {
+		text-align: center;
+		padding: 9px 15px 2px 35px;
+		white-space: initial;
+		position: absolute;
+		top: 30px;
+		font-weight: normal
+	}
+
+	.booking-engine .checkInCheckOut .t-mobile-heading .calender-dynamic-text-mobile span,
+	.booking-engine.layout2 .checkInCheckOut .t-mobile-heading .calender-dynamic-text-mobile span,
+	.booking-engine.reverse .checkInCheckOut .t-mobile-heading .calender-dynamic-text-mobile span {
+		color: #d8741b
+	}
+
+	.booking-engine .checkInCheckOut .datesWrap,
+	.booking-engine.layout2 .checkInCheckOut .datesWrap,
+	.booking-engine.reverse .checkInCheckOut .datesWrap {
+		border: #f3f3f3 solid 1px;
+		border-bottom: 0;
+		padding: 10px 5% 10px 10%;
+		display: inline;
+		position: relative
+	}
+
+	.booking-engine .checkInCheckOut .datesWrap.disableCheckout:before,
+	.booking-engine.layout2 .checkInCheckOut .datesWrap.disableCheckout:before,
+	.booking-engine.reverse .checkInCheckOut .datesWrap.disableCheckout:before {
+		content: "";
+		position: absolute;
+		right: 0;
+		top: 0;
+		z-index: 2;
+		width: 100%;
+		height: 100%
+	}
+
+	.booking-engine .checkInCheckOut .datesWrap:last-child,
+	.booking-engine.layout2 .checkInCheckOut .datesWrap:last-child,
+	.booking-engine.reverse .checkInCheckOut .datesWrap:last-child {
+		border-left: 0
+	}
+
+	.booking-engine .checkInCheckOut .datesWrap .label,
+	.booking-engine.layout2 .checkInCheckOut .datesWrap .label,
+	.booking-engine.reverse .checkInCheckOut .datesWrap .label {
+		width: 100%;
+		font-size: 10px;
+		padding: 0;
+		color: #afafaf
+	}
+
+	.booking-engine .checkInCheckOut .datesWrap .dateWrap,
+	.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap,
+	.booking-engine.reverse .checkInCheckOut .datesWrap .dateWrap {
+		background: none;
+		padding: 0
+	}
+
+	.booking-engine .checkInCheckOut .datesWrap .dateWrap.t-check-in,
+	.booking-engine .checkInCheckOut .datesWrap .dateWrap.t-check-out,
+	.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap.t-check-in,
+	.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap.t-check-out,
+	.booking-engine.reverse .checkInCheckOut .datesWrap .dateWrap.t-check-in,
+	.booking-engine.reverse .checkInCheckOut .datesWrap .dateWrap.t-check-out {
+		position: relative
+	}
+
+	.booking-engine .checkInCheckOut .datesWrap .dateWrap .t-dates,
+	.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-dates,
+	.booking-engine.reverse .checkInCheckOut .datesWrap .dateWrap .t-dates {
+		padding: 0
+	}
+
+	.booking-engine .checkInCheckOut .datesWrap .dateWrap .t-dates .fa,
+	.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-dates .fa,
+	.booking-engine.reverse .checkInCheckOut .datesWrap .dateWrap .t-dates .fa {
+		display: none
+	}
+
+	.booking-engine .checkInCheckOut .datesWrap .dateWrap .t-dates .t-day-check-in,
+	.booking-engine .checkInCheckOut .datesWrap .dateWrap .t-dates .t-day-check-out,
+	.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-dates .t-day-check-in,
+	.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-dates .t-day-check-out,
+	.booking-engine.reverse .checkInCheckOut .datesWrap .dateWrap .t-dates .t-day-check-in,
+	.booking-engine.reverse .checkInCheckOut .datesWrap .dateWrap .t-dates .t-day-check-out {
+		font-size: 30px;
+		font-size: 30px;
+		line-height: 30px;
+		font-weight: 400
+	}
+
+	.booking-engine .checkInCheckOut .datesWrap .dateWrap .t-dates .t-month-check-in,
+	.booking-engine .checkInCheckOut .datesWrap .dateWrap .t-dates .t-month-check-out,
+	.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-dates .t-month-check-in,
+	.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-dates .t-month-check-out,
+	.booking-engine.reverse .checkInCheckOut .datesWrap .dateWrap .t-dates .t-month-check-in,
+	.booking-engine.reverse .checkInCheckOut .datesWrap .dateWrap .t-dates .t-month-check-out {
+		font-size: 13px;
+		padding: 0 0 0 10px
+	}
+
+	.booking-engine .checkInCheckOut .datesWrap .dateWrap .t-dates .t-year-check-in,
+	.booking-engine .checkInCheckOut .datesWrap .dateWrap .t-dates .t-year-check-out,
+	.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-dates .t-year-check-in,
+	.booking-engine.layout2 .checkInCheckOut .datesWrap .dateWrap .t-dates .t-year-check-out,
+	.booking-engine.reverse .checkInCheckOut .datesWrap .dateWrap .t-dates .t-year-check-in,
+	.booking-engine.reverse .checkInCheckOut .datesWrap .dateWrap .t-dates .t-year-check-out {
+		font-size: 13px
+	}
+
+	.booking-engine .checkInCheckOut .t-datepicker-day,
+	.booking-engine.layout2 .checkInCheckOut .t-datepicker-day,
+	.booking-engine.reverse .checkInCheckOut .t-datepicker-day {
+		top: 100px;
+		z-index: 99999
+	}
+
+	.booking-engine .checkInCheckOut .t-datepicker-day .calender-dynamic-text,
+	.booking-engine.layout2 .checkInCheckOut .t-datepicker-day .calender-dynamic-text,
+	.booking-engine.reverse .checkInCheckOut .t-datepicker-day .calender-dynamic-text {
+		text-align: center;
+		padding: 9px 15px 2px 15px
+	}
+
+	.booking-engine .checkInCheckOut .t-datepicker-day .calender-dynamic-text span,
+	.booking-engine.layout2 .checkInCheckOut .t-datepicker-day .calender-dynamic-text span,
+	.booking-engine.reverse .checkInCheckOut .t-datepicker-day .calender-dynamic-text span {
+		color: #d8741b
+	}
+
+	.booking-engine .checkInCheckOut .t-datepicker-day .t-table-wrap,
+	.booking-engine.layout2 .checkInCheckOut .t-datepicker-day .t-table-wrap,
+	.booking-engine.reverse .checkInCheckOut .t-datepicker-day .t-table-wrap {
+		padding: 0 5%
+	}
+
+	.booking-engine .checkInCheckOut .t-datepicker-day .t-table-wrap:first-child .t-table-condensed,
+	.booking-engine.layout2 .checkInCheckOut .t-datepicker-day .t-table-wrap:first-child .t-table-condensed,
+	.booking-engine.reverse .checkInCheckOut .t-datepicker-day .t-table-wrap:first-child .t-table-condensed {
+		margin-top: 80px
+	}
+
+	.booking-engine .noOfRoomsWrap,
+	.booking-engine.layout2 .noOfRoomsWrap,
+	.booking-engine.reverse .noOfRoomsWrap {
+		width: 50%;
+		border: 0;
+		height: 70px;
+		padding: 10px 10%;
+		border: #f3f3f3 solid 1px
+	}
+
+	.booking-engine .noOfRoomsWrap .addRoomLabel,
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel,
+	.booking-engine.reverse .noOfRoomsWrap .addRoomLabel {
+		cursor: auto
+	}
+
+	.booking-engine .noOfRoomsWrap .addRoomLabel .mobile,
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .mobile,
+	.booking-engine.reverse .noOfRoomsWrap .addRoomLabel .mobile {
+		display: block;
+		padding: 0 5%;
+		position: relative
+	}
+
+	.booking-engine .noOfRoomsWrap .addRoomLabel .mobile span.value,
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .mobile span.value,
+	.booking-engine.reverse .noOfRoomsWrap .addRoomLabel .mobile span.value {
+		font-size: 30px;
+		line-height: 50px;
+		font-weight: 400;
+		display: flex;
+		align-items: center
+	}
+
+	.booking-engine .noOfRoomsWrap .addRoomLabel .mobile span.value .counter,
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .mobile span.value .counter,
+	.booking-engine.reverse .noOfRoomsWrap .addRoomLabel .mobile span.value .counter {
+		text-align: center
+	}
+
+	.booking-engine .noOfRoomsWrap .addRoomLabel .mobile span.value .spinner,
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .mobile span.value .spinner,
+	.booking-engine.reverse .noOfRoomsWrap .addRoomLabel .mobile span.value .spinner {
+		font-weight: normal;
+		font-size: 13px;
+		line-height: 14px;
+		width: 25px;
+		height: 25px;
+		border-radius: 50%;
+		display: inline-block;
+		text-align: center;
+		text-indent: -100px;
+		overflow: hidden
+	}
+
+	.booking-engine .noOfRoomsWrap .addRoomLabel .mobile span.value .spinner.minus,
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .mobile span.value .spinner.minus,
+	.booking-engine.reverse .noOfRoomsWrap .addRoomLabel .mobile span.value .spinner.minus {
+		margin-right: 3px;
+		background: url(https://oberoihotels.com/images/oberoihotels/booking-engine/mobile-minus.png) right 45% no-repeat;
+		background-size: 60%
+	}
+
+	.booking-engine .noOfRoomsWrap .addRoomLabel .mobile span.value .spinner.plus,
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .mobile span.value .spinner.plus,
+	.booking-engine.reverse .noOfRoomsWrap .addRoomLabel .mobile span.value .spinner.plus {
+		margin-right: 3px;
+		background: url(https://oberoihotels.com/images/oberoihotels/booking-engine/mobile-plus.png) left 45% no-repeat;
+		background-size: 60%
+	}
+
+	.booking-engine .noOfRoomsWrap .addRoomLabel .mobile span.lbl,
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .mobile span.lbl,
+	.booking-engine.reverse .noOfRoomsWrap .addRoomLabel .mobile span.lbl {
+		position: absolute;
+		left: 67%;
+		top: 17px;
+		transform: translate(0, 0)
+	}
+
+	.booking-engine .noOfRoomsWrap .addRoomLabel .roomsCount,
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .roomsCount,
+	.booking-engine.reverse .noOfRoomsWrap .addRoomLabel .roomsCount {
+		text-align: left
+	}
+
+	.booking-engine .noOfRoomsWrap .addRoomLabel .roomsCount .lbl,
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .roomsCount .lbl,
+	.booking-engine.reverse .noOfRoomsWrap .addRoomLabel .roomsCount .lbl {
+		float: left;
+		width: 40%
+	}
+
+	.booking-engine .noOfRoomsWrap .addRoomLabel .roomsCount .value,
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .roomsCount .value,
+	.booking-engine.reverse .noOfRoomsWrap .addRoomLabel .roomsCount .value {
+		float: left;
+		width: 60%;
+		padding: 0px;
+		white-space: nowrap;
+		font-size: 30px;
+		line-height: 50px;
+		font-weight: 400;
+		display: flex;
+		align-items: center
+	}
+
+	.booking-engine .noOfRoomsWrap .addRoomLabel .roomsCount .value .counter,
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .roomsCount .value .counter,
+	.booking-engine.reverse .noOfRoomsWrap .addRoomLabel .roomsCount .value .counter {
+		text-align: center;
+		padding: 0 5px
+	}
+
+	.booking-engine .noOfRoomsWrap .addRoomLabel .roomsCount .value .spinner,
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .roomsCount .value .spinner,
+	.booking-engine.reverse .noOfRoomsWrap .addRoomLabel .roomsCount .value .spinner {
+		display: inline-block;
+		width: 15px;
+		height: 15px;
+		line-height: 15px;
+		text-align: center;
+		border: #000 solid 1px;
+		border-radius: 50%;
+		margin: 0 5px;
+		font-size: 0.8em;
+		cursor: pointer;
+		user-select: none;
+		font-weight: 300;
+		font-size: 12px !important;
+		line-height: 15px;
+		margin: 0
+	}
+
+	.booking-engine .noOfRoomsWrap .addRoomLabel .roomsCount .value .spinner.plus,
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .roomsCount .value .spinner.plus,
+	.booking-engine.reverse .noOfRoomsWrap .addRoomLabel .roomsCount .value .spinner.plus {
+		margin-left: -3px
+	}
+
+	.booking-engine .noOfRoomsWrap .addRoomLabel .roomsCount span.lbl,
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomLabel .roomsCount span.lbl,
+	.booking-engine.reverse .noOfRoomsWrap .addRoomLabel .roomsCount span.lbl {
+		position: absolute;
+		left: 48%;
+		top: 60%;
+		transform: translate(0, -50%);
+		font-size: 13px
+	}
+
+	.booking-engine .noOfRoomsWrap .addRoomDropDown,
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomDropDown,
+	.booking-engine.reverse .noOfRoomsWrap .addRoomDropDown {
+		width: 100%;
+		left: 0;
+		top: 100%;
+		padding: 0 20px
+	}
+
+	.booking-engine .noOfRoomsWrap .addRoomDropDown .mobileHeader,
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomDropDown .mobileHeader,
+	.booking-engine.reverse .noOfRoomsWrap .addRoomDropDown .mobileHeader {
+		display: block;
+		width: 100%;
+		text-align: center;
+		position: fixed;
+		left: 0;
+		top: 0;
+		padding: 0px;
+		font-weight: 1em;
+		font-weight: 700
+	}
+
+	.booking-engine .noOfRoomsWrap .addRoomDropDown .mobileHeader .close,
+	.booking-engine.layout2 .noOfRoomsWrap .addRoomDropDown .mobileHeader .close,
+	.booking-engine.reverse .noOfRoomsWrap .addRoomDropDown .mobileHeader .close {
+		float: right;
+		width: 38px;
+		height: 38px;
+		line-height: 38px;
+		text-align: center;
+		background: #d8741b;
+		color: #fff;
+		right: 0;
+		top: 0;
+		font-size: 20px;
+		font-weight: 300
+	}
+
+	.booking-engine .noOfGuestWrap,
+	.booking-engine.layout2 .noOfGuestWrap,
+	.booking-engine.reverse .noOfGuestWrap {
+		width: 50%;
+		border: 0;
+		height: 70px;
+		padding: 10px 10%;
+		border: #f3f3f3 solid 1px
+	}
+
+	.booking-engine .noOfGuestWrap .guestCount,
+	.booking-engine.layout2 .noOfGuestWrap .guestCount,
+	.booking-engine.reverse .noOfGuestWrap .guestCount {
+		text-align: left
+	}
+
+	.booking-engine .noOfGuestWrap .guestCount span.value,
+	.booking-engine.layout2 .noOfGuestWrap .guestCount span.value,
+	.booking-engine.reverse .noOfGuestWrap .guestCount span.value {
+		font-size: 30px;
+		line-height: 50px;
+		font-weight: 400
+	}
+
+	.booking-engine .noOfGuestWrap .guestCount span.lbl,
+	.booking-engine.layout2 .noOfGuestWrap .guestCount span.lbl,
+	.booking-engine.reverse .noOfGuestWrap .guestCount span.lbl {
+		position: absolute;
+		left: 48%;
+		top: 60%;
+		transform: translate(0, -50%);
+		font-size: 13px
+	}
+
+	.booking-engine .noOfGuestWrap .addGuestDropDown,
+	.booking-engine.layout2 .noOfGuestWrap .addGuestDropDown,
+	.booking-engine.reverse .noOfGuestWrap .addGuestDropDown {
+		width: 100%;
+		height: 100%;
+		left: 0;
+		top: 0;
+		padding: 70px 20px 100px 20px;
+		position: fixed;
+		overflow: auto;
+		z-index: 999999
+	}
+
+	.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList,
+	.booking-engine.layout2 .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList,
+	.booking-engine.reverse .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList {
+		overflow: auto
+	}
+
+	.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList ul,
+	.booking-engine.layout2 .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList ul,
+	.booking-engine.reverse .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList ul {
+		float: left;
+		width: 540px
+	}
+
+	.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList ul li,
+	.booking-engine.layout2 .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList ul li,
+	.booking-engine.reverse .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList ul li {
+		width: 40px;
+		height: 40px;
+		line-height: 40px;
+		border: #d8741b solid 1px;
+		margin-right: 5px
+	}
+
+	.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList ul li:hover,
+	.booking-engine.layout2 .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList ul li:hover,
+	.booking-engine.reverse .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList ul li:hover {
+		background: transparent;
+		color: #000
+	}
+
+	.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList ul li:last-child,
+	.booking-engine.layout2 .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList ul li:last-child,
+	.booking-engine.reverse .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList ul li:last-child {
+		border-right: #d8741b solid 1px
+	}
+
+	.booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList ul li.active,
+	.booking-engine.layout2 .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList ul li.active,
+	.booking-engine.reverse .noOfGuestWrap .addGuestDropDown .blockWrapper .block .roomGuestCount .childAgeWrap .ageList ul li.active {
+		background: #d8741b;
+		color: #fff
+	}
+
+	.booking-engine .noOfGuestWrap .addGuestDropDown .mobileHeader,
+	.booking-engine.layout2 .noOfGuestWrap .addGuestDropDown .mobileHeader,
+	.booking-engine.reverse .noOfGuestWrap .addGuestDropDown .mobileHeader {
+		display: block;
+		width: 100%;
+		text-align: center;
+		position: fixed;
+		left: 0;
+		top: 0;
+		padding: 0px;
+		z-index: 2;
+		padding: 5%;
+		box-shadow: 0px 2px 25px 0px rgba(0, 0, 0, 0.05);
+		background: #fff
+	}
+
+	.booking-engine .noOfGuestWrap .addGuestDropDown .mobileHeader .close,
+	.booking-engine.layout2 .noOfGuestWrap .addGuestDropDown .mobileHeader .close,
+	.booking-engine.reverse .noOfGuestWrap .addGuestDropDown .mobileHeader .close {
+		float: left;
+		width: auto
+	}
+
+	.booking-engine .noOfGuestWrap .addGuestDropDown .mobileHeader .close svg,
+	.booking-engine.layout2 .noOfGuestWrap .addGuestDropDown .mobileHeader .close svg,
+	.booking-engine.reverse .noOfGuestWrap .addGuestDropDown .mobileHeader .close svg {
+		width: 15px;
+		fill: #000
+	}
+
+	.booking-engine .t-datepicker-day,
+	.booking-engine.layout2 .t-datepicker-day,
+	.booking-engine.reverse .t-datepicker-day {
+		position: fixed;
+		left: 0 !important;
+		top: 0;
+		width: 100%;
+		height: calc(100% - 100px);
+		-webkit-overflow-scrolling: touch;
+		overflow: auto;
+		padding: 0 0 100px 0
+	}
+
+	.booking-engine .t-arrow-top,
+	.booking-engine.layout2 .t-arrow-top,
+	.booking-engine.reverse .t-arrow-top {
+		display: none !important
+	}
+
+	.booking-engine .viewAvailabilityButton,
+	.booking-engine.layout2 .viewAvailabilityButton,
+	.booking-engine.reverse .viewAvailabilityButton {
+		margin: 20px 0 20px 50%;
+		transform: translate(-50%, 0);
+		padding: 10px
+	}
+
+	.booking-engine .plusIcon,
+	.booking-engine.layout2 .plusIcon,
+	.booking-engine.reverse .plusIcon {
+		width: 100%;
+		text-align: center;
+		margin: 0;
+		height: auto
+	}
+
+	.booking-engine .plusIcon .imgIconWrap,
+	.booking-engine.layout2 .plusIcon .imgIconWrap,
+	.booking-engine.reverse .plusIcon .imgIconWrap {
+		display: none
+	}
+
+	.booking-engine .plusIcon .toolTipWrap,
+	.booking-engine.layout2 .plusIcon .toolTipWrap,
+	.booking-engine.reverse .plusIcon .toolTipWrap {
+		display: inline;
+		position: relative;
+		left: auto;
+		top: auto;
+		transform: none;
+		box-shadow: none;
+		font-size: 1em;
+		font-size: 700
+	}
+
+	.booking-engine .plusIcon .toolTipWrap::before,
+	.booking-engine .plusIcon .toolTipWrap::after,
+	.booking-engine.layout2 .plusIcon .toolTipWrap::before,
+	.booking-engine.layout2 .plusIcon .toolTipWrap::after,
+	.booking-engine.reverse .plusIcon .toolTipWrap::before,
+	.booking-engine.reverse .plusIcon .toolTipWrap::after {
+		display: none
+	}
+
+	.booking-engine .promocodeDropDown,
+	.booking-engine.layout2 .promocodeDropDown,
+	.booking-engine.reverse .promocodeDropDown {
+		position: relative;
+		width: 100%;
+		float: left;
+		top: auto;
+		padding: 10px;
+		box-shadow: none;
+		z-index: 0
+	}
+
+	.booking-engine .promocodeDropDown .input,
+	.booking-engine.layout2 .promocodeDropDown .input,
+	.booking-engine.reverse .promocodeDropDown .input {
+		width: calc(100% - 50px);
+		padding: 5px 10px;
+		height: 42px;
+		-moz-appearance: none;
+		-webkit-appearance: none;
+		-ms-appearance: none;
+		appearance: none;
+		border-radius: 0
+	}
+
+	.booking-engine .promocodeDropDown .submit,
+	.booking-engine.layout2 .promocodeDropDown .submit,
+	.booking-engine.reverse .promocodeDropDown .submit {
+		width: 50px;
+		height: 42px;
+		padding: 5px 10px
+	}
+
+	.booking-engine .offerMsgWrap,
+	.booking-engine.layout2 .offerMsgWrap,
+	.booking-engine.reverse .offerMsgWrap {
+		display: inline
+	}
+
+	.boxColumn {
+		width: 100%;
+		margin: 0
+	}
+
+	.booking-engine.layout2 .offerMsgWrap {
+		white-space: initial
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	.availability-cta .booking-engine.layout2 .hotelName .allHotels {
+		height: 90vh !important
+	}
+
+	.availability-cta .booking-engine.layout2.left .checkInCheckOut .datesWrap {
+		padding: 10px 10%
+	}
+
+	.availability-cta .booking-engine.layout2.left .noOfRoomsWrap,
+	.availability-cta .booking-engine.layout2.left .noOfGuestWrap {
+		padding: 10px 5%
+	}
+
+	.availability-cta .booking-engine.layout2.left .noOfRoomsWrap .arrowWrap,
+	.availability-cta .booking-engine.layout2.left .noOfGuestWrap .arrowWrap {
+		top: 12px
+	}
+
+	.availability-cta .booking-engine.layout2 .noOfGuestWrap .addGuestLabel .guestCount {
+		width: 95%
+	}
+
+	.booking-engine.layout2 .checkInCheckOut .t-datepicker-day .t-table-wrap:nth-child(2) .t-table-condensed {
+		margin-top: 80px
+	}
+
+	.booking-engine .bookYourStay,
+	.booking-engine.layout2 .bookYourStay {
+		font-size: 0.9375em
+	}
+
+	.booking-engine .hotelName .hotelListDropDown .mobileHeader .close,
+	.booking-engine.layout2 .hotelName .hotelListDropDown .mobileHeader .close {
+		padding: 0 20px
+	}
+
+	.booking-engine .checkInCheckOut,
+	.booking-engine.layout2 .checkInCheckOut {
+		width: 50%
+	}
+
+	.booking-engine .checkInCheckOut .t-mobile-heading,
+	.booking-engine.layout2 .checkInCheckOut .t-mobile-heading {
+		padding: 0 0 20px 0
+	}
+
+	.booking-engine .checkInCheckOut .t-mobile-heading .backWrap,
+	.booking-engine.layout2 .checkInCheckOut .t-mobile-heading .backWrap {
+		padding: 20px
+	}
+
+	.booking-engine .checkInCheckOut .t-mobile-heading .dateWrap .mobCheckInCheckOut,
+	.booking-engine.layout2 .checkInCheckOut .t-mobile-heading .dateWrap .mobCheckInCheckOut {
+		padding: 0 20px
+	}
+
+	.booking-engine .checkInCheckOut .t-datepicker-day,
+	.booking-engine.layout2 .checkInCheckOut .t-datepicker-day {
+		top: 112px
+	}
+
+	.booking-engine .checkInCheckOut .t-datepicker-day .t-table-wrap,
+	.booking-engine.layout2 .checkInCheckOut .t-datepicker-day .t-table-wrap {
+		padding: 0 20px;
+		margin: 0;
+		width: 50%
+	}
+
+	.booking-engine .checkInCheckOut .datesWrap,
+	.booking-engine.layout2 .checkInCheckOut .datesWrap {
+		border: #f3f3f3 solid 1px;
+		height: 70px;
+		padding: 0px 10% 10px 10%
+	}
+
+	.booking-engine .checkInCheckOut .datesWrap:last-child,
+	.booking-engine.layout2 .checkInCheckOut .datesWrap:last-child {
+		border-right: 0
+	}
+
+	.booking-engine .noOfRoomsWrap,
+	.booking-engine.layout2 .noOfRoomsWrap {
+		width: 25%;
+		border-right: 0;
+		padding: 10px 5%
+	}
+
+	.booking-engine .noOfGuestWrap,
+	.booking-engine.layout2 .noOfGuestWrap {
+		width: 25%;
+		padding: 10px 0
+	}
+
+	.booking-engine .noOfGuestWrap .addGuestLabel .guestCount,
+	.booking-engine.layout2 .noOfGuestWrap .addGuestLabel .guestCount {
+		width: 100%;
+		text-align: center
+	}
+
+	.booking-engine .noOfGuestWrap .addGuestLabel .guestCount span.value,
+	.booking-engine.layout2 .noOfGuestWrap .addGuestLabel .guestCount span.value {
+		position: relative;
+		left: -20%
+	}
+
+	.booking-engine .noOfGuestWrap .addGuestLabel,
+	.booking-engine.layout2 .noOfGuestWrap .addGuestLabel {
+		text-align: center
+	}
+
+	.booking-engine .noOfGuestWrap .addGuestDropDown .mobileHeader,
+	.booking-engine.layout2 .noOfGuestWrap .addGuestDropDown .mobileHeader {
+		padding: 20px
+	}
+
+	.booking-engine .promocodeDropDown,
+	.booking-engine.layout2 .promocodeDropDown {
+		width: 300px;
+		transform: translate(-50%, 0);
+		margin-left: 50%
+	}
+
+	.booking-engine .plusIcon .toolTipWrap,
+	.booking-engine.layout2 .plusIcon .toolTipWrap {
+		font-size: 0.9375em;
+		font-weight: 700
+	}
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 896px) and (-webkit-device-pixel-ratio: 3) {
+	.right-side-menu .availability-cta .booking-engine {
+		padding-top: 55px
+	}
+
+	.booking-engine .checkInCheckOut .t-mobile-heading .backWrap {
+		padding-top: 8%
+	}
+
+	.booking-engine.layout2 .offerMsgWrap {
+		white-space: initial
+	}
+
+	.booking-engine .checkInCheckOut .t-mobile-heading .calender-dynamic-text-mobile,
+	.booking-engine.layout2 .checkInCheckOut .t-mobile-heading .calender-dynamic-text-mobile,
+	.booking-engine.reverse .checkInCheckOut .t-mobile-heading .calender-dynamic-text-mobile {
+		top: 50px;
+		line-height: 16px
+	}
+}
+
+@media only screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) {
+	.right-side-menu .availability-cta .booking-engine {
+		padding-top: 55px
+	}
+
+	.booking-engine .checkInCheckOut .t-mobile-heading .backWrap {
+		padding-top: 8%
+	}
+
+	.booking-engine .checkInCheckOut .t-mobile-heading .calender-dynamic-text-mobile,
+	.booking-engine.layout2 .checkInCheckOut .t-mobile-heading .calender-dynamic-text-mobile,
+	.booking-engine.reverse .checkInCheckOut .t-mobile-heading .calender-dynamic-text-mobile {
+		top: 50px;
+		line-height: 16px
+	}
+}
+
+@media screen and (-ms-high-contrast: active),
+(-ms-high-contrast: none) {
+	.booking-engine .checkInCheckOut .datesWrap .label {
+		width: auto
+	}
+}
+
+/*# sourceMappingURL=booking-engine.css.map */

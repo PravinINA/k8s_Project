@@ -1,0 +1,5228 @@
+.belvedere-locations-title.experiences-page,
+.e-magazine.belvedere-locations-wrapper {
+  display: none;
+}
+.global-wellness-day-wrapper .image-text-component-style1:nth-child(even) {
+  flex-direction: row-reverse;
+}
+li.twitter-logo-bx img {
+  max-width: 15px;
+}
+
+.descriptionSec .descriptionImageSlide .destn-hotel-name {
+  bottom: 8px !important;
+}
+#chat-btn {
+  z-index: 999 !important;
+}
+.omo-map-text-Wrap > p {
+  margin-bottom: 20px;
+}
+.captcha-field-container {
+  width: 84%;
+  float: left;
+  margin-top: 10px;
+}
+.captcha-common-field {
+  width: auto;
+  float: left;
+  margin-right: 20px;
+  max-width: 120px;
+}
+.captcha-common-field img {
+  width: 100%;
+  max-width: 88px;
+}
+.captcha-common-field {
+  width: auto;
+  float: left;
+  text-align: center;
+  margin-right: 20px;
+  max-width: 120px;
+}
+.captcha-common-field input[type="text"] {
+  padding: 5px;
+  height: 30px;
+  text-align: center;
+  font-size: 15px;
+  width: 100%;
+}
+.reload-captcha-code {
+  width: auto;
+  float: left;
+  margin-right: 20px;
+  margin-top: 6px;
+  cursor: pointer;
+}
+.reload-captcha-code img {
+  max-width: 22px;
+}
+
+.three-image-gallery.nnnnnnnnnnnnnnnnnkkkkkkkkkk {
+  margin-bottom: 30px !important;
+}
+.wfh-common-page {
+  margin-bottom: 30px;
+}
+/*.three-image-gallery.paticipating-htls-slider .slick-prev:hover{
+    left: 40px;
+}*/
+/*.three-image-gallery.paticipating-htls-slider .slick-next:hover{
+    right: 40px;
+}*/
+.addGuestDropDown .individualRoomSection:first-child .editBlock .edit {
+  border: none !important;
+}
+.addGuestDropDown .individualRoomSection:first-child .editBlock .closeIcn {
+  display: none;
+}
+.contact-us-page .col-50 .query-form {
+  float: left;
+  width: auto;
+}
+.e-magazine-slider .slick-prev,
+.e-magazine-slider .slick-next {
+  top: 35%;
+}
+.three-image-gallery .slick-prev,
+.three-image-gallery .slick-next {
+  width: 45px;
+  height: 45px;
+  top: 35%;
+}
+.three-image-gallery .slick-prev {
+  left: 0px;
+}
+.three-image-gallery .slick-next {
+  right: 0px;
+}
+.booking-engine .noOfGuestWrap .addGuestDropDown,
+.booking-engine.layout2 .noOfGuestWrap .addGuestDropDown,
+.booking-engine.reverse .noOfGuestWrap .addGuestDropDown {
+  top: 25px;
+}
+.booking-engine .noOfGuestWrap .addGuestDropDown .mobileHeader,
+.booking-engine.layout2 .noOfGuestWrap .addGuestDropDown .mobileHeader,
+.booking-engine.reverse .noOfGuestWrap .addGuestDropDown .mobileHeader {
+  top: 25px;
+}
+.our-hotel-and-office .hotels-and-offices-dtls-wrap > ul > li {
+  margin-bottom: 20px;
+  min-height: 315px;
+}
+.our-hotel-and-office .contact-us-form,
+.our-hotel-and-office .map-destination {
+  padding: 10px 15px 10px !important;
+}
+.e-magazine .e-magazine-slide .img-box img {
+  opacity: 1 !important;
+}
+.tab-with-content .tab-sec-wrap .bind.sticky {
+  position: static;
+}
+.tab-with-content .tab-sec-wrap {
+  z-index: 7 !important;
+}
+/* global wellness page starts */
+.global-wellness-day-wrapper {
+  width: 100%;
+  float: left;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.global-wellness-day-wrapper .image-text-component-style1 {
+  display: block;
+  align-items: center;
+}
+.global-wellness-day-wrapper .image-text-component-style1 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.global-wellness-day-wrapper
+  .image-text-component-style1.travel-tamplate-ext-title {
+  position: relative;
+  padding: 60px 0 0 0;
+}
+
+.global-wellness-day-wrapper
+  .image-text-component-style1.travel-tamplate-ext-title
+  h2.common-section-title {
+  position: absolute;
+  top: 0px;
+  left: 10px;
+}
+
+.global-wellness-day-wrapper .image-text-component-style1 .img-colm {
+  float: left;
+  width: 50%;
+}
+.global-wellness-day-wrapper
+  .image-and-description-with-legend-attributes-option-2
+  .img-col,
+.global-wellness-day-wrapper .image-text-component-style1 .img-colm {
+  margin-right: 0 !important;
+}
+.global-wellness-day-wrapper .image-text-component-style1.right-bx .img-colm {
+  float: right;
+}
+.global-wellness-day-wrapper .image-text-component-style1 .text-colm {
+  width: 50%;
+  padding: 20px;
+}
+.global-wellness-day-wrapper .image-text-component-style1 {
+  margin-bottom: 0;
+}
+
+/* global wellness page ends */
+
+.fx-hight-int-hotels {
+  max-height: 365px;
+  overflow-y: auto;
+}
+
+.three-image-gallery .slick-next:before,
+.three-image-gallery .slick-prev:before {
+  content: "";
+}
+.select2-dropdown {
+  z-index: 99999 !important;
+}
+.alliance-partners-section-component .banner-section .banner-layer {
+  background: url(https://www.oberoihotels.com/images/oberoihotels/overview/ban-t-bg.png?v=8) bottom center
+    repeat-x;
+  min-height: 100px;
+  position: absolute;
+  bottom: 0;
+  background-size: 100%;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+  top: 0;
+  opacity: 0.4;
+}
+
+.omo-banner-slider .slick-prev {
+  width: 45px;
+  height: 45px;
+  left: 10px;
+  z-index: 9;
+  background: url(https://www.oberoihotels.com/images/oberoihotels/slider-arrow.jpg) no-repeat left center;
+}
+.omo-banner-slider .slick-next {
+  width: 45px;
+  height: 45px;
+  right: 10px;
+  z-index: 9;
+  background: url(https://www.oberoihotels.com/images/oberoihotels/slider-arrow.jpg) no-repeat right center;
+}
+.omo-banner-slider .slick-next:before,
+.omo-banner-slider .slick-prev:before {
+  content: "";
+}
+
+.slick-prev:before,
+.slick-next:before {
+  content: "" !important;
+}
+.black-overlay-marrakeech-pop-up,
+.marrakeech-pop-up-wrapper {
+  display: none !important;
+}
+.search-box .srch-input .close-search {
+  display: none;
+}
+.queries-btn a {
+  display: none;
+}
+
+header .header-logo-unit.sm-logo img {
+  max-width: 130% !important;
+}
+
+.banner-and-booking-widget .banner .banner1 .banner-image,
+.banner-and-booking-widget .banner .banner1 .banner-video,
+.section.dining-home {
+  margin-top: 0px;
+}
+header.global-header-pages {
+  top: 0 !important;
+}
+
+.banner-component-style1 {
+  margin-top: 0px;
+}
+
+.ohr-select-limited-period-offer-box h2 {
+  font-size: 22px;
+  font-family: "EB Garamond", serif;
+  font-weight: normal;
+}
+
+.hotel-borchure-link {
+  width: 100%;
+  float: left;
+  text-align: right;
+  margin-top: 20px;
+}
+.covid-update-info-wrapper .covid-update-info {
+  max-height: 250px;
+  overflow-y: auto;
+}
+.gobal-link-style {
+  color: #6ab8d9;
+  text-decoration: none;
+}
+.marketing-asset-offer-tab,
+.marketing-asset-text {
+  display: none !important;
+}
+p.offerheadlinetext strong {
+  font-weight: 700;
+}
+.filter-component .filter-results-list > li {
+  min-height: 410px;
+}
+.policy-box ul {
+  list-style: none;
+}
+.policy-box ul li {
+  margin-bottom: 5px;
+}
+.amenities .amenities-content {
+  max-height: 245px;
+}
+.travel-info .travel-more-info-dtls .more-info-content-dtls ol {
+  margin: 10px 0 0 20px;
+}
+.travel-info .travel-more-info-dtls .more-info-content-dtls ol li {
+  margin-bottom: 5px;
+}
+/*thank you page css starts*/
+span#msg {
+  width: 100%;
+  float: left;
+  margin-bottom: 10px;
+}
+
+.HBAGROB202208.soldOutDate::after {
+  content: "N/A";
+}
+.global-thank-you-message {
+  width: 100%;
+  float: left;
+  text-align: center;
+  font-size: 15px;
+  line-height: 170%;
+  position: relative;
+}
+.global-thank-you-message .thanks-message-bg img {
+  width: 100%;
+}
+.desktop-image {
+  display: block;
+}
+.mobile-image {
+  display: none !important;
+}
+
+.global-thank-you-message .thanks-message-bg {
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+.global-thank-you-message .message-box {
+  padding: 20px;
+  width: 50%;
+  float: left;
+  position: absolute;
+  z-index: 9;
+  color: #000;
+  font-size: 20px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(255, 255, 255, 0.8);
+}
+/*thank you page css ends*/
+
+.award-details .award-col {
+  min-height: 270px !important;
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+.awards .awards-container .award-subtitle {
+  display: block;
+  min-height: auto;
+}
+
+.award-discription.hotelname p {
+  font-family: "EB Garamond", serif;
+  font-weight: 500;
+  margin-top: 10px;
+}
+/* ob-select-marketing-asset css starts */
+.oberoi-select-marketing-asset-box {
+  width: 100%;
+  float: left;
+  margin-top: 20px;
+  font-size: 15px;
+  border: 1px solid #ccc;
+}
+.oberoi-select-marketing-asset-box .oberoi-select-marketing-asset-offer-name {
+  background: #000;
+  color: #d7be6d;
+  text-transform: uppercase;
+  width: 100%;
+  font-size: 17px;
+  text-align: center;
+  padding: 10px 0;
+  font-weight: 300;
+}
+.oberoi-select-marketing-asset-box
+  .oberoi-select-marketing-asset-offer-details {
+  width: 100%;
+  float: left;
+  padding: 5px;
+  font-size: 15px;
+  font-weight: 300;
+  text-align: center;
+  line-height: 140%;
+}
+
+.ohr-select-marketing-asset-box {
+  border: 1px solid #ccc;
+  float: left;
+  padding: 10px;
+  margin-top: 20px;
+}
+.ohr-select-marketing-asset-box p {
+  margin-top: 0 !important;
+}
+
+/* ob-select-marketing-asset css ends */
+/* oneroi one marketing assets starts */
+.marketing-offers-wrapper .assets-content-box p span.offerInfo {
+  margin-bottom: 5px;
+  position: relative;
+  font-size: 16px !important;
+}
+.marketing-offers-wrapper .assets-content-box p span,
+.assets-content-box p {
+  font-size: 12px !important;
+}
+.image-and-description-with-legend-attributes-option-3 .img-col a {
+  text-decoration: none;
+}
+span.not-a-member-text,
+span.enroll-now-link {
+  font-size: 14px;
+  color: #000;
+  text-decoration: none;
+}
+span.enroll-now-link {
+  color: #66b6d8;
+  text-decoration: none;
+}
+
+.marketing-offers-wrapper .assets-content-box p span.offerInfo:after {
+  content: "";
+  width: 50%;
+  height: 1px;
+  background: #d8be5f;
+  position: absolute;
+  bottom: -3px;
+  display: block !important;
+  vertical-align: middle;
+  text-align: center;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.assets-content-box p {
+  font-size: 12px;
+}
+.marketing-offers-wrapper .assets-content-box p span {
+  font-size: 13px;
+}
+/* oneroi one marketing assets ends */
+
+/* oberoi select new assets starts */
+.oberoi-select-marketing-select-wrapper {
+  float: left;
+  width: 100%;
+  margin: 30px 0 50px 0;
+}
+.oberoi-select-marketing-select-wrapper .oberoi-select-marketing-select-box {
+  width: 100%;
+  float: left;
+  display: flex;
+  align-items: center;
+  padding: 40px;
+  background: url("https://www.oberoihotels.com/images/oberoiHotels/ob-select-bg.jpg") center top no-repeat;
+  background-size: 100%;
+  min-height: 180px;
+}
+.oberoi-select-marketing-select-wrapper
+  .oberoi-select-marketing-select-box
+  .obr-select-logo {
+  width: 25%;
+  float: left;
+}
+.oberoi-select-marketing-select-wrapper
+  .oberoi-select-marketing-select-box
+  .oberoi-select-marketing-content-box {
+  width: 60%;
+  float: left;
+  text-align: center;
+}
+.oberoi-select-marketing-select-wrapper
+  .oberoi-select-marketing-select-box
+  .know-more-button {
+  width: 15%;
+  float: left;
+}
+.oberoi-select-marketing-select-wrapper
+  .oberoi-select-marketing-select-box
+  .know-more-button
+  a {
+  width: 100%;
+  float: left;
+  text-align: center;
+  color: #000;
+  background: #d8be5e;
+  text-decoration: none;
+  padding: 10px 0;
+  font-family: "EB Garamond", serif;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.oberoi-select-marketing-select-wrapper
+  .oberoi-select-marketing-select-box
+  .obr-select-logo
+  img {
+  max-width: 100%;
+}
+.oberoi-select-marketing-select-wrapper
+  .oberoi-select-marketing-select-box
+  .oberoi-select-marketing-content-box
+  h2 {
+  font-family: "EB Garamond", serif;
+  font-style: italic;
+  font-size: 24px;
+  font-weight: 300;
+  color: #c7af58;
+  padding-bottom: 20px;
+  position: relative;
+}
+
+.oberoi-select-marketing-select-wrapper
+  .oberoi-select-marketing-select-box
+  .oberoi-select-marketing-content-box
+  h2:after {
+  position: absolute;
+  width: 50%;
+  height: 2px;
+  content: "";
+  left: 50%;
+  bottom: 6px;
+  background: url("https://www.oberoihotels.com/images/OberoiHotels/title-after-bg.jpg") center top
+    no-repeat;
+  background-size: 100%;
+  transform: translate(-50%, 0);
+}
+
+.oberoi-select-marketing-select-wrapper
+  .oberoi-select-marketing-select-box
+  .oberoi-select-marketing-content-box
+  h3 {
+  font-family: "EB Garamond", serif;
+  font-size: 22px;
+  font-weight: 300;
+  color: #c7af58;
+  padding-bottom: 20px;
+  position: relative;
+}
+
+/* oberoi select new assets ends */
+/*.grey-box-main-wrap{width: 57% !important; float: left;}*/
+.feedback-box,
+.feedback-form-wrapper-main.slide-pop-up {
+  display: none !important;
+}
+.gst-required-number {
+  width: 100%;
+  font-size: 10px;
+  color: #999;
+  float: left;
+  margin-top: 5px;
+}
+
+.image-and-description-with-legend-attributes-option-3
+  .description-col.div-down-arrow {
+  padding-bottom: 20px;
+}
+/* wellness pop up css starts */
+.templateSpaandWellnessListingPage.hotel-pages
+  .spa-wellnes-marketing-asset-wrapper {
+  top: 375px;
+}
+.bodyWrapMobile .offers .cta-box a.style1,
+.bodyWrapMobile .destination .cta-box a.style1,
+.bodyWrapMobile .experiences .cta-box a.style3,
+.bodyWrapMobile .cta-box a.style1,
+.bodyWrapMobile .cta-box a.style3,
+.bodyWrapMobile .cta-box a.style4,
+.bodyWrapMobile .image-text-block-style1 .text-block .btn-style1,
+.bodyWrapMobile .btns-list a.btn-style1 {
+  padding: 12px 24px 12px 20px !important;
+}
+
+body.bodyWrapMobile.body-en.templateSpaandWellnessListingPage.hotel-pages
+  .banner-component-style1 {
+  margin-bottom: 100px;
+}
+
+.explore-button-new {
+  width: auto;
+  float: left;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.explore-button-new a {
+  font-size: 15px !important;
+}
+
+.spa-button {
+  width: auto;
+  float: left;
+  margin-top: 20px;
+}
+.spa-wellnes-marketing-asset-wrapper {
+  position: absolute;
+  width: 80%;
+  left: 10%;
+  top: 475px;
+  z-index: 9;
+  display: flex;
+  align-items: center;
+  background: #fff;
+  box-shadow: 0px 5px 25px 0px rgb(0 0 0 / 15%);
+  padding: 5px;
+}
+
+.spa-wellnes-marketing-asset-wrapper .spa-wellnes-small-banner-image {
+  width: 25%;
+  float: left;
+}
+.spa-wellnes-marketing-asset-wrapper .spa-wellness-offer-image h2 {
+  font-family: "EB Garamond", serif;
+  font-weight: 300;
+  font-size: 24px;
+  border-bottom: 1px solid #000;
+  padding-bottom: 5px;
+  width: 35%;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+.spa-wellnes-marketing-asset-wrapper .spa-wellness-offer-image h2 span {
+  font-style: italic;
+}
+
+.spa-wellnes-marketing-asset-wrapper .spa-wellness-offer-image p {
+  font-size: 14px;
+}
+
+.spa-wellnes-marketing-asset-wrapper .spa-wellness-offer-image {
+  width: 55%;
+  float: left;
+  padding: 10px;
+  line-height: 155%;
+  text-align: center;
+  font-size: 16px;
+}
+.spa-wellnes-marketing-asset-wrapper .pop-up-cta {
+  width: 22%;
+  float: right;
+}
+.spa-wellnes-marketing-asset-wrapper
+  .pop-up-cta
+  .spa-button
+  span.wellnes-book-now-button {
+  background: #d8741b;
+  color: #fff;
+  padding: 8px 10px 6px 10px;
+  margin-right: 20px;
+}
+.spa-wellnes-marketing-asset-wrapper
+  .pop-up-cta
+  .spa-button
+  span.wellnes-book-now-button::before {
+  right: 5px;
+  border-color: #fff;
+  border-width: 2px;
+  display: none;
+}
+
+.spa-wellnes-marketing-asset-wrapper .pop-up-cta .spa-button {
+  margin-top: 0;
+  float: right;
+}
+.spa-wellnes-marketing-asset-wrapper .spa-wellnes-small-banner-image img {
+  max-width: 100%;
+}
+
+.row100Per.second-guest-details {
+  display: none;
+}
+
+.wellness-form-field-box
+  .t-check-in
+  .t-datepicker-day
+  .cico-identification.CheckIn,
+.wellness-form-field-box
+  .t-check-out
+  .t-datepicker-day
+  .cico-identification.CheckIn,
+.wellness-form-field-box .cico-identification.CheckOut {
+  display: none !important;
+}
+
+.wellness-form-field-box .t-datepicker-day {
+  top: -135px !important;
+}
+.wellness-pop-up-main-wrapper .wellness-form-wrapper .wellnes-form-main-box {
+  width: 100%;
+  float: left;
+}
+.wellness-pop-up-main-wrapper
+  .wellness-form-wrapper
+  .wellness-form-thanks-message {
+  width: 100%;
+  float: left;
+  color: green;
+  text-align: center;
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  padding: 50px;
+  display: none;
+}
+span.wellnes-book-now-button {
+  float: right;
+  padding-right: 50px;
+  color: #d8741b;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  cursor: pointer;
+  position: relative;
+}
+
+span.wellnes-book-now-button:before {
+  position: absolute;
+  content: "";
+  height: 7px;
+  width: 7px;
+  border-top: 1px solid #d8741b;
+  border-right: 1px solid #d8741b;
+  right: 30px;
+  transform: translate(-50%, -50%) rotate(45deg);
+  top: 50%;
+}
+
+.black-overlay-wellness-pop-up {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  left: 0;
+  top: 0;
+  z-index: 999;
+  display: none;
+}
+.wellness-pop-up-main-wrapper {
+  position: fixed;
+  left: 50%;
+  top: 52%;
+  background: #fff;
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+  width: 55%;
+  display: none;
+}
+
+.wellness-pop-up-main-wrapper:before {
+  position: absolute;
+  width: 96%;
+  height: 95%;
+  left: 2%;
+  top: 2%;
+  content: "";
+  border: 1px solid #000;
+  z-index: 0;
+}
+
+.wellness-pop-up-Bg .close-btn-wellness-pop-up {
+  position: absolute;
+  z-index: 9;
+  right: 14px;
+  top: 12px;
+  border-left: 1px solid #000;
+  border-bottom: 1px solid #000;
+  padding: 2px 6px;
+  cursor: pointer;
+}
+.wellness-pop-up-Bg .close-btn-wellness-pop-up a {
+  color: #000;
+  text-decoration: none;
+}
+.wellness-pop-up-Bg {
+  width: 100%;
+  float: left;
+  background-size: 100% !important;
+  padding: 75px 0 !important;
+}
+
+.wellness-pop-up-Bg.udaipur-wellness-bg {
+  background: url("https://www.oberoihotels.com/images/spa-background-image.jpg") center top no-repeat;
+  background-position: 0 75%;
+}
+
+.wellness-pop-up-banner-wrapper {
+  width: 26%;
+  position: absolute;
+  left: 50%;
+  top: 85px;
+  transform: translate(-50%, 0);
+  padding: 5px;
+  background: #fff;
+  box-shadow: 1px 1px 11px #ccc;
+  line-height: 0;
+  display: none;
+}
+.wellness-pop-up-banner-wrapper .wellness-pop-up-styled-image {
+  width: 100%;
+  float: left;
+}
+
+.wellness-pop-up-banner-wrapper .wellness-pop-up-styled-image img {
+  width: 100%;
+}
+
+.wellness-pop-up-main-wrapper .wellness-form-wrapper {
+  width: 100%;
+  float: left;
+  text-align: center;
+  padding: 5px 0 20px 0;
+}
+.wellness-pop-up-main-wrapper .wellness-form-wrapper h2 {
+  font-weight: 300;
+  font-family: "EB Garamond", serif;
+  font-size: 24px;
+  font-style: italic;
+}
+.wellness-pop-up-main-wrapper .wellness-form-wrapper p {
+  font-size: 14px;
+  margin-top: 8px;
+}
+.form-wellness-box-wrapper {
+  width: 100%;
+  float: left;
+  padding: 10px;
+}
+.form-wellness-box-wrapper .row100Per.form-coloumns-2 {
+  margin-top: 10px;
+  padding: 5px 20px 0px 20px;
+  background: #f7f7f7;
+  width: 93%;
+  margin-left: 3%;
+}
+.form-wellness-box-wrapper .row100Per {
+  width: 100%;
+  float: left;
+  padding: 0 20px 10px 20px;
+}
+.form-wellness-box-wrapper .row100Per .col-40 {
+  width: 40%;
+  float: left;
+  padding-right: 10px;
+  margin-top: 5px;
+}
+.form-wellness-box-wrapper .row100Per .col-20 {
+  width: 20%;
+  float: left;
+  padding-right: 10px;
+  margin-top: 5px;
+}
+
+.form-wellness-box-wrapper .row100Per .col-33 {
+  width: 33.33%;
+  float: left;
+  padding-right: 10px;
+  margin-top: 5px;
+}
+
+.form-wellness-box-wrapper .row100Per .col-15 {
+  width: 15%;
+  float: left;
+  padding-right: 10px;
+  margin-top: 15px;
+}
+.form-wellness-box-wrapper .row100Per .col-35 {
+  width: 35%;
+  float: left;
+  padding-right: 10px;
+  margin-top: 15px;
+}
+.form-wellness-box-wrapper .row100Per .col-50 {
+  width: 50%;
+  float: left;
+  padding-right: 10px;
+  margin-top: 15px;
+}
+.form-wellness-box-wrapper .row100Per .col-85 {
+  width: 83%;
+  float: left;
+  margin-top: 8px;
+  position: relative;
+  z-index: 1;
+  margin-right: 2%;
+}
+
+.form-wellness-box-wrapper .row100Per .col-15 input,
+.form-wellness-box-wrapper .row100Per .col-15 select,
+.form-wellness-box-wrapper .row100Per .col-35 input,
+.form-wellness-box-wrapper .row100Per .col-35 select,
+.form-wellness-box-wrapper .row100Per .col-40 input,
+.form-wellness-box-wrapper .row100Per .col-40 select,
+.form-wellness-box-wrapper .row100Per .col-20 input,
+.form-wellness-box-wrapper .row100Per .col-33 input,
+.form-wellness-box-wrapper .row100Per .col-33 select,
+.form-wellness-box-wrapper .row100Per .col-20 select,
+.form-wellness-box-wrapper .row100Per .col-50 input,
+.form-wellness-box-wrapper .row100Per .col-50 select {
+  width: 100%;
+  float: left;
+  border-bottom: 1px solid #ccc;
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  color: #7b7b7b;
+  background: transparent;
+  height: 30px;
+  position: relative;
+  font-weight: 300;
+  z-index: 2;
+}
+
+.wellness-form-field-box .t-dates.t-date-check-in,
+.wellness-form-field-box .t-dates.t-date-check-out {
+  position: relative;
+  z-index: 2;
+  border-bottom: 1px solid #ccc;
+}
+
+.form-wellness-box-wrapper .row100Per .col-15 select,
+.form-wellness-box-wrapper .row100Per .col-35 select,
+.form-wellness-box-wrapper .row100Per .col-40 select,
+.form-wellness-box-wrapper .row100Per .col-20 select,
+.form-wellness-box-wrapper .row100Per .col-33 select,
+.form-wellness-box-wrapper .row100Per .col-50 select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: url(https://www.oberoihotels.com/images/OberoiHotels/oberoi-one/select-box-arrow.png) top 12px
+    right 4px no-repeat transparent;
+  padding-right: 20px;
+  font-weight: 300;
+}
+
+.form-wellness-box-wrapper .row100Per .col-40 .wellness-form-field-box,
+.form-wellness-box-wrapper .row100Per .col-20 .wellness-form-field-box,
+.form-wellness-box-wrapper .row100Per .col-33 .wellness-form-field-box,
+.form-wellness-box-wrapper .row100Per .col-35 .wellness-form-field-box,
+.form-wellness-box-wrapper .row100Per .col-15 .wellness-form-field-box,
+.form-wellness-box-wrapper .row100Per .col-50 .wellness-form-field-box,
+.form-wellness-box-wrapper .row100Per .col-85 .wellness-form-field-box {
+  width: 100%;
+  float: left;
+  position: relative;
+}
+
+.form-wellness-box-wrapper
+  .row100Per
+  .col-85
+  .wellness-form-field-box
+  textarea {
+  width: 100%;
+  float: left;
+  border: 1px solid #ccc;
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  color: #7b7b7b;
+  background: #fff;
+  height: 50px;
+  position: relative;
+  padding: 5px;
+  resize: none;
+  overflow-y: auto;
+  font-weight: 300;
+}
+.form-wellness-box-wrapper
+  .row100Per
+  .col-15
+  .wellness-form-field-box
+  .submit-button-wellnes-box {
+  width: 95%;
+  text-align: center;
+  background: #d8741b;
+  padding: 5px 0;
+  color: #fff;
+  font-size: 15px;
+  text-transform: uppercase;
+  margin-left: 5%;
+  cursor: pointer;
+  position: relative;
+  z-index: 9;
+  margin-top: -6px;
+}
+
+.form-wellness-box-wrapper .row100Per .col-40 .wellness-form-field-box label,
+.form-wellness-box-wrapper .row100Per .col-35 .wellness-form-field-box label,
+.form-wellness-box-wrapper .row100Per .col-20 .wellness-form-field-box label,
+.form-wellness-box-wrapper .row100Per .col-33 .wellness-form-field-box label,
+.form-wellness-box-wrapper .row100Per .col-15 .wellness-form-field-box label,
+.form-wellness-box-wrapper .row100Per .col-50 .wellness-form-field-box label {
+  position: absolute;
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  top: 8px;
+  left: 0;
+  color: #7b7b7b;
+  transition: all ease-in 0.3s;
+  z-index: 1;
+  font-weight: 300;
+}
+
+.form-wellness-box-wrapper
+  .row100Per
+  .col-40
+  .wellness-form-field-box
+  label.active-label,
+.form-wellness-box-wrapper
+  .row100Per
+  .col-35
+  .wellness-form-field-box
+  label.active-label,
+.form-wellness-box-wrapper
+  .row100Per
+  .col-20
+  .wellness-form-field-box
+  label.active-label,
+.form-wellness-box-wrapper
+  .row100Per
+  .col-33
+  .wellness-form-field-box
+  label.active-label,
+.form-wellness-box-wrapper
+  .row100Per
+  .col-15
+  .wellness-form-field-box
+  label.active-label,
+.form-wellness-box-wrapper
+  .row100Per
+  .col-50
+  .wellness-form-field-box
+  label.active-label {
+  top: -10px;
+  font-size: 12px;
+}
+
+.error-msg-wellness-form {
+  position: absolute;
+  left: 0;
+  bottom: -14px;
+  font-size: 9px;
+  color: red;
+  width: 100%;
+  text-align: left;
+  padding-left: 2px;
+  display: none;
+}
+.wellness-form-field-box {
+  margin-bottom: 10px;
+}
+.form-wellness-box-wrapper
+  .row100Per
+  .col-50
+  .wellness-form-field-box.phone-field-box {
+  position: relative;
+}
+.form-wellness-box-wrapper
+  .row100Per
+  .col-50
+  .wellness-form-field-box.phone-field-box
+  input {
+  padding-left: 90px;
+}
+.form-wellness-box-wrapper
+  .row100Per
+  .col-50
+  .wellness-form-field-box.phone-field-box
+  label {
+  left: 90px;
+}
+
+.form-wellness-box-wrapper
+  .row100Per
+  .col-50
+  .wellness-form-field-box.phone-field-box
+  span.countryCodeWrap {
+  z-index: 2;
+}
+.form-wellness-box-wrapper
+  .row100Per
+  .col-50
+  .wellness-form-field-box.phone-field-box
+  span.countryCodeWrap
+  .selectBoxValDisplay {
+  position: absolute;
+  top: 2px;
+  height: 33px;
+  width: 80px;
+  padding: 5px;
+  background: url(https://www.oberoihotels.com/images/OberoiHotels/oberoi-one/select-box-arrow.png) top 12px
+    right 4px no-repeat transparent;
+  pointer-events: none;
+  font-weight: 300;
+  z-index: 2;
+  text-align: left;
+  font-size: 15px;
+}
+
+.form-wellness-box-wrapper
+  .row100Per
+  .col-50
+  .wellness-form-field-box.phone-field-box
+  span
+  select {
+  width: 65px;
+  border-bottom: none;
+  top: 0;
+  position: absolute;
+  left: 0;
+  z-index: 9;
+  opacity: 0;
+}
+label.date-label-pos {
+  top: 4px !important;
+}
+
+label.date-label-pos.active-label {
+  top: -10px !important;
+}
+
+.wellness-form-field-box .t-next,
+.wellness-form-field-box .t-prev,
+.wellness-form-field-box .t-table-condensed td,
+.wellness-form-field-box .t-table-condensed th {
+  padding: 6px 12px;
+}
+
+.t-next,
+.t-prev,
+.t-table-condensed td,
+.t-table-condensed
+  th
+  .form-wellness-box-wrapper
+  .row100Per
+  .wellness-form-field-box
+  input.calendar {
+  text-align: left;
+}
+
+.wellness-form-field-box .t-dates.t-date-check-in,
+.wellness-form-field-box .t-dates.t-date-check-out {
+  background: url(https://www.oberoihotels.com/images/calendar-icon-pop-up.png) top -1px right 5px no-repeat;
+  text-align: left;
+}
+
+.wellness-form-field-box label.t-date-info-title {
+  text-indent: -9999px;
+}
+
+.wellness-form-field-box .t-dates.t-date-check-in span,
+.wellness-form-field-box .t-dates.t-date-check-out span {
+  font-size: 15px;
+  color: #7b7b7b;
+  font-weight: 300;
+}
+.wellness-form-field-box .t-dates {
+  padding: 0;
+  height: 23px;
+  margin-top: 7px;
+}
+.wellness-form-field-box .t-check-in,
+.wellness-form-field-box .t-check-out {
+  width: 100%;
+  border: none;
+}
+
+.wellness-form-field-box input:focus ~ .label-wellness-box {
+  top: -10px !important;
+  font-size: 12px !important;
+}
+
+/* wellness pop up css ends   */
+
+/* awards-band starts */
+.new-awards-box-wrapper {
+  position: fixed;
+  top: 170px;
+  right: 3px;
+  width: 320px;
+}
+
+.new-awards-box-wrapper .awards-update-info-wrapper .awards-update-info {
+  width: 100%;
+  float: left;
+}
+
+.new-awards-box-wrapper .awards-update-info-wrapper .awards-update-info img {
+  max-width: 100%;
+}
+
+.new-awards-box-wrapper .awards-new-info-slides.active-label:after {
+  content: "";
+  position: absolute;
+  right: 31%;
+  top: 55%;
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+  transform: translate(-50%, -50%) rotate(-135deg);
+}
+
+.new-awards-box-wrapper .awards-band-box {
+  top: 0;
+  right: 0;
+  position: absolute;
+  z-index: 9;
+  background: #cc6c16;
+  padding: 7px 6px 4px 25px;
+  cursor: pointer;
+  display: none !important;
+}
+
+.new-awards-box-wrapper .awards-band-box:after {
+  position: absolute;
+  top: 50%;
+  left: 15px;
+  width: 10px;
+  height: 10px;
+  border-top: 2px solid #fff;
+  border-left: 2px solid #fff;
+  content: "";
+  transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+.new-awards-box-wrapper
+  .awards-band-box
+  .awards-wrapper-box
+  .close-awards-band {
+  position: absolute;
+  top: 38px;
+  width: auto;
+  right: 4px;
+  z-index: 9999;
+  color: #fff;
+  border: 1px solid #fff;
+  border-right: none;
+  border-top: none;
+  font-size: 12px;
+  padding: 1px 4px;
+  cursor: pointer;
+}
+
+.new-awards-box-wrapper .awards-new-info-slides {
+  top: 170px;
+  background: #cc6c16;
+  position: fixed;
+  right: 3px;
+  z-index: 999;
+  padding: 12px 0;
+  text-align: center;
+  color: #fff;
+  width: 320px;
+  font-size: 15px;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  transform: translate(107%);
+}
+.new-awards-box-wrapper .awards-new-info-slides.active-label {
+  transform: translate(0);
+}
+
+.new-awards-box-wrapper .awards-wrapper-box .close-awards-band {
+  position: fixed;
+  top: 170px;
+  width: auto;
+  right: 4px;
+  z-index: 9999;
+  color: #fff;
+  border: 1px solid #fff;
+  border-right: none;
+  border-top: none;
+  font-size: 12px;
+  padding: 1px 4px;
+  cursor: pointer;
+}
+
+.new-awards-box-wrapper .awards-update-info-wrapper {
+  position: fixed;
+  right: 3px;
+  width: 320px;
+  background: #fff;
+  top: 213px;
+  z-index: 999;
+  padding: 12px;
+  transform: translateX(108%);
+  box-shadow: -2px 4px 12px #323232;
+  transition: 0.2s ease-in;
+  -webkit-transition: 0.2s ease-in;
+  -moz-transition: 0.2s ease-in;
+  -o-transition: 0.2s ease-in;
+  display: none !important;
+}
+
+.new-awards-box-wrapper .awards-update-info-wrapper.active-awards-info {
+  transform: translateX(0);
+}
+
+.new-awards-box-wrapper .awards-update-info-wrapper .awards-update-info {
+  font-size: 13px;
+  font-family: "Roboto", sans-serif;
+  line-height: 170%;
+  text-align: center;
+  padding: 6px;
+  font-weight: 400;
+  color: #000;
+  /*  border: 1px solid #f6e5d6;*/
+  float: left;
+}
+
+.new-awards-box-wrapper
+  .awards-update-info-wrapper
+  .awards-update-info
+  span.award-year {
+  font-weight: bold;
+}
+
+.awards-new-info-slides .slick-prev {
+  position: absolute;
+  content: "";
+  left: 0px;
+  height: 100% !important;
+  z-index: 999;
+  background: #cc6c16 !important;
+  padding-left: 30px;
+  width: 20px !important;
+}
+
+.awards-new-info-slides button.slick-prev:before {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(0%, -50%) rotate(-45deg);
+  content: "";
+  border-top: 1px solid #fff;
+  border-left: 1px solid #fff;
+  width: 10px;
+  height: 10px;
+}
+
+.awards-new-info-slides .slick-next {
+  position: absolute;
+  content: "";
+  right: 0px;
+  height: 100% !important;
+  background: #cc6c16 !important;
+  z-index: 999;
+  padding-right: 30px;
+  width: 20px !important;
+}
+
+.awards-new-info-slides button.slick-next:before {
+  position: absolute;
+  top: 50%;
+  left: 35%;
+  transform: translate(-200%, -50%) rotate(45deg);
+  content: "";
+  border-top: 1px solid #fff;
+  border-right: 1px solid #fff;
+  width: 10px;
+  height: 10px;
+  border-left: none;
+}
+
+/* awards-band ends */
+
+/*  new nps starts */
+
+html {
+  scroll-behavior: smooth;
+}
+
+.new-survey-wrapper .survey-box-2 ul li strong {
+  font-weight: normal;
+}
+
+.nps-black-overlay {
+  position: fixed;
+  z-index: 9999;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  left: 0;
+  top: 0;
+}
+.aqi-pm2-box-options {
+  width: 100%;
+  float: left;
+  margin: 20px 0 0 0;
+  position: relative;
+}
+input#opt-val-Y,
+input#opt-val-N {
+  opacity: 0;
+}
+
+.aqi-pm2-box-options label {
+  margin-left: 10px;
+  position: relative;
+  font-family: "EB Garamond", serif;
+  font-size: 18px;
+}
+
+.aqi-pm2-box-options label:after {
+  position: absolute;
+  content: "";
+  width: 10px;
+  height: 10px;
+  border: 1px solid #999;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  left: -23px;
+  top: 3px;
+  background: #fff;
+}
+
+.aqi-pm2-box-options.active label:after {
+  border: 1px solid #d8741b;
+  background: #d8741b;
+}
+
+.survey-quiz .error-message-nps {
+  width: 95%;
+  font-size: 11px;
+  margin-top: 55px;
+  margin-left: 5%;
+  float: left;
+  color: red;
+  display: none;
+}
+
+.survey-quiz .error-message-nps.aqi-pm2-box {
+  margin-top: 10px;
+}
+
+.new-survey-wrapper {
+  position: absolute;
+  z-index: 99999;
+  background: #fff;
+  width: 100%;
+  top: 0;
+  left: 0;
+  padding: 10px 20px;
+  overflow-y: auto;
+}
+
+.new-survey-wrapper .survey-form-wrapper {
+  width: 100%;
+  float: left;
+}
+.new-survey-wrapper .close-survey {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  border: 1px solid #ccc;
+  border-top: none;
+  border-right: none;
+  padding: 3px 6px;
+  cursor: pointer;
+}
+.new-survey-wrapper .survey-box-1 {
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+.new-survey-wrapper .survey-box-1 .survey-desc {
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 30px;
+  text-align: center;
+  display: block;
+}
+.new-survey-wrapper .survey-box-1 p {
+  font-family: "EB Garamond", serif;
+  font-size: 18px !important;
+}
+
+.new-survey-wrapper .survey-box-2 {
+  width: 64%;
+  padding: 25px 50px;
+  border-left: 2px solid #dba504;
+  border-right: 2px solid #dba504;
+  position: relative;
+  box-sizing: border-box;
+  display: inline-block;
+  margin: 0 auto;
+  margin-left: 18%;
+  margin-top: 20px;
+}
+
+.new-survey-wrapper .survey-box-2:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2px;
+  background: url("https://www.oberoihotels.com/images/OberoiHotels/after-bg-survey-box.png") center top
+    no-repeat;
+  width: 100%;
+  background-size: 100%;
+}
+
+.new-survey-wrapper .survey-box-2:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 2px;
+  background: url("https://www.oberoihotels.com/images/OberoiHotels/after-bg-survey-box.png") center top
+    no-repeat;
+  width: 100%;
+  background-size: 100%;
+}
+input.answer-text-box {
+  width: 35%;
+  float: left;
+  border-bottom: 1px solid #ccc;
+  margin-top: 20px;
+  font-family: "EB Garamond", serif;
+  font-size: 15px;
+  position: absolute;
+  left: 10%;
+  bottom: 0px;
+  display: none;
+}
+
+.new-survey-wrapper .survey-box-2 .submit-survey {
+  width: 100%;
+  float: left;
+  text-align: center;
+  margin-top: -20px;
+}
+.new-survey-wrapper .survey-box-2 .submit-survey a {
+  width: 140px;
+  padding: 10px 0;
+  text-align: center;
+  background: #d8741b;
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #fff;
+  display: inline-block;
+}
+
+.new-survey-wrapper .survey-box-2 p {
+  font-family: "EB Garamond", serif;
+  font-size: 18px !important;
+}
+
+.new-survey-wrapper .survey-box-2 ul {
+  list-style: none;
+  width: 85%;
+  padding: 0;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.new-survey-wrapper .survey-box-2 ul li {
+  float: left;
+  margin-right: 26px;
+  font-family: "EB Garamond", serif;
+  font-size: 15px;
+  position: relative;
+  border: 1px solid #676868;
+  border-radius: 50%;
+  text-align: center;
+  padding: 5px 0;
+  width: 30px;
+  cursor: pointer;
+  background: #fff;
+  color: #000;
+}
+
+.new-survey-wrapper .survey-box-2 ul li.active {
+  border-color: #d8741b;
+  background: #d8741b;
+  color: #fff;
+}
+.new-survey-wrapper .survey-box-2 ul li span {
+  display: block;
+  text-align: center;
+  position: absolute;
+  left: -15px;
+  top: 36px;
+  font-size: 15px;
+  color: #000;
+}
+
+.new-survey-wrapper .survey-box-2 .survey-quiz {
+  width: 100%;
+  float: left;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+}
+
+/* new nps ends */
+
+.oberoiRooms .oberoiRooms-slider .slick-prev {
+  left: 16.5% !important;
+}
+.oberoiRooms .oberoiRooms-slider .slick-next {
+  right: 16.5% !important;
+}
+
+.newspa.experiences .left-section .title {
+  display: none;
+}
+.new-offer-slider-box {
+  width: 100%;
+  float: left;
+}
+
+.new-offer-slider-box .new-offer-details {
+  width: 33.33%;
+  float: left;
+  text-align: center;
+  min-height: 175px;
+  padding: 20px;
+}
+
+.new-offer-slider-box .new-offer-details.cenetrallyaligned-items {
+  margin-left: 15%;
+}
+.section.submit-claim-wrapper.book-direct-wrapp {
+  margin-bottom: 30px;
+}
+
+.banner div .banner-image .headerBannerWrapper {
+  text-shadow: none !important;
+}
+
+.nWidth100 {
+  width: 100%;
+  display: flex;
+}
+.nWidth60 {
+  width: 100%;
+  margin-right: 0;
+}
+.nWidth35 {
+  width: 43%;
+  display: none;
+}
+.nWidth35 p {
+  text-align: center;
+}
+.nWidth35 a {
+  text-decoration: none;
+  color: #d8741b;
+  font-size: 12px;
+}
+/*   iftaar box css start */
+
+.form-field-new-wrapper .field-box .form-field-new.reverse .t-datepicker-day {
+  top: auto;
+  bottom: 0;
+}
+
+.form-field-new-wrapper .field-box .form-field-new .t-datepicker-day {
+  top: 0px;
+  bottom: auto;
+}
+
+.form-field-new-wrapper .field-box .form-field-new .t-dates {
+  height: 40px;
+}
+
+.form-field-new-box.booktable {
+  width: 100%;
+  float: left;
+}
+.form-field-new-box.booktable .t-dates.t-date-check-in {
+  background: url(https://www.oberoihotels.com/images/oberoihotels/booking-engine/calender-icon.jpg) right
+    20px top 18px no-repeat;
+  background-size: 7%;
+  font-size: 15px;
+  color: #999;
+  font-family: "Roboto", sans-serif;
+  padding-left: 0;
+}
+
+.form-field-new-box.booktable .form-field-new.calenderBox {
+  width: 49%;
+  float: left;
+  margin-right: 1%;
+}
+
+.form-field-new-box.booktable .form-field-new.timing-box {
+  width: 49% !important;
+  margin-right: 1%;
+  float: left;
+}
+.form-field-new-box.booktable .form-field-new.timing-box select {
+  width: 100%;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  padding: 14px 5px 5px 0;
+  color: #999;
+  border-bottom: 1px solid #ccc;
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  background: url("../../images/OberoiHotels/oberoi-one/select-box-arrow.png")
+    top 20px right 10px no-repeat;
+  height: 41px;
+}
+
+.form-field-new-box.booktable .t-check-in {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+}
+
+.form-field-new-wrapper {
+  width: 400px;
+  float: left;
+  margin-top: -10px;
+}
+.form-field-new-wrapper h3,
+.form-field-new-wrapper h2 {
+  font-size: 18px;
+  margin-bottom: 5px;
+  font-family: "EB Garamond", serif;
+  font-weight: 500;
+  text-align: center;
+  padding-bottom: 5px;
+  box-shadow: 0px 2px 2px #ccc;
+  width: 26%;
+  float: left;
+}
+.form-field-new-wrapper .field-box {
+  width: 100%;
+  float: left;
+}
+.form-field-new-wrapper .field-box .form-field-new {
+  width: 100%;
+  float: left;
+  margin-bottom: 8px;
+}
+.form-field-new-wrapper .field-box .form-field-new.name-field {
+  width: 49%;
+  margin-right: 1%;
+}
+.form-field-new-wrapper .field-box .form-field-new.tel-field,
+.form-field-new-wrapper .field-box .form-field-new.email-field {
+  width: 99%;
+}
+.form-field-new-wrapper .field-box .form-field-new input {
+  color: #000;
+  width: 100%;
+  float: left;
+  border-bottom: 1px solid #ccc;
+  background: none;
+  padding: 5px 5px 5px 0;
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  height: 40px;
+}
+
+.form-field-new-wrapper .field-box .form-field-new a.sbmt-btn-new {
+  width: 100px !important;
+  background: #d8741b;
+  color: #fff !important;
+  text-transform: uppercase;
+  border: none !important;
+  padding: 7px 5px !important;
+  float: left;
+  text-align: center;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.form-field-new-wrapper .field-box .form-field-new a.sbmt-btn-new.processing {
+  background: url(https://www.oberoihotels.com/images/oberoihotels/login-loading.gif) center center #d8751b
+    no-repeat !important;
+}
+
+.form-field-new-wrapper .field-box .form-field-new .error-message-new {
+  width: 100%;
+  float: left;
+  font-size: 10px;
+  color: red;
+  padding: 0 5px;
+  margin: 2px 0 0 0;
+  display: none;
+}
+.description-col .thanks-you-message {
+  width: 400px;
+  float: left;
+  text-align: center;
+  color: green;
+  padding: 20px;
+  display: none;
+}
+/*   iftaar box css end */
+
+/* porgam closed css starts */
+.black-overlay-box {
+  position: fixed;
+  z-index: 3;
+  background: rgba(0, 0, 0, 0.7);
+  width: 100%;
+  height: 100%;
+  top: 0;
+}
+.thank-you-message-pop-up-box {
+  color: green;
+  font-size: 15px;
+  text-align: center;
+  display: none;
+}
+.pop-up-page-disabled {
+  width: 50%;
+  padding: 20px;
+  background: #fff;
+  position: fixed;
+  z-index: 5;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  line-height: 150%;
+}
+.pop-up-page-disabled .close-btn-hp {
+  position: absolute;
+  top: -1px;
+  right: 0;
+}
+.program-closed-copy {
+  width: 100%;
+  float: left;
+  margin-top: 20px;
+}
+.pop-up-page-disabled .close-btn-hp a {
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  color: #000;
+  padding: 1px 5px;
+  border-left: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+.forms-field-wrapper-box-new {
+  width: 100%;
+  float: left;
+  margin-top: 20px;
+}
+.form-field-new-pop-up-box {
+  width: 100%;
+  float: left;
+  margin-bottom: 10px;
+}
+
+.form-field-new-pop-up-box input[type="email"] {
+  width: 65%;
+  margin: 0 auto;
+  text-align: center;
+  border-bottom: 1px solid #999;
+  padding: 5px;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+}
+.form-field-new-pop-up-box .error-msg-pop-up-box {
+  width: 65%;
+  font-size: 10px;
+  color: red;
+  margin: 0 auto;
+  display: none;
+}
+.form-field-new-pop-up-box .submit-button-pop-up-box {
+  margin-top: 10px;
+}
+.form-field-new-pop-up-box .submit-button-pop-up-box a {
+  width: 100px !important;
+  text-align: center;
+  background: #d8741b;
+  padding: 4px 0;
+  display: inline-block;
+  color: #fff;
+  text-decoration: none;
+  font-size: 15px;
+}
+/* porgam closed css ends */
+
+.globalsingleImageSlider {
+  width: 100%;
+  float: left;
+}
+.globalsingleImageSlider .slick-prev {
+  width: 45px;
+  height: 45px;
+  left: 0px;
+  background: url(https://www.oberoihotels.com/images/OberoiHotels/slider-arrow.jpg) no-repeat left center;
+  z-index: 9;
+}
+.globalsingleImageSlider .slick-prev:before {
+  content: "";
+}
+.globalsingleImageSlider .slick-next {
+  width: 45px;
+  height: 45px;
+  right: 0px;
+  z-index: 9;
+  background: url(https://www.oberoihotels.com/images/OberoiHotels/slider-arrow.jpg) no-repeat right center;
+}
+.globalsingleImageSlider .slick-next:before {
+  content: "";
+}
+.image-and-description-with-legend-attributes-option-3
+  .img-col
+  .globalsingleImageSlider
+  img {
+  width: 100%;
+}
+
+.christmas-marketing-assets {
+  width: 100%;
+  float: left;
+  margin: 30px 0;
+}
+.christmas-marketing-assets img {
+  width: 100%;
+}
+.christmas-marketing-assets.desk-only {
+  display: block;
+}
+.christmas-marketing-assets.mob-only {
+  display: none;
+}
+.marketing-asset-offer-section.marketing-asset-img {
+  padding: 20px;
+}
+.queries-btn a {
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  color: #000;
+  position: relative;
+  padding-left: 30px;
+}
+.queries-btn a:after {
+  position: absolute;
+  left: 0;
+  top: 3px;
+  width: 10px;
+  height: 10px;
+  border: 1px solid #000;
+  content: "";
+  border-radius: 50%;
+}
+
+.marketing-asset-offer-section.marketing-asset-img {
+  padding: 20px;
+}
+/*rooom size fixing*/
+.phn-time li > span:first-child {
+  width: 30% !important;
+}
+.phn-time li > span {
+  width: 55% !important;
+}
+
+.oberoiRooms-slide .slidesText .phn-time li {
+  display: inline-block;
+  margin-right: 10px;
+  width: 100% !important;
+  float: left !important;
+}
+
+/*rooom size fixing*/
+
+.contact-us-page .col-50 {
+  position: relative;
+}
+.contact-us-page .col-50 .feedback-us-link {
+  position: absolute;
+  top: 0;
+  left: 40%;
+}
+.contact-us-page .col-50 .feedback-us-link a {
+  color: #000;
+  font-weight: 600;
+  text-decoration: none;
+  font-size: 15px;
+}
+.safety-hygeine-box-default {
+  top: 116px;
+  right: 3px;
+  position: fixed;
+  z-index: 9;
+  background: #cc6c16;
+  padding: 7px 6px 4px 25px;
+  cursor: pointer;
+}
+.covid-band-main-wrapper-box {
+  position: relative;
+}
+.settings-detail .settings-type-wrapper {
+  width: 100%;
+  float: left;
+  margin-top: 20px;
+}
+.settings-detail .settings-type-wrapper .settings-type {
+  width: 33.33%;
+  float: left;
+}
+.button-box.button-box-1 {
+  display: none !important;
+}
+.covid-band-main-wrapper-box .close-covid-band {
+  position: fixed;
+  top: 116px;
+  width: auto;
+  right: 4px;
+  z-index: 9999;
+  color: #fff;
+  border: 1px solid #fff;
+  border-right: none;
+  border-top: none;
+  font-size: 12px;
+  padding: 1px 4px;
+  cursor: pointer;
+  display: none;
+}
+.hotel-pages .covid-band-main-wrapper-box .close-covid-band {
+  top: 116px;
+}
+
+.safety-hygeine-box-default:after {
+  position: absolute;
+  top: 50%;
+  left: 15px;
+  width: 10px;
+  height: 10px;
+  border-top: 2px solid #fff;
+  border-left: 2px solid #fff;
+  content: "";
+  transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+/* cookie page css starts */
+footer {
+  margin-bottom: 0px;
+}
+.cookie-black-popup-overlay {
+  position: fixed;
+  background: rgba(0, 0, 0, 0.7);
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 999;
+  display: none;
+}
+.cookie-setting-confirmations-button {
+  width: 100%;
+  float: left;
+  padding: 20px 0 10px 0;
+  text-align: center;
+}
+.cookie-setting-confirmations-button a {
+  padding: 3px 0;
+  background: #cc6c16;
+  color: #fff;
+  font-size: 14px;
+  text-align: center;
+  border-radius: 5px;
+  width: 180px;
+  display: inline-block;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.cookie-settings-wrapper {
+  position: fixed;
+  width: 50%;
+  padding: 20px;
+  background: #fff;
+  z-index: 9999;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  line-height: 180% !important;
+  display: none;
+}
+.cookie-settings-wrapper .close-settings {
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 0px 9px;
+  border: 1px solid #ccc;
+  font-size: 15px;
+  cursor: pointer;
+}
+.cookie-settings-wrapper .close-settings .settings-type {
+  width: 100%;
+  float: left;
+}
+.cookie-settings-wrapper
+  .settings-detail
+  .settings-type-wrapper
+  .settings-type
+  label {
+  margin-left: 10px;
+}
+.cookie-box-wrapper {
+  width: 100%;
+  position: fixed;
+  background: #fff;
+  bottom: 0;
+  padding: 10px 0;
+  box-shadow: 0px 0px 10px 3px rgb(0 0 0 / 10%);
+  z-index: 99999;
+}
+
+.cookie-box-copy-and-buttons {
+  width: 94%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+.cookie-consent-text {
+  width: 60%;
+  margin: 10px 0;
+  padding-left: 0;
+  float: left;
+  margin-left: 7.5%;
+  text-align: right;
+}
+
+.cookie-consent-text p {
+  font-size: 12px;
+}
+
+.cookie-buttons-wrapper {
+  width: 15%;
+  margin: 0 auto;
+  text-align: center;
+  float: left;
+  margin-top: 5px;
+  margin-right: 5.5%;
+  margin-left: 2%;
+}
+
+.cookie-buttons-wrapper .button-box {
+  width: auto;
+  float: left;
+  margin-right: 5%;
+  border: 1px solid #cc6c16;
+  padding: 7px 30px;
+  text-transform: uppercase;
+  font-size: 12px;
+  color: #000;
+  background: #fff;
+  cursor: pointer;
+}
+.cookie-buttons-wrapper .button-box.button-box-2 {
+  background: #cc6c16;
+  color: #fff;
+}
+.cookie-buttons-wrapper .button-box.button-box-2 a {
+  text-decoration: none;
+  color: #fff;
+}
+.grey-text {
+  color: #c5c5c5;
+}
+/* cookie page css ends */
+
+.home-page-link {
+  color: #fff;
+  font-family: "EB Garamond", serif !important;
+  background: none !important;
+  font-size: 32px !important;
+  text-align: center;
+}
+.home-page-link span.award-txt {
+  font-size: 20px;
+}
+.desktop-visible-only {
+  display: none !important;
+}
+.dekstop-hidden-only {
+  display: none !important;
+}
+.marketing-asset-offer-section .marketing-asset-limited-preiod-offer img {
+  max-width: 100%;
+}
+/* global marketing assets */
+.global-marketing-assets-box-wrapper {
+  width: 100%;
+  float: left;
+  margin: 20px 0 50px 0;
+  box-shadow: 1px 4px 13px #ccc;
+  padding: 30px 25px 20px 25px;
+}
+
+.oberoi-book-direct-marketing-assets-box {
+  width: 20%;
+  float: left;
+}
+
+.oberoi-book-direct-marketing-assets-box p a {
+  color: #000;
+  text-decoration: none;
+  font-size: 15px;
+}
+.oberoi-book-direct-marketing-assets-box img {
+  width: 100%;
+}
+
+.oberoi-book-direct-marketing-assets-box p {
+  font-size: 15px;
+  margin-top: 20px;
+}
+.oberoi-best-rate-guarantee-marketing-assets-box {
+  width: 16%;
+  float: left;
+  text-align: center;
+  margin: 0 2%;
+  border-left: 1px solid #e7d497;
+  border-right: 1px solid #e7d497;
+}
+.oberoi-best-rate-guarantee-marketing-assets-box p {
+  font-size: 15px;
+  margin: 18px 0;
+}
+.oberoi-one-marketing-assets-box {
+  width: 60%;
+  float: left;
+}
+.oberoi-one-marketing-assets-box .oberoi-one-offer-details-markting-assets {
+  width: 100%;
+  float: left;
+}
+.oberoi-one-marketing-assets-box .oberoi-one-offer-details-markting-assets ul {
+  width: 100%;
+  float: left;
+  list-style: none;
+}
+
+.oberoi-one-marketing-assets-box
+  .oberoi-one-offer-details-markting-assets
+  ul
+  li {
+  width: 32.33%;
+  float: left;
+  display: flex;
+  margin-bottom: 20px;
+  align-items: center;
+  margin-right: 1%;
+}
+.oberoi-one-marketing-assets-box
+  .oberoi-one-offer-details-markting-assets
+  ul
+  li
+  img {
+  width: 13%;
+}
+.oberoi-one-marketing-assets-box
+  .oberoi-one-offer-details-markting-assets
+  ul
+  li
+  p {
+  font-size: 14px;
+  margin-left: 10px;
+}
+.oberoi-one-marketing-assets-box
+  .oberoi-one-offer-details-markting-assets
+  .oberoi-one-cta-wrapper {
+  width: 100%;
+  float: left;
+}
+.know-more-button-markeeting-assets-cta {
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+
+.know-more-button-markeeting-assets-cta a {
+  background: #cc6c16;
+  color: #fff;
+  font-size: 13px;
+  position: relative;
+  padding: 7px 25px 7px 15px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  text-decoration: none;
+  display: inline-block;
+}
+.know-more-button-markeeting-assets-cta a:after {
+  position: absolute;
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-top: 1px solid #fff;
+  border-right: 1px solid #fff;
+  top: 53%;
+  right: 10px;
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+/* global marketing assets  ends */
+
+.marketing-asset-offer-section.homePageStyle
+  .marketing-asset-limited-preiod-offer {
+  width: 18% !important;
+}
+.marketing-asset-offer-section .marketing-asset-limited-preiod-offer {
+  width: 22% !important;
+}
+.bodyWrapMobile
+  .marketing-asset-offer-section.homePageStyle
+  #divHomePageAddClass {
+  width: 45% !important;
+}
+.marketing-asset-offer-section #divHomePageAddClass {
+  width: 60% !important;
+}
+.marketing-asset-offer-section .marketing-asset-saving p {
+  font-weight: 300 !important;
+}
+.marketing-asset-offer-section .marketing-asset-saving .m-saving {
+  margin-left: 30px;
+  font-family: "EB Garamond", serif;
+  font-size: 1.6em !important;
+  position: relative;
+}
+.marketing-asset-offer-section .marketing-asset-saving .m-saving:after {
+  content: "";
+  width: 163px;
+  height: 2px;
+  background: #d8741b;
+  position: absolute;
+  bottom: 7px;
+  display: block !important;
+  vertical-align: middle;
+  text-align: center;
+  left: 50% !important;
+  transform: translate(-50%, 0);
+}
+.login-box-wrapper {
+  width: 100%;
+  float: left;
+}
+.button-label-register {
+  font-size: 11px;
+  margin-bottom: 10px;
+  width: 50%;
+  float: left;
+}
+.button-label-o-one {
+  float: right;
+  font-size: 11px;
+  width: 50%;
+  text-align: right;
+  position: absolute;
+  right: -25px;
+}
+.blackBG-overlay {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+.green.pcImagesSuccess {
+  background: #fff;
+  z-index: 9;
+  position: fixed;
+  width: 60% !important;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: block;
+  padding: 20px;
+  text-align: center;
+  top: 50%;
+  float: none;
+}
+.crossButton {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  font-weight: bold;
+  border-left: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  padding: 5px;
+  line-height: 98%;
+}
+.deviceDisplayImageTest {
+  position: relative;
+}
+.camera-icon-click {
+  position: absolute;
+  top: 45%;
+  left: 54.5%;
+  width: 60px;
+  transform: translate(-50%, -50%);
+}
+
+/*.login-banner img:hover{
+  cursor: crosshair;
+}*/
+
+.user-account-access-Oone .loginBox-seperator.txt {
+  top: 20px;
+}
+
+.covid-band {
+  position: fixed !important;
+}
+.covid-band.new-info-slides {
+  width: 320px;
+  transition: all ease-in 0.2s;
+  transform: translate(107%);
+}
+.covid-band.new-info-slides.active-band {
+  transform: translate(0);
+}
+.covid-band.new-info-slides button.slick-prev.slick-arrow {
+  position: absolute;
+  content: "";
+  left: 0px;
+  height: 100% !important;
+  z-index: 999;
+  background: #cc6c16 !important;
+  padding-left: 30px;
+  width: 20px !important;
+}
+.covid-band.new-info-slides button.slick-next.slick-arrow {
+  position: absolute;
+  content: "";
+  right: 0px;
+  height: 100% !important;
+  background: #cc6c16 !important;
+  z-index: 999;
+  padding-right: 30px;
+  width: 20px !important;
+}
+.covid-band.new-info-slides button.slick-prev.slick-arrow:hover,
+.covid-band.new-info-slides button.slick-next.slick-arrow:hover {
+  background: #fd9310;
+}
+.covid-update-info-wrapper.safety-hygiene-content,
+.covid-update-info-wrapper.covid-advisory-content,
+.covid-update-info-wrapper {
+  width: 320px;
+}
+
+.covid-band.new-info-slides button.slick-prev.slick-arrow:before {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(0%, -50%) rotate(-45deg);
+  content: "";
+  border-top: 1px solid #fff;
+  border-left: 1px solid #fff;
+  width: 10px;
+  height: 10px;
+}
+.covid-band.new-info-slides button.slick-next.slick-arrow:before {
+  position: absolute;
+  top: 50%;
+  left: 35%;
+  transform: translate(-200%, -50%) rotate(45deg);
+  content: "";
+  border-top: 1px solid #fff;
+  border-right: 1px solid #fff;
+  width: 10px;
+  height: 10px;
+  border-left: none;
+}
+
+.covid-band:after {
+  display: none;
+}
+
+.new-info-slides .information-label {
+  position: relative;
+  padding-right: 15px;
+}
+
+.covid-band.new-info-slides button.slick-arrow.slick-disabled {
+  opacity: 0;
+}
+
+.new-info-slides .information-label:after {
+  content: " ";
+  border-bottom: 2px solid #fff;
+  border-right: 2px solid #fff;
+  top: 50%;
+  margin-top: -6px;
+  height: 7px;
+  right: 20%;
+  position: absolute;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+  width: 7px;
+  z-index: 2;
+  transition: 0.3s ease-in;
+  -webkit-transition: 0.3s ease-in;
+  -moz-transition: 0.3s ease-in;
+  -o-transition: 0.3s ease-in;
+}
+.covid-band.covid-band-active .information-label:after {
+  margin-top: -2px;
+  -webkit-transform: rotate(222deg);
+  -ms-transform: rotate(222deg);
+  -o-transform: rotate(222deg);
+  transform: rotate(222deg);
+  transition: 0.3s ease-in;
+  -webkit-transition: 0.3s ease-in;
+  -moz-transition: 0.3s ease-in;
+  -o-transition: 0.3s ease-in;
+}
+
+.c-main-wrap {
+  width: 100%;
+  max-width: 480px;
+  position: absolute;
+  left: 0;
+  z-index: 10;
+  top: 57px;
+  display: none;
+  font-family: Roboto, sans-serif;
+}
+.c-main-wrap .yearWrap {
+  background: #fff;
+}
+
+.two-col-section .c-main-wrap {
+  top: 104px;
+  max-width: 494px;
+}
+
+.c-main-wrap .c-main-container {
+  border-top: 1px solid #a3a3a3;
+  background: #fff;
+}
+
+.c-main-wrap .c-row {
+  border-bottom: 1px solid #a3a3a3;
+  display: flex;
+}
+
+.c-main-wrap .c-col {
+  width: 41%;
+  border-right: 1px solid #a3a3a3;
+}
+
+.c-main-wrap .c-col.c-month-col {
+  width: 18%;
+  border-left: 1px solid #a3a3a3;
+}
+
+.c-main-wrap .c-offer-night-row {
+  display: flex;
+}
+
+.c-main-wrap .c-offer-night-col {
+  width: 50%;
+  text-align: center;
+  border-right: 1px solid #a3a3a3;
+}
+
+.c-main-wrap .c-offer-night-col:last-child {
+  border-right: none;
+}
+
+.c-main-wrap .c-date-row {
+  display: flex;
+  height: 100%;
+}
+
+.c-main-wrap .c-date {
+  padding: 2px;
+  border: 1px solid #a3a3a3;
+  width: 18px;
+  text-align: center;
+  display: inline-block;
+  cursor: default;
+  margin: 0 3px 0 0;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.c-main-wrap .c-date:hover {
+  background: #d57700;
+  color: #fff;
+}
+
+.c-main-wrap .c-date-col-2 {
+  width: 50%;
+  text-align: center;
+  border-right: 1px solid #a3a3a3;
+  padding: 10px 0;
+}
+
+.c-main-wrap .c-date-col-2:last-child {
+  border-right: none;
+}
+
+.c-main-wrap .c-col.c-month-col .c-col-txt {
+  text-align: left;
+}
+
+.c-main-wrap .c-col-txt {
+  padding: 8px 10px;
+  display: block;
+  text-align: center;
+  font-size: 14px;
+}
+
+.c-main-wrap .dateSelected {
+  background: #d57700;
+  color: #fff;
+}
+
+.c-main-wrap .dynamic-cruise-calendar-data .c-row {
+  display: none;
+}
+
+.c-main-wrap .dynamic-cruise-calendar-data .row-2022 {
+  display: flex;
+}
+
+.c-main-wrap .disabledDate {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.c-main-wrap .yearWrap a {
+  color: #272727;
+}
+
+.c-main-wrap .c-nav {
+  position: relative;
+  padding: 10px;
+}
+
+.c-main-wrap .c-nav ul {
+  list-style: none;
+}
+
+header .header-right-unit .right-side-menu .c-main-wrap .c-nav ul {
+  float: none;
+}
+
+header .header-right-unit .right-side-menu .c-main-wrap .c-nav ul li {
+  text-align: center;
+  color: #d8751b;
+  font-weight: 400;
+  float: none;
+  font-family: Roboto, sans-serif;
+  font-size: 0.9375em;
+}
+
+.c-main-wrap .c-nav ul li {
+  text-align: center;
+  color: #d8751b;
+  font-weight: 400;
+}
+
+.c-main-wrap .c-prv {
+  position: absolute;
+  left: 0;
+  top: 10px;
+}
+
+.c-main-wrap .c-nxt {
+  position: absolute;
+  right: 0;
+  top: 10px;
+}
+
+.c-main-wrap .noDisplay {
+  display: none;
+}
+
+.c-main-wrap .c-date:last-child {
+  margin-right: 0;
+}
+
+.c-main-wrap .c-btn-deactive {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.c-main-wrap .c-done-btn-mob {
+  display: none;
+}
+
+header .header-right-unit .right-side-menu .c-main-wrap {
+  left: 0;
+}
+
+header .header-right-unit .right-side-menu .c-main-wrap .c-nav {
+  background: #fff;
+}
+
+header .header-right-unit .right-side-menu .c-main-wrap .yearWrap a {
+  padding: 0 5px;
+  margin-right: 0;
+}
+
+.c-main-wrap .c-date-col-2 img {
+  vertical-align: middle;
+}
+
+.selectEmbarkationBox {
+  display: none;
+}
+
+.booking-engine.layout2 .selectEmbarkationBox,
+.booking-engine-oberoi-one.layout2 .selectEmbarkationBox {
+  display: none;
+}
+
+.booking-engine.layout2 .selectEmbarkationBox,
+.booking-engine-oberoi-one.layout2 .selectEmbarkationBox {
+  border-top: 1px solid #f3f3f3;
+  padding-top: 0;
+}
+
+.booking-engine.layout2 .cruiseCalenderDefaultScreen .t-check-out,
+.booking-engine.layout2 .cruiseCalenderDefaultScreen .t-date-check-in,
+.booking-engine-oberoi-one.layout2 .cruiseCalenderDefaultScreen .t-check-out,
+.booking-engine-oberoi-one.layout2
+  .cruiseCalenderDefaultScreen
+  .t-date-check-in {
+  display: none;
+}
+
+.booking-engine.layout2
+  .checkInCheckOut.cruiseCalenderDefaultScreen
+  .datesWrap
+  .label,
+.booking-engine-oberoi-one.layout2
+  .checkInCheckOut.cruiseCalenderDefaultScreen
+  .datesWrap
+  .label {
+  font-size: 20px;
+  padding: 8px 0;
+  line-height: 100%;
+}
+
+.booking-engine.layout2 .checkInCheckOut.cruiseCalenderDefaultScreen .datesWrap,
+.booking-engine-oberoi-one.layout2
+  .checkInCheckOut.cruiseCalenderDefaultScreen
+  .datesWrap {
+  pointer-events: none;
+}
+
+.booking-engine.layout2 .selectEmbarkationBox .selectedEmbarkationDtls,
+.booking-engine-oberoi-one.layout2
+  .selectEmbarkationBox
+  .selectedEmbarkationDtls {
+  display: none;
+}
+
+.booking-engine.layout2 .selectEmbarkationBox .selectEmbarkationTxt,
+.booking-engine-oberoi-one.layout2 .selectEmbarkationBox .selectEmbarkationTxt {
+  margin-top: 10px;
+}
+
+.booking-engine.layout2 .selectEmbarkationBox .selectedEmbarkationDtls,
+.booking-engine-oberoi-one.layout2
+  .selectEmbarkationBox
+  .selectedEmbarkationDtls {
+  margin-top: 5px;
+}
+
+.booking-engine.layout2 .selectEmbarkationBox .selectedEmbarNameWarp,
+.selectEmbarkationBox .selectedEmbarDateWarp,
+.booking-engine-oberoi-one.layout2
+  .selectEmbarkationBox
+  .selectedEmbarNameWarp {
+  display: inline-block;
+}
+
+.booking-engine.layout2 .selectEmbarkationBox .selectedEmbarCruiseName,
+.selectEmbarkationBox .selectedEmbarHypen,
+.selectEmbarkationBox .selectedEmbarkationDate,
+.booking-engine-oberoi-one.layout2
+  .selectEmbarkationBox
+  .selectedEmbarCruiseName {
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 400;
+}
+
+.booking-engine.layout2 .selectEmbarkationBox .selectedEmbarHypen,
+.booking-engine-oberoi-one.layout2 .selectEmbarkationBox .selectedEmbarHypen {
+  padding: 0 5px;
+}
+
+.booking-engine.layout2 .selectEmbarkationBox .selectedEmbarkationNight,
+.booking-engine-oberoi-one.layout2
+  .selectEmbarkationBox
+  .selectedEmbarkationNight {
+  font-size: 13px;
+  padding: 0 0 0 5px;
+}
+
+.availability-cta .boxColumn.bEnginepopUp.cruiseEmbarkationDatePopUP {
+  top: 42%;
+}
+
+.bookingEnginePopOverlay .close.cruiseEmbrClose {
+  top: 45%;
+}
+
+.dateDisabled {
+  pointer-events: none;
+}
+
+.availability-cta
+  .booking-engine.layout2
+  .checkInCheckOut
+  .datesWrap.dateDisabled
+  .t-dates
+  .t-day-check-in,
+.availability-cta
+  .booking-engine.layout2
+  .checkInCheckOut
+  .datesWrap.dateDisabled
+  .t-dates
+  .t-day-check-out,
+.availability-cta
+  .booking-engine-oberoi-one.layout2
+  .checkInCheckOut
+  .datesWrap.dateDisabled
+  .t-dates
+  .t-day-check-in,
+.availability-cta
+  .booking-engine-oberoi-one.layout2
+  .checkInCheckOut
+  .datesWrap.dateDisabled
+  .t-dates
+  .t-day-check-out {
+  color: #737373;
+}
+
+.bookingEnginePopOverlay .close {
+  cursor: pointer;
+  top: 51%;
+}
+
+.selectEmbarkationTxt {
+  font-size: 1.14em;
+}
+
+.itineraries-tab-section .c-main-wrap {
+  max-width: 100%;
+}
+
+.booking-engine.bkhOffset .cruiseSelected.checkInCheckOut,
+.booking-engine-oberoi-one.bkhOffset .cruiseSelected.checkInCheckOut {
+  cursor: pointer;
+}
+
+.mac-os .booking-engine.layout2 .nightsWrap select.ddlHotelOfferNights,
+.mac-os
+  .booking-engine-oberoi-one.layout2
+  .nightsWrap
+  select.ddlHotelOfferNights {
+  width: auto;
+  display: flex;
+  margin: 0 auto;
+}
+
+.cruiseSoldOutDate {
+  position: relative;
+  color: #bcbcbc;
+  pointer-events: none;
+}
+
+.cruiseSoldOutDate:after {
+  content: "";
+  position: absolute;
+  width: 1px;
+  height: 140%;
+  top: -3px;
+  right: 9px;
+  background: #a3a3a3;
+  transform: rotate(45deg);
+  font-weight: 700;
+}
+
+.c-bottom-sec {
+  text-align: center;
+  padding: 5px 10px;
+  background: #fff;
+}
+
+.c-bottom-sec .c-sold-out-info {
+  font-size: 11px;
+}
+
+.c-bottom-sec .c-sold-out-info img {
+  vertical-align: middle;
+  width: 15px;
+}
+
+.c-bottom-sec .c-sold-out-info span {
+  display: inline-block;
+  margin-left: 5px;
+  vertical-align: middle;
+  padding-top: 3px;
+}
+
+.c-bottom-sec .c-bottom-info-txt {
+  font-size: 11px;
+  margin-top: 4px;
+}
+
+.dining-awards-wrapper,
+.dinging-awards-box {
+  width: 100%;
+  float: left;
+}
+.awarded-hotel-name {
+  color: #bcad68;
+  font-size: 26px;
+  width: 100%;
+  float: left;
+}
+.banner-component-style1 img {
+  width: 100%;
+}
+
+.oberoiOneWrapper {
+  margin-bottom: 20px;
+}
+
+.award-details .awards-container .award-sub-heading > span {
+  display: block;
+}
+.deskOnlyDisplay {
+  display: none;
+}
+
+.menu-container .main-menu > li.mobMenuDisplay {
+  display: none;
+}
+
+/* christmas band css starts  */
+
+/* christmas band css starts  */
+
+.christmasBandWrapper {
+  position: fixed;
+  right: 5px;
+  top: 180px;
+  z-index: 999;
+  width: 315px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.christmasBandIcon {
+  float: right;
+  background: #fff;
+  text-align: center;
+}
+.christmasBandIcon img {
+  display: block;
+}
+
+.christmasOfferCopyWrapper {
+  width: 100%;
+  float: left;
+  background: url(https://www.oberoihotels.com/images/300x130_blank-banner-2023.jpg) center top no-repeat;
+  text-align: center;
+  transition: 0.5s ease;
+  position: absolute;
+  right: -110%;
+  top: 50px;
+  background-size: cover;
+}
+
+.christmasOfferCopyWrapper .close-cny-pop-up {
+  position: absolute;
+  padding: 3px 6px;
+  border: 1px solid #fff;
+  border-top: none;
+  border-right: none;
+  right: 0;
+  top: 0;
+  cursor: pointer;
+}
+
+.christmasOfferCopyWrapper.activeOffer {
+  right: 0;
+}
+
+.christmasOfferCopy {
+  float: left;
+  width: 100%;
+  padding: 30px 20px;
+}
+
+.christmasOfferCopy h2 {
+  font-size: 20px;
+  font-family: "EB Garamond", serif;
+  margin-bottom: 6px;
+  color: #fff;
+}
+
+.christmasOfferCopy p {
+  font-size: 24px;
+  color: #fff;
+  font-family: "EB Garamond", serif;
+}
+
+.knowMoreBtn {
+  float: left;
+  width: 100%;
+  margin: 20px 0 10px 0;
+}
+
+.knowMoreBtn a {
+  background: #d8741b;
+  text-decoration: none;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 300;
+  padding: 6px 10px;
+}
+/* christmas band css ends  */
+/* christmas band css ends  */
+.mo-destination-component .destination-slide .slidesText p {
+  color: #6ab8d9;
+  text-decoration: none;
+}
+
+.hotel-ratings-box .BW {
+  background: #d8741b;
+  border: 1px solid #d8741b;
+  color: #fff;
+  padding: 6px 8px;
+  font-weight: 300;
+  font-size: 0.9375em;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  -webkit-transition: 0.5s all ease-in-out;
+  -ms-transition: 0.5s all ease-in-out;
+  -o-transition: 0.5s all ease-in-out;
+  transition: 0.5s all ease-in-out;
+  min-width: 120px;
+  text-align: center;
+  display: inline-block;
+}
+/* .hotel-ratings-box .BW:hover{
+  background: #fff;
+  border: 1px solid #828282;
+  color: #828282;
+} */
+
+.seoPageWrapper .overview-page.booking-engine {
+  top: -85px;
+  float: left;
+}
+
+.slick-slider {
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
+}
+
+.image-and-description-with-legend-attributes-option-2
+  .description-col
+  .btn-wrap
+  .viewAvailabilityButton {
+  text-decoration: none;
+  background: #d8741b;
+  color: #fff;
+  padding: 7px 25px;
+  font-weight: 300;
+  text-transform: none;
+}
+.image-text-component-style1 .text-colm .tableBooking {
+  background: #d8741b;
+  color: #fff;
+  padding: 7px 25px;
+  font-weight: 300;
+  text-transform: none;
+}
+
+.marketing-asset-offer-section.homePageStyle
+  .marketing-asset-limited-preiod-offer {
+  width: 25%;
+}
+.bodyWrapMobile
+  .marketing-asset-offer-section.homePageStyle
+  .marketing-asset-saving {
+  width: 60% !important;
+}
+.marketing-asset-offer-section.homePageStyle .explore-btn a {
+  text-transform: uppercase !important;
+}
+.booking-engine-ev.exotic-vacation
+  #sendUsYourQuery
+  .greyBg
+  .formRow
+  select.ftrans {
+  width: 50px !important;
+}
+/*.section .luxuryHotelsInotehrCitySlider .hotels-in-agra-amarvilas-resort{display: none !important;}*/
+
+body.templateNewOfferPage {
+  padding-top: 108px;
+}
+
+.banner .slick-next {
+  /* width: 45px; */
+  height: 45px;
+  right: 30px;
+  z-index: 9;
+  /* background: url(https://www.oberoihotels.com/images/oberoihotels/slider-arrow.jpg) no-repeat right center; */
+}
+.banner .slick-prev {
+  /* width: 45px; */
+  height: 45px;
+  left: 30px;
+  /* background: url(https://www.oberoihotels.com/images/oberoihotels/slider-arrow.jpg) no-repeat left center; */
+  z-index: 9;
+}
+.banner .slick-prev:before,
+.banner .slick-next:before {
+  display: none;
+}
+
+/* .banner .slick-prev:hover, .banner .slick-prev:focus{
+  background: url(https://www.oberoihotels.com/images/oberoihotels/slider-arrow.jpg) no-repeat left center;
+}
+.banner .slick-next:hover, .banner .slick-next:focus{
+  background: url(https://www.oberoihotels.com/images/oberoihotels/slider-arrow.jpg) no-repeat right center;
+} */
+
+.banner div .banner-image .headerBannerWrapper {
+  line-height: 110%;
+  margin-bottom: 10px;
+}
+.banner div .banner-image .headerBannerWrapper > span {
+  display: block;
+  font-size: 65%;
+  margin-top: 0px !important;
+  margin-bottom: 15px !important;
+}
+
+.banner div .banner-image .headerBannerWrapper > br {
+  display: none;
+}
+.banner div .banner-image .headerBannerWrapper > a {
+  text-decoration: none;
+  position: relative;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  -webkit-transition: 0.5s all ease-in-out;
+  -ms-transition: 0.5s all ease-in-out;
+  -o-transition: 0.5s all ease-in-out;
+  transition: 0.5s all ease-in-out;
+
+  font-size: 15px;
+  background: #d8741b;
+  color: #fff;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.offersBookingInfoBox {
+  width: 100%;
+  float: left;
+  margin-bottom: 30px;
+}
+.offersBookingInfoBox .offersBookingInfoCol {
+  width: 50%;
+  float: left;
+}
+.offersBookingInfoBox .offersBookingInfoCol img {
+  width: 100%;
+}
+
+.offersBookingInfoBox .offersBookingInfoCol1 {
+  padding-right: 20px;
+}
+.offersBookingInfoBox .offersBookingInfoCol2 {
+  width: calc(50% - 20px);
+}
+.banner div .banner-image .headerBannerWrapper {
+  text-shadow: none !important;
+}
+.container-1270px {
+  clear: both;
+}
+
+/* marketing assets new  */
+.new-marketing-assets-home-page {
+  width: 100%;
+  float: left;
+  padding: 10px 24px;
+  box-shadow: #cccccc -3px 5px 5px;
+  margin: 20px 0 50px 0;
+}
+.new-marketing-assets-home-page .book-direct-logo {
+  width: 25%;
+  float: left;
+}
+.new-marketing-assets-home-page .book-direct-logo img,
+.new-marketing-assets-home-page ul.marking-assets-list-offers li img {
+  max-width: 100%;
+}
+.new-marketing-assets-home-page ul.marking-assets-list-offers {
+  width: 70%;
+  float: left;
+  margin-left: 5%;
+  list-style: none;
+}
+.new-marketing-assets-home-page ul.marking-assets-list-offers li {
+  width: 25%;
+  float: left;
+  text-align: center;
+}
+
+.marketing-assets-offers-page {
+  width: 100%;
+  float: left;
+  margin-top: 10px;
+}
+.marketing-assets-offers-page .marketing-assets-image-box {
+  width: 100%;
+  float: left;
+  /*margin-right: 2%;*/
+  border: 1px solid #ccc;
+}
+.marketing-offers-wrapper .assets-icon-box a img {
+  border-radius: 0 5px 5px 0;
+}
+.marketing-assets-offers-page .marketing-assets-image-box:last-child {
+  margin-right: 0px;
+}
+.marketing-offers-wrapper {
+  display: flex;
+  align-items: center;
+}
+/*.marketing-offers-wrapper.box-02{
+  margin-top: 10px;
+}*/
+.marketing-offers-wrapper .assets-icon-box {
+  width: 35%;
+  align-items: center;
+  text-align: center;
+}
+.marketing-offers-wrapper .assets-content-box {
+  text-align: center;
+  width: 65%;
+  padding: 5px;
+  margin-left: 0;
+}
+/*.marketing-offers-wrapper .assets-content-box  img{
+  width: 75%;
+}*/
+
+.marketing-offers-wrapper .assets-content-box .mumbai-offer-text {
+  font-size: 12px !important;
+  margin-bottom: 5px !important;
+}
+
+/*.marketing-offers-wrapper .assets-content-box img{
+  margin-bottom: 5px;
+}*/
+.marketing-offers-wrapper .assets-content-box p span,
+.assets-content-box p {
+  display: block;
+  font-weight: 400;
+  margin-bottom: 5px;
+}
+
+.marketing-offers-wrapper .assets-content-box p span.enroll-now-link {
+  display: inline !important;
+  color: #66b6d8 !important;
+}
+
+.marketing-offers-wrapper .assets-content-box p a {
+  display: inline !important;
+  color: #000 !important;
+  text-decoration: none;
+}
+
+.marketing-offers-wrapper .assets-content-box p span,
+.assets-content-box p span {
+  font-size: 12px;
+}
+span.not-a-member-text {
+  display: inline !important;
+}
+.alliance-partners-section-component .omo-alliance-details .logo img {
+  max-width: initial !important;
+}
+.mo-overlay .user-account-access-Oone .loginBox-seperator {
+  top: 14px;
+}
+/* marketing assets new */
+
+/* vaccinated people */
+
+.emp-vaccinated-box-wrapper {
+  width: 94%;
+  margin: 20px auto;
+}
+
+.ohr-vaccinated-content-wrapper {
+  box-shadow: 0 10px 10px -8px #000000;
+  border-bottom: 8px #d8751a solid;
+  display: flex;
+  align-items: center;
+}
+
+.ohr-vaccinated-content-wrapper .img-box {
+  width: 20%;
+  float: left;
+  padding: 10px;
+}
+.ohr-vaccinated-content-wrapper .img-box h2 {
+  font-size: 28px;
+  text-align: center;
+}
+.ohr-vaccinated-content-wrapper .content-box {
+  padding: 20px;
+}
+.ohr-vaccinated-content-wrapper .content-box p {
+  font-size: 20px !important;
+}
+
+/* vaccinated people */
+
+.share-component {
+  z-index: 998 !important;
+}
+
+.ohr-vaccinated-content-wrapper ul {
+  width: 96%;
+  float: left;
+  list-style: none;
+  padding: 0;
+}
+
+.ohr-vaccinated-content-wrapper ul li {
+  float: left;
+  width: 25%;
+  text-align: center;
+  margin-left: 0 !important;
+}
+.ohr-vaccinated-content-wrapper ul li h3 {
+  color: #000;
+}
+
+/*.c-notification-country-list li:last-child{display: none;}
+*/
+.heading-component > p {
+  max-width: 55% !important;
+}
+
+.offersBookingInfoCol.offersBookingInfoCol1 {
+  display: none;
+}
+.marketing-assets-offers-page .marketing-assets-image-box:first-child {
+  display: none;
+}
+
+.best-rate-guarantee-link {
+  text-align: right;
+  margin-right: 55px;
+  font-size: 11px;
+  margin-top: 8px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+.best-rate-guarantee-link a {
+  color: #d9bf60;
+  text-decoration: none;
+}
+.best-rate-guarantee-link img {
+  vertical-align: middle;
+  width: auto;
+}
+.best-rate-guarantee-link span {
+  margin-left: 5px;
+}
+
+.booking-engine.layout2 .best-rate-guarantee-link {
+  text-align: center;
+  margin-right: 0px;
+  position: relative;
+  top: -20px;
+}
+.booking-engine.layout2 .offerMsgWrap {
+  padding: 0px !important;
+  bottom: 45px;
+  position: absolute;
+}
+
+.booking-engine.layout2 .best-rate-guarantee-link a {
+  font-weight: bold !important;
+  font-size: 11px !important;
+}
+.availability-cta
+  .booking-engine.layout2.left
+  .checkInCheckOut
+  .datesWrap.dateDisabled {
+  display: none;
+}
+
+.christmasBox {
+  top: 160px;
+  right: 3px;
+  position: fixed;
+  z-index: 9;
+  background: #000;
+  padding: 4px 0px 2px 3px;
+  cursor: pointer;
+}
+.christmasBoxWrapper {
+  width: 320px;
+  position: fixed;
+  right: 3px;
+  background: #fff;
+  top: 210px;
+  z-index: 999;
+  padding: 12px;
+  transform: translateX(108%);
+  border: 2px solid #dca958;
+  transition: 0.6s ease-in;
+  -webkit-transition: 0.6s ease-in;
+  -moz-transition: 0.6s ease-in;
+  -o-transition: 0.6s ease-in;
+  background: url(https://www.oberoihotels.com/images/snow-bg.png) center top -70% no-repeat #fff;
+  background-size: 90%;
+}
+.christmasBoxWrapper .close-info-btn {
+  position: absolute;
+  top: 0px;
+  right: -1px;
+  padding: 2px 2px;
+  line-height: 100%;
+  cursor: pointer;
+}
+.christmasBoxWrapper .covid-update-info {
+  font-size: 13px;
+  font-family: "Roboto", sans-serif;
+  line-height: 170%;
+  text-align: center;
+  padding: 6px;
+  font-weight: 400;
+  color: #000;
+  float: left;
+  text-align: center;
+  width: 100%;
+  padding-top: 60px;
+}
+.christmasBoxWrapper .covid-update-info h2 {
+  font-family: "EB Garamond", serif;
+  font-size: 1.8em !important;
+  font-weight: 400;
+}
+.christmasBoxWrapper .covid-update-info p {
+  margin: 8px 0px;
+}
+.christmasBoxWrapper .covid-update-info .know-more-abt-covid {
+  width: 100%;
+  margin: 7px auto;
+  text-align: center;
+}
+.christmasBoxWrapper .covid-update-info .know-more-christmasBox a {
+  width: 90px;
+  background: #cc6c16;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 400;
+  padding: 4px 0;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.openXmas {
+  transform: translateX(0);
+}
+.christmasBoxWrapper .covid-update-info a {
+  color: #000;
+  text-decoration: none;
+}
+.hotelChooseChildInfoWrap {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff;
+  padding: 20px 30px;
+  border-radius: 10px;
+  font-family: "Roboto", sans-serif;
+  z-index: 999;
+}
+
+.hotelChooseChildInfoWrap p {
+  font-size: 15px;
+}
+.hotelChooseChildInfoWrap .hotelChooseChildInfoDetailsRow {
+  display: flex;
+  width: 100%;
+  border: 1px solid grey;
+  align-items: center;
+}
+.hotelChooseChildInfoWrap .hotelChooseChildInfoDetailsColLeft {
+  width: 50%;
+  border-right: 1px solid grey;
+}
+.hotelChooseChildInfoWrap .hotelChooseChildInfoDetailsColRight {
+  width: 50%;
+  text-align: center;
+}
+.hotelChooseChildInfoWrap .hotelChooseChildInfoDetailsRow ul li {
+  list-style: none;
+  border-bottom: 1px solid grey;
+  padding-bottom: 4px;
+  font-weight: 300;
+  padding: 10px 5px;
+  font-size: 15px;
+}
+.hotelChooseChildInfoDetailsCol ul li:last-child {
+  border: none;
+}
+.hotelChooseChildInfoWrap .hotelChooseChildInfoPara {
+  margin-bottom: 10px;
+  font-weight: 300;
+}
+.hotelChooseChildInfoWrap .hotelChooseChildInfoPara a {
+  color: #000;
+  text-decoration: none;
+}
+.hotelChooseChildInfoDetails p {
+  margin-bottom: 10px;
+}
+
+.hotelChooseChildInfoCloseBtn {
+  position: absolute;
+  top: 0px;
+  right: 10px;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+.hotelChooseChildInfoWrapOverlay {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  background: #000;
+  opacity: 0.8;
+  z-index: 999;
+  height: 100%;
+}
+
+.hotelChooseChildInfoErrorMsg {
+  color: red;
+  font-size: 11px;
+
+  display: none;
+}
+.hotelChooseChildInfoCheckBox {
+  color: #000;
+  margin-top: 5px;
+  font-weight: 300;
+  font-size: 15px;
+}
+.safety-hygeine-box-default.noClick {
+  pointer-events: none;
+}
+.christmasBox.noClick {
+  pointer-events: none;
+}
+
+.banner-and-booking-widget .banner.udaivilas-banner,
+.banner .banner-slide .banner-image img.homePageBannerImg {
+  min-height: 500px;
+}
+.experiences .experiences-wraper .img-box {
+  min-height: 370px;
+}
+.banner-and-booking-widget .banner.udaivilas-banner .text-container {
+  min-height: 45px;
+}
+.banner .banner-slide .banner-layer {
+  min-height: 100px;
+}
+.covid-update-info-wrapper .close-info-btn {
+  display: none;
+}
+.bannerFixHeight {
+  height: 500px;
+  overflow: hidden;
+}
+.oberoiRooms-slide .slidesText .phn-time li span {
+  width: auto !important;
+  float: left;
+}
+.request-a-proposal-form
+  .sectionFormWrap
+  .accomodationWrap
+  .accomodationForm
+  .leftForm
+  .checkInCheckOut
+  .t-mobile-heading,
+.request-a-proposal-form
+  .sectionFormWrap
+  .formWrap
+  .calenderWrap
+  .checkInCheckOut
+  .t-mobile-heading {
+  z-index: 99991 !important;
+}
+.soldOutDate.closedHotel::before {
+  content: "";
+  background: url(https://www.oberoihotels.com/images/oberoihotels/cross-icon.png?v=10) left top no-repeat;
+  background-size: 100%;
+  width: 62%;
+  position: absolute;
+  height: 80%;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.soldOutDate.closedHotel::after {
+  content: "";
+}
+.threeVideo-image-gallery .slick-prev,
+.threeVideo-image-gallery .slick-next {
+  width: 40px;
+  height: 40px;
+}
+.experiences .experiences-wraper .text-container .cta-box a.style3 {
+  padding-left: 0 !important;
+}
+.oberoiRooms .cta-box a.style3 {
+  color: #6ab8d9;
+  padding-left: 0 !important;
+}
+
+@media only screen and (min-width: 1920px) {
+  /* nps starts */
+  .new-survey-wrapper .survey-box-2 ul {
+    width: 63%;
+  }
+
+  /* nps ends */
+}
+
+@media only screen and (min-width: 1920px) {
+  .wellness-pop-up-Bg {
+    padding: 140px 0 !important;
+  }
+  .wellness-pop-up-Bg .close-btn-wellness-pop-up {
+    right: 20px;
+    top: 14px;
+  }
+
+  .spa-wellnes-marketing-asset-wrapper {
+    top: 620px;
+  }
+  .templateSpaandWellnessListingPage.hotel-pages
+    .spa-wellnes-marketing-asset-wrapper {
+    top: 510px;
+  }
+}
+
+@media only screen and (min-width: 1159px) and (max-width: 1300px) {
+  .new-survey-wrapper .survey-box-2 ul {
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 1025px) {
+  .menu-container .main-menu > li > a {
+    padding: 8px 40px !important;
+    font-size: 1em !important;
+  }
+}
+
+@media only screen and (min-width: 1199px) {
+  .availability-cta .boxColumn.cruiseEmbarkationDatePopUP {
+    width: 520px;
+  }
+  .availability-cta .boxColumn.bEnginepopUp.cruiseEmbarkationDatePopUP {
+    top: 39%;
+  }
+  #header .availability-cta .boxColumn {
+    width: 520px;
+  }
+  .bookingEnginePopOverlay .close.cruiseEmbrClose {
+    top: 42%;
+  }
+  .hotelChooseChildInfoWrap .hotelChooseChildInfoDetailsRow ul li {
+    white-space: nowrap;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .experiences .experiences-wraper .text-container .cta-box a.style3 {
+    padding-left: 20px !important;
+  }
+  .oberoiRooms .cta-box a.style3 {
+    color: #6ab8d9;
+    padding-left: 20px !important;
+  }
+
+  .alliance-partners-section-component .three-image-gallery .slider-div {
+    padding: 0;
+  }
+  .alliance-partners-section-component .three-image-gallery .slick-slide {
+    margin: 0;
+  }
+  .awards .award-column {
+    border: none;
+  }
+
+  .book-online-main-wrapper
+    .main-offer-box-wrapper
+    .oberoi-one-box-offer
+    .oberoi-one-offer-details
+    ul
+    li
+    img {
+    margin-right: 0 !important;
+  }
+  .destination-component-col2 {
+    margin-top: 20px;
+  }
+  .our-hotel-and-office
+    .hotel-info-box
+    .hotel-dtls
+    .h-details-box
+    li
+    span.h-heading {
+    width: 25%;
+    font-size: 13px;
+  }
+  .our-hotel-and-office
+    .hotel-info-box
+    .hotel-dtls
+    .h-details-box
+    li
+    span.h-details {
+    width: 74%;
+    font-size: 13px;
+  }
+  .distance-and-flying-time tr td {
+    min-width: 148px;
+    padding: 5px !important;
+  }
+  .menu-container {
+    height: 170%;
+  }
+  .buttonStyle-blue {
+    margin-top: 20px;
+  }
+  .award-details .awards-container .award-col {
+    width: 100%;
+    min-height: 100% !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    margin-bottom: 10px;
+  }
+  .filter-component .filters-sub-category-list {
+    width: 65%;
+  }
+  .bodyWrapMobile .descriptionSec .contact-details .cta-box a.style3 {
+    max-width: 202px;
+  }
+  .cookie-settings-wrapper {
+    width: 100%;
+  }
+  .contact-us-toll-free .contact-info span a {
+    font-size: 12px !important;
+  }
+  /* global wellness starts */
+}
+.global-wellness-day-wrapper .image-text-component-style1 .img-colm {
+  width: 100%;
+}
+.global-wellness-day-wrapper .image-text-component-style1 .text-colm {
+  width: 100%;
+  padding: 10px;
+}
+/* global wellness ends */
+.banner-and-booking-widget {
+  top: -5px !important;
+}
+
+.bookingFormForMeetingAndEvents .formBoxWrapper #mblNumber {
+  padding-left: 110px !important;
+}
+.bookingFormForMeetingAndEvents
+  .formBoxWrapper
+  .formField
+  .column.mobileField
+  .meeting-events-field-label {
+  left: 110px !important;
+}
+/*thank you page css starts*/
+.venue-details .btn-style2.venue-btn-style2.active {
+  background-image: none !important;
+}
+.request-a-proposal-form .timelineWrap ul li span {
+  left: 35px !important;
+}
+.desktop-image {
+  display: none !important;
+}
+.mobile-image {
+  display: block !important;
+}
+.global-thank-you-message {
+  padding: 10px 20px 100px 20px;
+}
+.global-thank-you-message .thanks-message-bg {
+  width: 100%;
+  margin: 0 auto;
+  line-height: 140%;
+  margin-top: 0;
+}
+.global-thank-you-message .message-box {
+  padding: 20px;
+  width: 94%;
+  float: left;
+  position: absolute;
+  z-index: 9;
+  color: #000;
+  font-size: 16px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(255, 255, 255, 0.8);
+}
+.global-thank-you-message:after {
+  width: 85%;
+  height: 50%;
+  top: 20px;
+  left: 7%;
+}
+
+/*thank you page css ends*/
+.global-offers .image-text-block-style1 .text-block .text-block-duration {
+  display: none;
+}
+footer .footer-container .column .newsletter .errorMsg {
+  color: #c5c5c5;
+}
+.heading-component > p {
+  max-width: 100% !important;
+}
+.air-txt .air-quality {
+  max-width: 500px !important;
+  width: 500px !important;
+  top: 308px !important;
+  position: fixed !important;
+  right: auto !important;
+  left: 50% !important;
+  transform: translate(-50%, -50%);
+}
+
+.bodyWrapMobile .offers .cta-box a.style1,
+.bodyWrapMobile .destination .cta-box a.style1,
+.bodyWrapMobile .experiences .cta-box a.style3,
+.bodyWrapMobile .cta-box a.style1,
+.bodyWrapMobile .cta-box a.style3,
+.bodyWrapMobile .cta-box a.style4,
+.bodyWrapMobile .image-text-block-style1 .text-block .btn-style1,
+.bodyWrapMobile .btns-list a.btn-style1 {
+  padding: 12px 24px 12px 20px !important;
+}
+/*.filter-results-list .image-text-block-style1 .text-block a.btn-style1{padding-left: 0 !important;}*/
+.featured-list .image-text-block-style1 .text-block .btn-style1 {
+  padding-left: 0 !important;
+}
+.rooms-suites-page
+  .image-text-component-style1
+  .text-colm
+  .btns-list
+  a.btn-style1 {
+  padding-left: 0 !important;
+}
+/* oberoi select new assets starts */
+.oberoi-select-marketing-select-wrapper .oberoi-select-marketing-select-box {
+  width: 100%;
+  float: left;
+  display: block;
+  background-size: cover;
+  padding: 40px 20px;
+}
+
+.offers-slide .slide-text-box .cta-box a.style1 {
+  padding-left: 0 !important;
+}
+.oberoi-select-marketing-select-wrapper
+  .oberoi-select-marketing-select-box
+  .obr-select-logo {
+  width: 100%;
+  float: left;
+}
+.oberoi-select-marketing-select-wrapper
+  .oberoi-select-marketing-select-box
+  .oberoi-select-marketing-content-box {
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+.oberoi-select-marketing-select-wrapper
+  .oberoi-select-marketing-select-box
+  .know-more-button {
+  width: 60%;
+  float: left;
+  margin-left: 20%;
+}
+.oberoi-select-marketing-select-wrapper {
+  margin-top: 40px;
+}
+/* oberoi select new assets ends */
+
+.form-wellness-box-wrapper .row100Per .col-33 {
+  width: 100%;
+}
+
+/* wellnes pop up */
+
+.wellness-form-field-box .t-datepicker-day {
+  top: 0 !important;
+  left: 0 !important;
+}
+.spa-wellnes-marketing-asset-wrapper .spa-wellness-offer-image h2 {
+  width: 50%;
+}
+.bodyWrapMobile.body-en.templateGenericPage.hotel-pages
+  .banner-component-style1 {
+  margin-bottom: 30px;
+}
+.spa-wellnes-marketing-asset-wrapper {
+  position: static;
+  width: 100%;
+  z-index: 9;
+  display: block;
+  padding: 10px;
+  float: left;
+  margin-bottom: 50px;
+  box-shadow: 0px 5px 25px 0px rgb(0 0 0 / 15%);
+}
+.spa-wellnes-marketing-asset-wrapper .spa-wellness-offer-image {
+  width: 100%;
+}
+.spa-wellnes-marketing-asset-wrapper .pop-up-cta {
+  width: 100%;
+  float: right;
+}
+.spa-wellnes-marketing-asset-wrapper .spa-wellnes-small-banner-image {
+  width: 100%;
+}
+.spa-wellnes-marketing-asset-wrapper .pop-up-cta .spa-button {
+  margin-top: 0;
+  float: left;
+  margin-left: 25%;
+}
+
+.wellness-pop-up-Bg {
+  padding: 100px 0 10px 0 !important;
+}
+.new-offer-slider-box .new-offer-details {
+  width: 33.33%;
+  float: left;
+  text-align: center;
+  min-height: 186px;
+  padding: 20px;
+}
+.wellness-pop-up-main-wrapper {
+  width: 96% !important;
+  top: 53% !important;
+  height: auto;
+}
+
+.wellness-pop-up-Bg .close-btn-wellness-pop-up {
+  right: 7px;
+  top: 13px;
+}
+
+.wellness-pop-up-main-wrapper .wellness-form-wrapper {
+  padding-top: 20px;
+  max-height: 550px !important;
+  overflow-y: auto;
+}
+.wellness-pop-up-main-wrapper .wellness-form-wrapper p {
+  padding: 0 20px !important;
+}
+
+/* wellnes pop up  ends */
+
+/* new nps starts */
+
+.new-survey-wrapper .survey-box-1 .survey-desc {
+  width: 100%;
+}
+.survey-quiz .error-message-nps {
+  margin-top: 20px;
+}
+.new-survey-wrapper .survey-box-2 {
+  width: 100%;
+  padding: 10px;
+  margin-left: 0;
+}
+input.answer-text-box {
+  width: 70%;
+  left: 20%;
+  font-size: 15px;
+}
+.new-survey-wrapper {
+  width: 100%;
+  position: static;
+}
+
+.new-survey-wrapper .survey-box-2 ul {
+  width: 100%;
+  margin: 0 0 0 5%;
+}
+.new-survey-wrapper .survey-box-2 ul li {
+  margin-right: 10px;
+  padding: 7px 6px;
+  width: 12%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.new-survey-wrapper .survey-box-2 ul li:nth-child(7) {
+  margin-left: 20px;
+}
+
+.new-survey-wrapper .survey-box-2 ul li span {
+  left: -8px;
+  font-size: 12px;
+}
+/* new nps ends */
+
+.offer-arrow-button {
+  display: none !important;
+}
+.form-button .btn-style2.submit-btn.btn-contact-us {
+  color: #d57600 !important;
+}
+.query-form .query-form-heading span:after {
+  right: 25px !important;
+}
+.new-offer-slider-box .new-offer-details {
+  width: 33.33%;
+  float: left;
+  text-align: center;
+  min-height: 186px;
+  padding: 20px;
+}
+
+.new-offer-slider-box .new-offer-details.cenetrallyaligned-items {
+  margin-left: 0;
+}
+
+.new-offer-slider-box .new-offer-details.slick-slide img {
+  width: auto;
+  display: inline-block;
+}
+
+.new-offer-slider-box .slick-prev {
+  left: 0;
+  background: #d8d8d8;
+  width: 30px !important;
+  height: 30px !important;
+  z-index: 9;
+}
+
+.new-offer-slider-box .slick-prev:before {
+  content: "";
+  height: 8px;
+  width: 8px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  border-top: 2px solid #fff;
+  border-left: 2px solid #fff;
+  transform: rotate(-45deg);
+}
+.new-offer-slider-box .slick-next {
+  right: 0;
+  background: #d8d8d8;
+  width: 30px !important;
+  height: 30px !important;
+  z-index: 9;
+}
+.new-offer-slider-box .slick-next:before {
+  content: "";
+  height: 8px;
+  width: 8px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  border-top: 2px solid #fff;
+  border-right: 2px solid #fff;
+  transform: rotate(45deg);
+}
+.new-offer-slider-box .new-offer-details p {
+  padding: 0 10px;
+}
+
+.pop-up-page-disabled {
+  width: 90%;
+}
+.form-field-new-pop-up-box input[type="email"] {
+  width: 100%;
+}
+
+.form-field-new-wrapper {
+  width: 100%;
+}
+.form-field-new-wrapper .field-box .form-field-new.name-field {
+  width: 99%;
+  margin-right: 0;
+}
+.form-field-new-wrapper h3,
+.form-field-new-wrapper h2 {
+  width: 35%;
+}
+
+.christmas-marketing-assets.desk-only {
+  display: none;
+}
+.christmas-marketing-assets.mob-only {
+  display: block;
+}
+
+.right-side-menu .availability-cta .booking-engine {
+  z-index: 999999999 !important;
+}
+
+.selectEmbarkationBox .name {
+  position: relative;
+  z-index: 1;
+}
+
+@media only screen and (max-width: 1199px) {
+  .best-rate-guarantee-link {
+    margin-right: 37px;
+  }
+  .booking-engine.layout2 .offerMsgWrap {
+    position: static;
+  }
+
+  .booking-engine.layout2 .best-rate-guarantee-link {
+    top: -10px;
+  }
+
+  /* wellness pop up css starts */
+
+  .calenderBox.calenderBox1
+    .t-datepicker.calenderItem1
+    .date-label-pos.active-label {
+    display: none;
+  }
+  .calenderBox.calenderBox1
+    .t-datepicker.calenderItem2
+    .date-label-pos.active-label {
+    display: none;
+  }
+
+  span.wellnes-book-now-button {
+    padding-right: 20px;
+  }
+  span.wellnes-book-now-button:before {
+    right: 5px;
+  }
+  .wellness-pop-up-main-wrapper {
+    width: 98%;
+    top: 35%;
+  }
+  .wellness-pop-up-main-wrapper .wellness-form-wrapper {
+    padding-top: 20px;
+    max-height: 350px;
+    overflow-y: auto;
+  }
+  .form-wellness-box-wrapper .row100Per .col-40,
+  .form-wellness-box-wrapper .row100Per .col-20,
+  .form-wellness-box-wrapper .row100Per .col-50 {
+    width: 100%;
+  }
+  .form-wellness-box-wrapper .row100Per .col-15 {
+    width: 25%;
+  }
+  .form-wellness-box-wrapper .row100Per .col-35 {
+    width: 75%;
+  }
+  .form-wellness-box-wrapper .row100Per .col-85 {
+    width: 96%;
+  }
+  .form-wellness-box-wrapper
+    .row100Per
+    .col-15
+    .wellness-form-field-box
+    .submit-button-wellnes-box {
+    width: 100px;
+    margin-top: 0px;
+  }
+  .form-wellness-box-wrapper .row100Per.form-coloumns-2 {
+    width: 88%;
+    margin-left: 5%;
+  }
+  .wellness-form-field-box .t-datepicker {
+    max-width: 100%;
+  }
+
+  /* wellness pop up css ends   */
+}
+
+@media only screen and (max-width: 991px) {
+  .bodyWrapMobile .destination .selectedCountry.actv-fltr {
+    background: url(https://www.oberoihotels.com/images/oberoihotels/destination/drop-down-arrow-up.png) 92%
+      center no-repeat !important;
+  }
+  header .header-logo-unit.sm-logo img {
+    max-width: 100% !important;
+  }
+  .best-rate-guarantee-link {
+    margin-right: 0px;
+    text-align: center;
+    margin-top: 0px;
+  }
+  .c-main-wrap .c-col {
+    min-width: 222px !important;
+  }
+  .hotelChooseChildInfoWrap {
+    width: 100%;
+  }
+  .hotelChooseChildInfoCloseBtn {
+    top: 20px;
+  }
+  .hotelChooseChildInfoWrap .hotelChooseChildInfoDetailsRow ul li {
+    padding: 2px;
+    font-size: 14px;
+  }
+  .hotelChooseChildInfoWrap .hotelChooseChildInfoDetails p {
+    line-height: 120% !important;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  header .header-right-unit .right-side-menu ul li.o-one-menu-wrap {
+    display: none !important;
+  }
+  .banner-and-booking-widget .banner.udaivilas-banner {
+    min-height: auto !important;
+  }
+  .bodyWrapMobile .descriptionSec .contact-details .cta-box a.style3 {
+    width: 30% !important;
+    text-align: center;
+    float: left;
+  }
+  .bodyWrapMobile .descriptionSec .contact-details .cta-box a.style4 {
+    width: 30%;
+    float: left;
+    text-align: center;
+  }
+  .bodyWrapMobile .descriptionSec .contact-details .cta-box a.style3:after {
+    right: 30%;
+  }
+  .oberoiRooms .cta-box a {
+    width: 33% !important;
+    float: left;
+    text-align: center;
+  }
+  .oberoiRooms .cta-box {
+    margin-top: 18px;
+    width: 100%;
+  }
+  .image-text-component-style1 {
+    margin-bottom: 15px;
+  }
+  .share-component {
+    right: 65px;
+  }
+  .venue-details .btn-style2.venue-btn-style2.active {
+    background-image: none !important;
+  }
+  .request-a-proposal-form .timelineWrap ul li span {
+    left: 35px !important;
+  }
+  header .header-logo-unit img {
+    max-width: 100% !important;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+  .cookie-box-wrapper {
+    bottom: 40px;
+  }
+  .cookie-consent-text {
+    text-align: center;
+    width: 65%;
+    margin-left: 5%;
+  }
+  .cookie-buttons-wrapper {
+    width: auto;
+    margin-right: 0;
+    margin-left: 7%;
+  }
+  /* wellness pop up css starts */
+  .banner-and-booking-widget .banner.udaivilas-banner {
+    min-height: auto !important;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .air-txt .air-quality {
+    max-width: 96% !important;
+  }
+  .contact-us-toll-free .contact-info span {
+    display: block !important;
+  }
+  .captcha-field-container {
+    width: 100%;
+  }
+  .captcha-field-container .captcha-image {
+    width: auto !important;
+  }
+  .booking-engine-ev.exotic-vacation
+    #sendUsYourQuery
+    .viewAvailabilityButtonEV {
+    min-width: 90px;
+    text-align: center;
+  }
+
+  #dvsuccessfeedback {
+    width: 90% !important;
+    padding: 30px !important;
+  }
+  #dvsuccessfeedback .closse-button {
+    font-size: 13px;
+    padding: 3px 7px;
+  }
+  .omo-banner-slider .slick-prev {
+    left: 0;
+  }
+  .omo-banner-slider .slick-next {
+    right: 0;
+  }
+
+  .offers {
+    padding-bottom: 0 !important;
+  }
+  .cookie-settings-wrapper {
+    width: 99%;
+    max-height: 450px;
+    overflow-y: auto;
+  }
+  .settings-detail .settings-type-wrapper .settings-type {
+    width: 100%;
+  }
+  .covid-band-main-wrapper-box .close-covid-band {
+    top: 90px;
+  }
+  .safety-hygeine-box-default {
+    top: 90px;
+  }
+  .hotel-pages .covid-band-main-wrapper-box .close-covid-band {
+    top: 90px;
+  }
+  .new-info-slides .information-label:after {
+    right: 16%;
+  }
+
+  .cookie-box-wrapper {
+    padding: 10px;
+    bottom: 40px;
+  }
+  .cookie-box-copy-and-buttons {
+    display: block;
+  }
+  .cookie-consent-text {
+    width: 100%;
+    text-align: center;
+    margin-left: 0;
+  }
+  .cookie-consent-text {
+    width: 100%;
+    padding-left: 0;
+    margin-left: 0;
+  }
+  .cookie-buttons-wrapper {
+    width: 100%;
+    margin-bottom: 10px;
+    margin-left: 1%;
+  }
+  .cookie-buttons-wrapper .button-box {
+    width: 48%;
+    font-size: 12px;
+    float: none;
+    margin: 0 auto;
+  }
+
+  .home-page-link .cookie-buttons-wrapper .button-box {
+    width: 46%;
+    font-size: 12px;
+    float: none;
+    margin: 0 auto;
+  }
+
+  .home-page-link span.award-txt {
+    font-size: 16px;
+  }
+  .desktop-visible-only {
+    display: block !important;
+  }
+  .dekstop-hidden-only {
+    display: block !important;
+  }
+  /* global marketing assets */
+  .oberoi-book-direct-marketing-assets-box {
+    width: 100%;
+  }
+  .oberoi-best-rate-guarantee-marketing-assets-box {
+    width: 100%;
+    padding: 20px 0;
+    margin: 20px 0;
+    border-left: none;
+    border-right: none;
+    border-top: 1px solid #e7d497;
+    border-bottom: 1px solid #e7d497;
+  }
+  .oberoi-one-marketing-assets-box {
+    width: 100%;
+  }
+  .oberoi-one-marketing-assets-box .oberoi-one-offer-details-markting-assets {
+    width: 100%;
+  }
+  .oberoi-one-marketing-assets-box
+    .oberoi-one-offer-details-markting-assets
+    ul {
+    margin-top: 20px;
+  }
+  .oberoi-one-marketing-assets-box
+    .oberoi-one-offer-details-markting-assets
+    ul
+    li {
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin-right: 0;
+  }
+  .oberoi-one-marketing-assets-box
+    .oberoi-one-offer-details-markting-assets
+    ul
+    li
+    img {
+    display: inline-block;
+  }
+
+  .oberoi-one-offer-details-markting-assets ul button.slick-prev.slick-arrow {
+    position: absolute;
+    content: "";
+    left: 5px;
+    height: 40px;
+    z-index: 999;
+    background: #ccc !important;
+    width: 40px;
+  }
+
+  .oberoi-one-offer-details-markting-assets ul button.slick-next.slick-arrow {
+    position: absolute;
+    content: "";
+    right: 0px;
+    height: 40px;
+    background: #ccc !important;
+    z-index: 999;
+    width: 40px;
+  }
+
+  .oberoi-one-offer-details-markting-assets
+    ul
+    button.slick-prev.slick-arrow:before {
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-top: 2px solid #000;
+    border-left: 2px solid #000;
+    top: 55%;
+    left: 45%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+  }
+
+  .oberoi-one-offer-details-markting-assets
+    ul
+    button.slick-next.slick-arrow:before {
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-top: 2px solid #000;
+    border-right: 2px solid #000;
+    top: 55%;
+    right: 45%;
+    transform: rotate(45deg) translate(-50%, -50%);
+    border-left: none;
+  }
+  .oberoi-one-marketing-assets-box
+    .oberoi-one-offer-details-markting-assets
+    ul
+    li
+    p {
+    padding: 0 40px;
+  }
+
+  /* global marketing assets ends */
+
+  .marketing-asset-offer-section.homePageStyle
+    .marketing-asset-limited-preiod-offer {
+    width: 100% !important;
+  }
+  .bodyWrapMobile
+    .marketing-asset-offer-section.homePageStyle
+    #divHomePageAddClass {
+    width: 100% !important;
+  }
+  .marketing-asset-offer-section #divHomePageAddClass {
+    width: 100% !important;
+  }
+  .marketing-asset-offer-section.marketing-asset-img {
+    padding: 0px;
+  }
+  .marketing-asset-offer-section .marketing-asset-limited-preiod-offer {
+    width: 100% !important;
+  }
+
+  .camera-icon-click {
+    position: absolute;
+    top: 24%;
+    left: 55%;
+    width: 35px;
+    transform: translate(-50%, -50%);
+  }
+  .covid-band {
+    width: 230px !important;
+  }
+  .covid-band:after {
+    right: 38px !important;
+  }
+  .covid-update-info-wrapper {
+    top: 135px !important;
+    width: 230px !important;
+  }
+  .button-label-o-one,
+  .button-label-register {
+    font-size: 12px;
+    width: 40%;
+    text-align: left;
+    line-height: 150%;
+    position: static;
+  }
+  /* vaccinated people */
+
+  .ohr-vaccinated-content-wrapper {
+    display: block;
+    padding: 10px;
+  }
+
+  .ohr-vaccinated-content-wrapper {
+    display: block;
+    padding: 10px;
+    float: left;
+  }
+  .ohr-vaccinated-content-wrapper ul li {
+    float: left;
+    width: 50%;
+    text-align: center;
+    padding: 0 20px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+  }
+
+  .ohr-vaccinated-content-wrapper ul li h3 {
+    line-height: 130%;
+  }
+
+  .emp-vaccinated-box-wrapper {
+    width: 100%;
+    float: left;
+  }
+  .ohr-vaccinated-content-wrapper .img-box {
+    width: 100%;
+    margin-left: 0;
+    text-align: center;
+  }
+  .ohr-vaccinated-content-wrapper .img-box img {
+    width: 30%;
+  }
+  /* vaccinated people */
+
+  .banner div .banner-image .headerBannerWrapper > a {
+    text-shadow: none !important;
+  }
+
+  .banner div .banner-image .headerBannerWrapper {
+    margin-bottom: 30px;
+  }
+
+  /* marketing assets new for home page */
+  .new-marketing-assets-home-page .book-direct-logo {
+    width: 100%;
+    text-align: center;
+  }
+  .new-marketing-assets-home-page ul.marking-assets-list-offers {
+    width: 100%;
+    margin-left: 0;
+  }
+  .new-marketing-assets-home-page ul.marking-assets-list-offers li {
+    width: 50%;
+    margin-top: 20px;
+    padding: 10px;
+  }
+  .marketing-offers-wrapper .assets-icon-box {
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    float: left;
+  }
+  .marketing-assets-offers-page .marketing-assets-image-box {
+    width: 100%;
+    margin-top: 0;
+  }
+  .marketing-offers-wrapper {
+    display: block;
+    align-items: center;
+    float: left;
+  }
+  .marketing-offers-wrapper .assets-content-box {
+    text-align: center;
+    width: 100%;
+    padding: 10px 0 0 0;
+    float: left;
+    margin-left: 0;
+  }
+  .marketing-offers-wrapper .assets-icon-box {
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    float: left;
+  }
+  .marketing-offers-wrapper .assets-icon-box a img {
+    border-radius: 0;
+  }
+
+  .marketing-offers-wrapper .assets-content-box p {
+    font-size: 13px !important;
+  }
+
+  /* marketing assets new finish for home page */
+
+  .offersBookingInfoBox .offersBookingInfoCol {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .offersBookingInfoBox .offersBookingInfoCol1 {
+    padding-right: 0px;
+  }
+  .offersBookingInfoBox .offersBookingInfoCol2 {
+    width: 100%;
+  }
+  .banner .text-container span {
+    display: inherit !important;
+    line-height: 100%;
+  }
+  .udaivilas-banner .text-container {
+    bottom: 140px !important;
+  }
+  .banner div .banner-image .headerBannerWrapper {
+    text-shadow: 1px 1px #000;
+  }
+
+  @media only screen and (max-width: 667px) {
+    .udaivilas-banner .text-container {
+      bottom: 100px !important;
+    }
+  }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1366px) {
+  .booking-engine
+    .noOfGuestWrap
+    .addGuestDropDown
+    .blockWrapper
+    .block
+    .roomsIndividualCount {
+    margin-bottom: 3px;
+  }
+  .booking-engine
+    .noOfGuestWrap
+    .addGuestDropDown
+    .blockWrapper
+    .block
+    .roomGuestCount
+    .childAgeWrap {
+    margin-top: 5px;
+  }
+  .booking-engine .noOfGuestWrap .addGuestDropDown {
+    padding-top: 10px;
+  }
+  .booking-engine .noOfGuestWrap .addGuestDropDown .blockWrapper .block {
+    margin-top: 5px;
+  }
+  .booking-engine
+    .noOfGuestWrap
+    .addGuestDropDown
+    .blockWrapper
+    .block
+    .roomGuestCount
+    .childAgeWrap
+    .label {
+    margin-bottom: 2px;
+  }
+  .booking-engine .noOfGuestWrap .addGuestDropDown .actionWrap .actionButton {
+    padding: 5px 0px;
+  }
+}
+
+@media only screen and (min-width: 1025px) {
+  .deskOnlyDisplay {
+    display: block;
+  }
+
+  .mo-menu-conatiner .mo-menu-tab ul li,
+  .menu-container .main-menu .menu-hdng {
+    margin-bottom: 8px !important;
+  }
+
+  .mo-menu-conatiner .main-menu .menu-list > li {
+    margin-bottom: 5px !important;
+  }
+
+  .menu-container .main-menu .menu-level-1 {
+    padding-bottom: 15px !important;
+  }
+  .menu-container .main-menu > li > a {
+    padding: 8px 40px !important;
+  }
+}
+
+@media only screen and (min-width: 1199px) {
+  header .header-right-unit .right-side-menu .c-main-wrap {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  header .header-right-unit .right-side-menu .c-main-wrap .c-col.c-month-col {
+    width: 20%;
+  }
+
+  header .header-right-unit .right-side-menu .c-main-wrap .c-col {
+    width: 40%;
+  }
+
+  /*.award-details .award-col{
+      margin-right: 3%;
+    }*/
+
+  /*.award-details .award-col, .award-details .award-col:nth-child(3n){
+    margin-right: 3% !important;
+    }*/
+  .destination-component .destination-component-col1 {
+    width: 47% !important;
+  }
+  .destination-component .destination-component-col2 {
+    width: 53% !important;
+  }
+}
+
+@media only screen and (min-width: 1561px) and (max-width: 1680px) {
+  .c-main-wrap .c-date-col-2 {
+    padding: 8px 0;
+  }
+
+  .c-main-wrap .c-col-txt {
+    padding: 8px 10px;
+  }
+}
+
+@media only screen and (min-width: 1199px) and (max-width: 1560px) {
+  header .header-right-unit .right-side-menu .c-main-wrap .c-date-col-2 {
+    padding: 5px 0;
+  }
+
+  header
+    .header-right-unit
+    .right-side-menu
+    .c-main-wrap
+    .c-col.c-month-col
+    .c-col-txt {
+    padding: 5px 10px;
+  }
+
+  header .header-right-unit .right-side-menu .c-main-wrap .c-col-txt {
+    font-size: 12px;
+    padding: 5px 10px;
+  }
+
+  header .header-right-unit .right-side-menu .c-main-wrap .c-date {
+    margin-bottom: 0;
+    font-size: 11px;
+  }
+
+  header .header-right-unit .right-side-menu .c-main-wrap .c-nav {
+    padding: 5px 10px;
+  }
+
+  header .header-right-unit .right-side-menu .c-main-wrap .c-nxt,
+  header .header-right-unit .right-side-menu .c-main-wrap .c-prv {
+    top: 5px;
+  }
+}
+
+@media only screen and (max-width: 1199px) {
+  .c-main-wrap {
+    top: 154px;
+  }
+  .deskOnlyDisplay {
+    display: none !important;
+  }
+
+  .menu-container .main-menu > li.mobMenuDisplay {
+    display: block;
+  }
+  .banner-and-booking-widget .banner.udaivilas-banner {
+    min-height: auto;
+  }
+}
+
+.c-main-wrap .mCSB_scrollTools,
+.c-main-wrap .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+  width: 0;
+}
+
+.c-main-wrap .mCSB_inside > .mCSB_container {
+  margin-right: 5px;
+}
+
+@media only screen and (max-width: 991px) {
+  .booking-engine .checkInCheckOut .datesWrap .label,
+  .booking-engine.layout2 .checkInCheckOut .datesWrap .label,
+  .booking-engine.reverse .checkInCheckOut .datesWrap .label {
+    color: #000 !important;
+  }
+  .c-main-wrap {
+    width: 100%;
+    background: #fff;
+    overflow-x: hidden;
+    position: absolute;
+    padding: 0;
+    max-width: 100%;
+    left: 0;
+    padding: 0 10px;
+    height: 75%;
+    overflow-y: auto;
+  }
+
+  .c-main-wrap .c-main-container {
+    width: 100%;
+    overflow-x: scroll;
+    background: #fff;
+    padding-left: 30%;
+    margin-bottom: 80px;
+  }
+
+  .c-main-wrap .c-col.c-month-col {
+    width: 31%;
+    min-width: 30% !important;
+    position: absolute;
+    left: 0;
+    z-index: 9;
+    background: #fff;
+  }
+
+  .c-main-wrap .c-col {
+    min-width: 185px;
+    min-height: 46px;
+    width: 50%;
+  }
+
+  .c-main-wrap .c-row {
+    border-bottom: none;
+  }
+
+  .c-main-wrap .c-col.c-month-col {
+    border: 1px solid #a3a3a3;
+    border-bottom: none;
+    margin-top: -1px;
+  }
+
+  .c-main-wrap .c-offer-night-row {
+    height: 100%;
+  }
+
+  .c-main-wrap .c-col,
+  .c-main-wrap .c-offer-night-col {
+    border-right: none;
+  }
+
+  .c-main-wrap .c-offer-col {
+    border-right: 1px solid #a3a3a3;
+    border-bottom: 1px solid #a3a3a3;
+  }
+
+  .c-main-wrap .c-date-col-2,
+  .c-main-wrap .c-offer-night-col {
+    border-right: 1px solid #a3a3a3;
+  }
+
+  .c-main-wrap .c-row:first-child .c-col.c-month-col {
+    border-top: 0;
+    margin-top: 0.2px;
+  }
+
+  .c-main-wrap
+    .dynamic-cruise-calendar-data
+    .c-row:nth-child(12n)
+    .c-col.c-month-col {
+    border-bottom: 1px solid #a3a3a3;
+    padding-bottom: 12px;
+  }
+
+  .c-main-wrap
+    .dynamic-cruise-calendar-data
+    .c-row:first-child
+    .c-col.c-month-col {
+    border-top: 1px solid #a3a3a3;
+    margin-top: -1px;
+  }
+
+  .c-main-wrap .c-date {
+    font-size: 11px;
+    width: 20px;
+    margin-right: 4px;
+  }
+
+  .c-main-wrap .c-prv {
+    left: 10px;
+  }
+
+  .c-main-wrap .c-nxt {
+    right: 10px;
+  }
+
+  .c-main-wrap .c-done-btn-mob {
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background: #d8741b;
+    border-radius: 50%;
+    color: #fff;
+    right: 0;
+    font-size: 14px;
+    font-weight: 700;
+    position: absolute;
+    left: 50%;
+    bottom: 43px;
+    transform: translate(-50%, 0);
+    z-index: 10000;
+    box-shadow: 0 5px 25px 0 rgba(0, 0, 0, 0.25);
+    display: block;
+    width: 50px;
+    cursor: pointer;
+  }
+
+  header .header-right-unit .right-side-menu .c-main-wrap .yearWrap a {
+    padding: 0;
+  }
+  .menu-container .main-menu > li .menu-level-1 .menu-list {
+    position: fixed;
+    top: 0px;
+  }
+  .menu-container .main-menu > li .menu-level-1 {
+    position: fixed;
+    top: 158px;
+    left: 0px;
+  }
+
+  .mo-menu-conatiner.menu-container .main-menu .menu-list > li a {
+    padding: 8px 24px;
+  }
+  .menu-container.mo-menu-conatiner {
+    padding-bottom: 20px;
+  }
+
+  .itineraries .itineraries-container .tab-con .night-selection ul li {
+    position: relative;
+  }
+
+  .itineraries
+    .itineraries-container
+    .tab-con
+    .night-selection
+    ul
+    li
+    input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+  }
+  .itineraries
+    .itineraries-container
+    .tab-con
+    .night-selection
+    ul
+    li
+    label:before {
+    content: " ";
+    display: inline-block;
+    position: relative;
+    margin-right: 6px;
+    top: 3px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    border: 1px solid #8d8d8c;
+    background-color: transparent;
+  }
+  .itineraries
+    .itineraries-container
+    .tab-con
+    .night-selection
+    ul
+    li
+    input:checked
+    + label:before {
+    border-color: #0075ff;
+  }
+  .itineraries
+    .itineraries-container
+    .tab-con
+    .night-selection
+    ul
+    li
+    input:checked
+    + label:after {
+    border-radius: 50%;
+    width: 6px;
+    height: 6px;
+    position: absolute;
+    top: 8px;
+    left: 4px;
+    content: " ";
+    display: block;
+    background: #0075ff;
+  }
+  .itineraries .content-section .bottom-section i.fa {
+    display: block;
+  }
+  .itineraries .content-section .cta-box {
+    text-align: left;
+  }
+}
+
+@media only screen and (min-width: 991px) {
+  .covid-band {
+    top: 116px;
+  }
+
+  .covid-update-info-wrapper {
+    top: 159px;
+  }
+
+  .booking-engine .hotelName .hotelListDropDown,
+  .booking-engine .noOfGuestWrap .addGuestDropDown {
+    z-index: 12 !important;
+  }
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1280px) {
+  .menu-container .main-menu > li > a {
+    padding: 9px 40px !important;
+  }
+  .mo-menu-conatiner .mo-menu-tab ul li,
+  .menu-container .main-menu .menu-hdng {
+    margin-bottom: 4px !important;
+  }
+  .mo-menu-conatiner .mo-menu-tab {
+    margin-bottom: 5px !important;
+  }
+  .mo-menu-conatiner .main-menu .menu-list > li {
+    margin-bottom: 3px !important;
+  }
+}
+@media screen and (max-width: 1024px) {
+  body.templateNewOfferPage {
+    padding-top: 75px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .mo-destination-component
+    .mo-mandarin-destination-tab-details-wrap
+    .destinationTab
+    .selectedCountry.actv {
+    background: url(https://www.oberoihotels.com/images/oberoihotels/destination/drop-down-arrow-up.png) 92%
+      center no-repeat !important;
+  }
+  .participating-hotels-desc {
+    max-width: 340px;
+    overflow-x: scroll;
+    float: left;
+  }
+  .more-tnc-box table {
+    width: 800px !important;
+  }
+  .ohr-select-limited-period-offer-box h2 {
+    font-size: 24px;
+  }
+  .christmasBandWrapper {
+    top: 140px;
+  }
+  .bodyWrapMobile .marketing-asset-offer-section .marketing-asset-saving {
+    width: 100% !important;
+  }
+  .bodyWrapMobile
+    .marketing-asset-offer-section.homePageStyle
+    .marketing-asset-saving {
+    width: 100% !important;
+  }
+  .experiences .experiences-wraper .img-box {
+    min-height: 200px;
+  }
+  .banner-and-booking-widget .banner.udaivilas-banner {
+    min-height: auto !important;
+  }
+}
+
+@media screen and (min-aspect-ratio: 13 / 9) and (max-device-width: 991px) and (orientation: landscape) {
+  html.ipad:before {
+    display: none;
+  }
+}
+
+/* Scss Document */
+/**/
+/* screen resolutio*/
+/* mixin start*/
+.author-post-page .author-section {
+  text-align: center;
+}
+.author-post-page .author-section .author-img {
+  width: 230px;
+  margin: 0 auto;
+}
+.author-post-page .author-section .author-img img {
+  border-radius: 50%;
+  width: 100%;
+}
+.author-post-page .author-section .author-content {
+  padding: 0 20% 0 20%;
+  margin-bottom: 50px;
+  font-size: 0.9375em;
+}
+.author-post-page .author-section .author-content h1 {
+  font-size: 2.188em;
+  font-family: "EB Garamond", serif;
+  color: #000;
+  letter-spacing: 1px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: 400;
+  line-height: 100%;
+  font-style: italic;
+  padding-bottom: 20px;
+  position: relative;
+}
+.author-post-page .author-section .author-content h1 span {
+  font-style: normal;
+}
+.author-post-page .author-section .author-content h1:after {
+  width: 100px;
+  height: 1px;
+  background: #000;
+  content: "";
+  position: absolute;
+  bottom: 0px;
+  left: 50%;
+  margin-left: -50px;
+}
+@media only screen and (max-width: 360px) {
+  .new-offer-slider-box .new-offer-details {
+    min-height: 245px;
+  }
+  .tab-button {
+    width: 110px !important;
+    font-size: 15px !important;
+  }
+  .dashboard
+    .members-benefits-form-wrapper
+    .form-container
+    .form-wrapper-box
+    .form-fields
+    select {
+    background-size: auto !important;
+  }
+}
+
+/*# sourceMappingURL=author-post-page.css.map */

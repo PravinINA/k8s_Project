@@ -1,0 +1,68 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: database
+spec:
+  replicas: 1
+  selector:
+     matchLabels:
+       app: mssql
+  template:
+    metadata:
+      labels:
+        app: mssql
+    spec:
+      hostname: mssqlinst
+      terminationGracePeriodSeconds: 30
+      securityContext:
+        fsGroup: 1000
+      containers:
+      - name: mssql
+        image: mcr.microsoft.com/mssql/server:2019-latest
+        resources:
+          requests:
+            memory: "2G"
+            cpu: "2000m"
+          limits:
+            memory: "2G"
+            cpu: "2000m"
+        ports:
+        - containerPort: 1433
+        env:
+        - name: MSSQL_PID
+          value: "Developer"
+        - name: ACCEPT_EULA
+          value: "Y"
+        - name: SA_PASSWORD
+          valueFrom:
+            secretKeyRef:
+              name: sql-server-secret
+              key: SA_PASSWORD
+        volumeMounts:
+        - name: mssqldb
+          #mountPath: /data/opt/mssql
+          mountPath: /var/opt/mssql
+        - name: sql-server-certificate
+          mountPath: /var/opt/mssql/certs
+      volumes:
+      - name: mssqldb
+        persistentVolumeClaim:
+          claimName: mssql-data
+      - name: sql-server-certificate
+        secret:
+          secretName: sql-server-certificate
+
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: database
+spec:
+  selector:
+    app: mssql
+  ports:
+    - protocol: TCP
+      port: 1433
+      targetPort: 1433
+  type: LoadBalancer

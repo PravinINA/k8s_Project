@@ -1,0 +1,94 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: frontend
+  labels:
+    app: webapp
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: webapp
+  template:
+    metadata:
+      labels:
+        app: webapp
+    spec:
+      containers:
+        - name: webapp
+          #image: pravindevopsch/webapp:2.0
+          image: pravindevopsch/demoapp:2.1
+          # imagePullSecrets:
+          # - name: regcred
+          env:
+            - name: DbConnectionString
+              valueFrom:
+                secretKeyRef:
+                  # The ConfigMap containing the value you want to assign
+                  name: app-secret
+                  # Specify the key associated with the value
+                  key: SecretDbConnectionString
+            - name: REQUESTS_CA_BUNDLE
+              value: "/etc/ssl/certs/sqlserver.crt"
+            # - name: SQLSERVER_DB_HOST
+            #   value: mssqlinst
+            # - name: SQLSERVER_DB_PASSWORD
+            #   valueFrom:
+            #     secretKeyRef:
+            #       name: sql-server-secret
+            #       key: SA_PASSWORD
+            # - name: WORDPRESS_DB_USER
+            #   value: sa
+          resources:
+            limits:
+              cpu: 300m
+              memory: "3000Mi"
+            requests:
+              cpu: 100m
+              memory: "2000Mi"
+          ports:
+            - containerPort: 5000
+          volumeMounts:
+            - name: app-persistent-storage
+          #mountPath: /data/www/html
+              mountPath: /var/www/html
+
+          ####Sqlserver certificate added
+            - name: sql-server-certificate
+              mountPath: /etc/ssl/certs
+              readOnly: true
+            
+      volumes:
+        - name: app-persistent-storage
+          persistentVolumeClaim:
+            claimName: wp-pv-claim
+
+      ######sqlservercertificate volume attached.
+        - name: sql-server-certificate
+          secret:
+            secretName: sql-server-certificate
+      # nodeSelector:
+      #           role: worker
+
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: web-service
+spec:
+  type: NodePort
+  selector:
+    app: webapp
+  ports:
+    - protocol: TCP
+      port: 80
+      # By default and for convenience, the `targetPort` is set to
+      # the same value as the `port` field.
+      targetPort: 5000
+
+      nodePort: 30200
+  
+      # Optional field
+      # By default and for convenience, the Kubernetes control plane
+      # will allocate a port from a range (default: 30000-32767)
